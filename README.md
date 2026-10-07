@@ -1,5 +1,7 @@
 # Holotype
 
+[Open Holotype](https://xochilcahua.github.io/Holotype/) · [GitHub repository](https://github.com/xochilcahua/Holotype)
+
 Holotype helps you find something creative to try next. Rate the art forms you've practiced, and browse the rest by how familiar or new they might be to you.
 
 The catalogue has 292 art forms, from drawing and flamenco to chocolate work and pro wrestling. The Garden lets you rate and explore them. The Herbarium turns your ratings into a flower, a plant and a short profile, with lists you can save as a PDF.
