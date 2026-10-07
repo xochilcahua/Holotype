@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<!--
+  Holotype: page markup and script load order.
+  Open index.html from disk, or use dist/Holotype.html for the portable version.
+  Classic scripts run in order and share a global scope; dependencies load first.
+  See docs/architecture.md and docs/model.md for implementation details.
+
+  SPDX-License-Identifier: AGPL-3.0-or-later
+  Copyright (C) 2026 Teo Monroy
+  The name and logo have a separate policy in TRADEMARK.md.
+-->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f1efe9">
+<meta name="description" content="Rate the creative things you have done; Holotype shows what is near them, what is far, and the shape your practice makes.">
+<link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg">
+<link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+<link rel="manifest" href="assets/manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..600&display=swap" rel="stylesheet">
+<title>Holotype — find your next creative pursuit</title>
+<!-- One stylesheet per concern; tokens.css defines the custom properties the rest read. -->
+<link rel="stylesheet" href="src/styles/tokens.css">
+<link rel="stylesheet" href="src/styles/top-bar.css">
+<link rel="stylesheet" href="src/styles/wall.css">
+<link rel="stylesheet" href="src/styles/flowers.css">
+<link rel="stylesheet" href="src/styles/sliders.css">
+<link rel="stylesheet" href="src/styles/chips-panels.css">
+<link rel="stylesheet" href="src/styles/detail-sheet.css">
+<link rel="stylesheet" href="src/styles/help.css">
+<link rel="stylesheet" href="src/styles/footer.css">
+<link rel="stylesheet" href="src/styles/profile-tab.css">
+<link rel="stylesheet" href="src/styles/print.css">
+<link rel="stylesheet" href="src/styles/theme-folk.css">
+</head>
+<body>
+
+<div class="bar" id="bar">
+  <div class="brand" role="img" aria-label="Holotype">
+    <span aria-hidden="true">HOL</span><svg id="brandSvg" viewBox="0 -20.6 24 21" aria-hidden="true"><g id="brandMark"></g></svg><span aria-hidden="true">TYPE</span>
+  </div>
+  <div class="search-wrap">
+    <span class="search-icon">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </span>
+    <input id="searchInput" class="search-input" type="text" placeholder="Search art forms" autocomplete="off" aria-label="Search art forms" data-i18n-attr="placeholder|Search art forms;aria-label|Search art forms">
+    <kbd class="key-hint search-key-hint help-only">/</kbd>
+  </div>
+  <div class="view-toggle" id="viewToggle" role="tablist" aria-label="View" data-i18n-attr="aria-label|View">
+    <button role="tab" id="tabGarden" data-mode="garden" aria-selected="true" data-i18n="Garden">Garden</button>
+    <button role="tab" id="tabProfile" data-mode="profile" aria-selected="false" title="Your Herbarium (E)" data-i18n="Herbarium" data-i18n-attr="title|Your Herbarium (E)">Herbarium</button>
+  </div>
+  <div class="bar-actions">
+    <button id="filterToggle" class="pill-btn" aria-haspopup="true">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="18" x2="14" y2="18"/></svg>
+      <span data-i18n="Filters">Filters</span><span id="filterCount" class="filter-count" hidden></span>
+    </button>
+    <select id="sortSelect" class="text-select" aria-label="Sort order" data-i18n-attr="aria-label|Sort order">
+      <option value="common_desc">Most common first</option>
+      <option value="common_asc">Less common first</option>
+      <option value="novelty_asc">Closest to you first</option>
+      <option value="novelty_desc">Furthest from you first</option>
+      <option value="name_asc">A to Z</option>
+      <option value="category">By category</option>
+      <option value="tag">By tag</option>
+    </select>
+    <select id="langSelect" class="text-select lang-select" aria-label="Language" data-i18n-attr="aria-label|Language;title|Language" title="Language"></select>
+    <button id="themeToggle" class="icon-btn" title="Light or dark (T)" aria-label="Switch light or dark" data-i18n-attr="title|Light or dark (T);aria-label|Switch light or dark"></button>
+    <button id="settingsToggle" class="icon-btn" title="Color tags (C)" aria-label="Color tags" data-i18n-attr="title|Color tags (C);aria-label|Color tags">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="13.5" cy="6.5" r="2.5"/><circle cx="19" cy="17" r="2.5"/><circle cx="6" cy="17" r="2.5"/></svg>
+    </button>
+    <button id="resetToggle" class="icon-btn" title="Start over for the next person" aria-label="Reset Holotype for the next person" data-i18n-attr="title|Start over for the next person;aria-label|Reset Holotype for the next person">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>
+    </button>
+    <button id="helpToggle" class="icon-btn" title="How Holotype works (?)" aria-label="How Holotype works" data-i18n-attr="title|How Holotype works (?);aria-label|How Holotype works" style="font-weight:600">?</button>
+  </div>
+</div>
+
+<main class="page">
+  <div id="gardenView">
+    <div id="ratedSection"></div>
+    <div class="wall-head"><span id="resultCount"></span><span id="rateHint"></span></div>
+    <div id="grid" class="grid"></div>
+  </div>
+  <div id="profileView" hidden></div>
+</main>
+
+<!-- Credit and source links. PDF exports have their own credit page. -->
+<footer class="site-footer">
+  <p class="sf-main"><b>Holotype</b><sup>&trade;</sup> &middot; <span data-i18n="Made by Teo Monroy">Made by Teo Monroy</span> &middot; &copy; 2026</p>
+  <p class="sf-sub">
+    <span data-i18n="Free software under the">Free software under the</span> <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank" rel="noopener" data-i18n="GNU AGPL v3 or later">GNU AGPL v3 or later</a>
+    <span id="sourceWrap">&middot; <a id="sourceLink" href="https://github.com/xochilcahua/Holotype" target="_blank" rel="noopener" data-i18n="Source code">Source code</a></span>
+    &middot; <span data-i18n="Contact">Contact</span>: @xochilcahua
+  </p>
+</footer>
+
+<div id="filterRoot"></div>
+<div id="modalRoot"></div>
+<div id="settingsRoot"></div>
+<div id="exportRoot"></div>
+<div id="helpRoot"></div>
+<div id="printExport"></div>
+
+<!-- Classic scripts, not ES modules: the app must keep working from file://, where
+     module imports are blocked. Order IS dependency order -- see docs/architecture.md. -->
+<script src="src/render/plant.js"></script>
+<script src="src/data/art-forms.js"></script>
+<script src="src/data/prevalence.js"></script>
+<script src="src/data/taxonomy.js"></script>
+<script src="src/model/axes.js"></script>
+<script src="src/model/distances.js"></script>
+<script src="src/model/novelty.js"></script>
+<script src="src/model/axis-copy.js"></script>
+<script src="src/model/person-space.js"></script>
+<script src="src/model/describe.js"></script>
+<script src="copy/languages.js"></script>
+<script src="src/i18n.js"></script>
+<script src="src/ui/state.js"></script>
+<script src="src/ui/tag-dimensions.js"></script>
+<script src="src/ui/theme.js"></script>
+<script src="src/ui/flower-card.js"></script>
+<script src="src/ui/controls.js"></script>
+<script src="src/ui/filters.js"></script>
+<script src="src/ui/detail.js"></script>
+<script src="src/ui/keys.js"></script>
+<script src="src/ui/color-tags.js"></script>
+<script src="src/ui/export-garden.js"></script>
+<script src="src/ui/herbarium.js"></script>
+<script src="src/model/genus-copy.js"></script>
+<script src="src/model/classification.js"></script>
+<script src="src/ui/profile-blocks.js"></script>
+<script src="src/ui/session.js"></script>
+<script src="src/ui/profile-page.js"></script>
+<script src="src/ui/print.js"></script>
+<script src="src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,875 @@
+Fiction Writing
+Escritura de ficción
+
+Poetry
+Poesía
+
+Playwriting & Screenwriting
+Dramaturgia y escritura de guiones
+
+Nonfiction & Journalism
+No ficción y periodismo
+
+Invented Languages
+Lenguas inventadas
+
+Ciphers & Hidden Messages
+Cifrados y mensajes ocultos
+
+Instruction Pieces
+Piezas de instrucción
+
+Drawing
+Dibujo
+
+Painting
+Pintura
+
+Photography
+Fotografía
+
+Graphic Design
+Diseño Gráfico
+
+Calligraphy
+Caligrafía
+
+Illustration
+Ilustración
+
+Comics
+Cómics
+
+Printmaking
+Grabado
+
+Botanical & Scientific Illustration
+Ilustración botánica y científica
+
+Collage
+Collage
+
+Graffiti & Street Art
+Graffiti y arte callejero
+
+Digital Painting
+Pintura Digital
+
+Hand-Drawn Animation
+Animación dibujada a mano
+
+Sculpture
+Escultura
+
+Micro-Sculpture
+Microescultura
+
+Ceramics & Pottery
+Cerámica y alfarería
+
+Woodworking
+Carpintería
+
+Glassblowing
+Soplado de vidrio
+
+Jewelry Making
+Fabricación de joyas
+
+Weaving
+Tejido en telar
+
+Fashion Design
+Diseño de moda
+
+Sewing & Tailoring
+Costura y sastrería
+
+Origami
+Origami
+
+Encaustic (Wax) Painting
+Pintura Encáustica (Cera)
+
+Mosaic
+Mosaico
+
+Bookbinding
+Encuadernación
+
+Miniatures & Dioramas
+Miniaturas y Dioramas
+
+Creative Taxidermy
+Taxidermia creativa
+
+Special Effects Makeup
+Maquillaje de efectos especiales
+
+Music Composition
+Composición musical
+
+Playing an Instrument
+Tocar un instrumento
+
+Singing
+Canto
+
+Musical Improvisation
+Improvisación musical
+
+Sound Design
+Diseño de sonido
+
+Mixing & Mastering
+Mezcla y masterización
+
+Foley Sound Effects
+Efectos de sonido foley
+
+Beatboxing
+Beatbox
+
+DJing
+Mezcla musical (DJ)
+
+Live Coding Music
+Música mediante programación en vivo
+
+ASMR
+ASMR
+
+Conducting
+Dirección musical
+
+Acting
+Actuación
+
+Improv Theater
+Teatro de improvisación
+
+Stand-Up Comedy
+Comedia en vivo
+
+Choreography
+Coreografía
+
+Dance
+Danza
+
+Acrobatics & Tumbling
+Acrobacia y acrobacia de suelo
+
+Stage Magic
+Magia escénica
+
+Pro Wrestling & Stage Combat
+Lucha libre profesional y combate escénico
+
+Puppetry
+Teatro de títeres
+
+Performance Art
+Arte de performance
+
+Tattooing
+Tatuaje
+
+Independent Filmmaking
+Cine independiente
+
+Directing Film & TV
+Dirección de cine y televisión
+
+Directing Theater
+Dirección de teatro
+
+Art Direction
+Dirección de Arte
+
+Video Editing
+Edición de vídeo
+
+Color Grading
+Etalonaje y corrección de color
+
+Curating
+Curaduría
+
+Video Game Design
+Diseño de videojuegos
+
+Tabletop Game Design
+Diseño de juegos de mesa
+
+Generative Art
+Arte generativo
+
+Kinetic Sculpture & Automata
+Escultura cinética y autómatas
+
+Net Art
+Arte en la red
+
+Bio Art
+Bioarte
+
+Interactive Fiction
+Ficción interactiva
+
+Product Design
+Diseño de producto
+
+UI & UX Design
+Diseño de interfaz de usuario y experiencia de usuario
+
+Cooking
+Cocina
+
+Baking & Pastry
+Panadería y pastelería
+
+Perfumery
+Perfumería
+
+Floral Design
+Diseño Floral
+
+Bonsai
+Bonsái
+
+Architecture
+Arquitectura
+
+Landscape Design
+Diseño de paisaje
+
+Ecological Art
+Arte Ecológico
+
+Land Art
+Arte del paisaje (land art)
+
+Projection Mapping & Light Art
+Mapeo de proyección y arte luminoso
+
+Sand & Ice Sculpture
+Escultura de arena y hielo
+
+Fireworks Design
+Diseño de fuegos artificiales
+
+Drone & Fountain Choreography
+Coreografía de drones y fuentes
+
+Social Practice Art
+Arte de práctica social
+
+Found Object Art
+Arte de objetos encontrados
+
+Mail Art
+Arte Correo
+
+Fictional Documents & ARGs
+Documentos ficticios y ARG
+
+Shadow Theater
+Teatro de sombras
+
+Paper Scroll Theater (Crankies)
+Teatro de rollos de papel (Crankies)
+
+Audio Walks
+Paseos con audio
+
+Field Recording & Sound Maps
+Grabación de campo y mapas de sonido
+
+Tactile Story Objects
+Objetos narrativos táctiles
+
+Blackout Poetry
+Poesía por tachado
+
+Art Conservation
+Conservación de obras de arte
+
+Body Art
+Arte corporal
+
+Stop-Motion Animation
+Animación stop-motion
+
+3D Character Animation
+Animación de personajes 3D
+
+3D Modeling & Rendering
+Modelado y renderizado 3D
+
+Instrument Making (Lutherie)
+Fabricación de instrumentos (Luteria)
+
+Embroidery
+Bordado
+
+Furniture Design
+Diseño de muebles
+
+Stained & Fused Glass
+Vitrales y vitrofusión
+
+Blacksmithing
+Herrería
+
+Papercraft
+Arte y construcción en papel
+
+Spoken Word & Rap
+Palabra hablada y rap
+
+Ventriloquism
+Ventriloquia
+
+Topiary
+Topiaria
+
+Installation Art
+Arte de instalación
+
+Book Carving
+Talla de libros
+
+Assemblage
+Ensamblaje
+
+Cinematography
+Cinematografía
+
+Music Production
+Producción musical
+
+VJing (Live Visuals)
+VJing (visuales en vivo)
+
+Japanese Tea Ceremony
+Ceremonia del té japonesa
+
+Icon Painting
+Pintura De Iconos
+
+Ritual Mandala (Sand Painting)
+Mandala ritual (pintura de arena)
+
+Falconry
+Cetrería
+
+Latte Art
+Arte del café con leche
+
+Brewing, Wine & Spirits
+Elaboración de cerveza, vinos y licores
+
+Sign Language Poetry
+Poesía en lengua de señas
+
+Leatherworking
+Trabajo en cuero
+
+Basket Weaving
+Cestería
+
+Quilting
+Confección de colchas
+
+Textile Dyeing
+Teñido Textil
+
+Stone Carving
+Talla de piedra
+
+Enameling
+Esmaltado
+
+Sign Painting
+Pintura de letreros
+
+Rigged 2D Animation
+Animación 2D con esqueletos digitales
+
+Copywriting
+Redacción
+
+Literary Translation
+Traducción literaria
+
+Puzzle & Crossword Construction
+Construcción de rompecabezas y crucigramas
+
+Speechwriting
+Redacción de discursos
+
+Concept Art
+Diseño de arte conceptual
+
+Pixel Art
+Arte de píxeles
+
+Storyboarding
+Guión gráfico
+
+Caricature
+Caricatura
+
+Editorial Cartooning
+Caricatura editorial
+
+Knitting & Crochet
+Tejido y crochet
+
+Macrame
+Macramé
+
+Beadwork
+Abalorios
+
+Candle Making
+Fabricación de velas
+
+Soap Making
+Fabricación de jabón
+
+Resin Art
+Arte de resina
+
+Metal Casting
+Fundición de metales
+
+Interior Design
+Diseño de interiores
+
+Type Design
+Diseño tipográfico
+
+Packaging Design
+Diseño de embalaje
+
+Motion Graphics
+Gráficos en movimiento
+
+Costume Design
+Diseño de vestuario
+
+Lighting Design
+Diseño de iluminación
+
+Production & Set Design
+Producción y escenografía
+
+AI & Machine Learning Art
+Arte de IA y aprendizaje automático
+
+AR/VR & Immersive Art
+AR/VR y arte inmersivo
+
+Documentary Filmmaking
+Realización de documentales
+
+Audio Drama & Radio Play Production
+Producción de dramas de audio y obras de radio
+
+Mixology (Cocktail Craft)
+Mixología (Cóctel Artesanal)
+
+Cheese Making
+Elaboración de queso
+
+Fermentation & Pickling
+Fermentación y encurtidos
+
+Cake Decorating & Sugar Art
+Decoración de pasteles y arte con azúcar
+
+Coffee Roasting
+Tostado de café
+
+Dry Stone Walling
+Muros de piedra seca
+
+Aquascaping
+Paisajismo acuático
+
+Terrarium & Vivarium Design
+Diseño de terrarios y vivarios
+
+Songwriting
+Composición de canciones
+
+Sound Bath (Gong & Singing Bowl Practice)
+Baño de sonido (práctica de gong y cuenco tibetano)
+
+Circuit Bending
+Modificación creativa de circuitos
+
+Mime
+Mimo
+
+Parkour & Freerunning
+Parkour y carrera libre
+
+Drag Performance
+Arte drag
+
+Voice Acting
+Actuación de voz
+
+Cosplay
+Cosplay
+
+Zine Making
+Creación de fanzines
+
+Yarn Bombing
+Intervenciones urbanas con tejido
+
+Letter Writing
+Escritura de cartas
+
+Freestyle & Battle Rap
+Estilo libre y rap de batalla
+
+Fresco Painting
+Pintura al fresco
+
+Airbrush Art
+Arte con aerógrafo
+
+Scratchboard
+Esgraviado sobre cartón
+
+Glitch Art
+Arte del error digital (glitch)
+
+Opera
+Ópera
+
+Music Arranging & Orchestration
+Arreglos musicales y orquestación
+
+Chiptune & Demoscene Music
+Música Chiptune y Demoscene
+
+Juggling
+Malabares
+
+Contortion
+Contorsión
+
+Burlesque
+Burlesco
+
+Musical Theater
+Teatro musical
+
+Balloon Twisting
+Globoflexia
+
+Chocolate Making & Confectionery
+Elaboración de chocolate y confitería
+
+Charcuterie & Butchery
+Charcutería y Carnicería
+
+Distilling
+Destilación
+
+Sushi Making
+Preparación de sushi
+
+Ikebana
+Ikebana
+
+Beekeeping
+Apicultura
+
+Thatching
+Techado con paja
+
+Boatbuilding
+Construcción de barcos
+
+Espalier
+Espaldera
+
+Karesansui (Japanese Dry Gardens)
+Karesansui (Jardines Secos Japoneses)
+
+Flameworking & Lampworking (Glass)
+Trabajo del vidrio a la flama
+
+Wood Turning
+Torneado de madera
+
+Silversmithing
+Platería
+
+Marquetry
+Marquetería
+
+Spinning (Fiber)
+Hilado (Fibra)
+
+Felting
+Fieltro
+
+Lace Making
+Confección de encaje
+
+Millinery
+Sombrerería
+
+Shoemaking & Cobbling
+Fabricación y reparación de calzado
+
+Horology (Watchmaking)
+Relojería
+
+Papier-Mâché
+Papel maché
+
+Paper Marbling
+Marmoleado de papel
+
+Paper Cutting (Kirigami & Scherenschnitte)
+Corte de papel (Kirigami y Scherenschnitte)
+
+Quilling
+Quilling
+
+Decoupage
+Decoupage
+
+Pyrography
+Pirografía
+
+Scrimshaw
+Scrimshaw
+
+Gilding
+Dorado
+
+Wire Wrapping
+Engaste con alambre
+
+Chainsaw Carving
+Tallado con motosierra
+
+Rug Hooking & Tufting
+Confección de alfombras con gancho y tufting
+
+Kintsugi
+Kintsugi
+
+Podcasting & Audio Storytelling
+Podcasting y narración de audio
+
+Data Visualization & Infographic Design
+Visualización de datos y diseño infográfico
+
+Guerrilla Art
+Arte Guerrillero
+
+Flash Mob Choreography
+Coreografía de Flash Mob
+
+Brick Art (LEGO & Construction Toys)
+Arte con ladrillos (LEGO y juguetes de construcción)
+
+Animal Training & Handling
+Entrenamiento y manejo de animales
+
+Visual Effects Compositing
+Composición de efectos visuales
+
+Look Development (Look Dev)
+Desarrollo de apariencia (Look Dev)
+
+Comedy & Humor Writing
+Escritura de comedia y humor
+
+Mandala Art
+Arte Mándala
+
+Analog Record Cutting (Lathe & Wax Cylinder)
+Corte de discos analógicos (torno y cilindro de cera)
+
+Vinyl Cutting & Sign Craft
+Corte de vinilo y artesanía de letreros
+
+Clothing Customization & Upcycling
+Personalización y reciclaje de ropa
+
+Aerial Arts
+Artes Aéreas
+
+Clowning
+Arte del payaso
+
+Fire Performance & Flow Arts
+Espectáculos con fuego y artes de flujo
+
+Short-Form Video & Social Content Creation
+Creación de contenidos sociales y vídeos de formato corto
+
+Flamenco
+Flamenco
+
+Mesoamerican Ritual Dance
+Danza Ritual Mesoamericana
+
+Danza de los Voladores (Flyers' Ritual)
+Danza de los Voladores
+
+Capoeira
+Capoeira
+
+Artistic Swimming
+Natación Artística
+
+Artistic Gymnastics
+Gimnasia Artística
+
+Rhythmic Gymnastics
+Gimnasia rítmica
+
+Figure Skating & Ice Dance
+Patinaje artístico y danza sobre hielo
+
+Scat Singing
+Canto scat
+
+Kabuki
+Kabuki
+
+Noh
+Noh
+
+Chinese Opera
+Ópera china
+
+Kathakali
+Kathakali
+
+Butoh
+Butoh
+
+Commedia dell'Arte
+Comedia dell'Arte
+
+Ta'ziyeh (Persian Ritual Theater)
+Ta'ziyeh (Teatro Ritual Persa)
+
+Totem Pole & Ceremonial Carving
+Tótem y talla ceremonial
+
+Ritual Mask Making
+Fabricación de máscaras rituales
+
+Sacred & Ritual Sculpture
+Escultura Sagrada y Ritual
+
+Fencing & HEMA
+Esgrima y HEMA
+
+Skateboarding
+Patineta (skateboarding)
+
+Roller & Inline Skating
+Patinaje sobre ruedas y en línea
+
+BMX Freestyle & Bike Trials
+BMX Freestyle y Trial Bici
+
+Motorcycle Stunt Riding & Freestyle Motocross
+Acrobacias en moto y motocross estilo libre
+
+Martial Arts Forms (Kata, Taolu & Poomsae)
+Formas de artes marciales (Kata, Taolu y Poomsae)
+
+Tai Chi & Qigong
+Tai Chi y Qigong
+
+Grappling Arts (Judo, Jiu-Jitsu & Wrestling)
+Artes de lucha (judo, jiu-jitsu y lucha libre)
+
+Striking Arts (Karate, Taekwondo, Muay Thai & Boxing)
+Artes de golpe (Karate, Taekwondo, Muay Thai y Boxeo)
+
+Archery (Target & Kyudo)
+Tiro con arco (objetivo y kyudo)
+
+Freestyle Snowboarding & Skiing
+Snowboard y esquí de estilo libre
+
+Surfing
+Surf
+
+Puppet & Doll Making
+Fabricación de marionetas y muñecas
+
+Skateboard & Surfboard Building
+Construcción de patinetas y tablas de surf
+
+Custom Bicycle & Motorcycle Building
+Construcción personalizada de bicicletas y motocicletas
+
+Prop & Armor Making
+Fabricación de accesorios y armaduras
+
+Papermaking (Handmade Paper)
+Fabricación de papel (papel hecho a mano)
+
+Lapidary & Gem Cutting
+Lapidaria y talla de gemas
+
+Bladesmithing & Knifemaking
+Forja de hojas y fabricación de cuchillos
+
+Mechanical Puzzle & Puzzle Box Making
+Fabricación de rompecabezas mecánicos y cajas de rompecabezas
+
+Transportation & Vehicle Design
+Transporte y diseño de vehículos
+
+Cartography & Map Design
+Cartografía y diseño de mapas
+
+Creative Electronics & PCB Design
+Electrónica creativa y diseño de PCB
+
+Digital Fabrication (3D Printing, Laser Cutting & CNC)
+Fabricación Digital (Impresión 3D, Corte Láser y CNC)
+
+Creative Robotics & Animatronics
+Robótica Creativa y Animatrónica
+
+Escape Room & Immersive Experience Design
+Diseño de salas de escape y experiencias inmersivas
+
+Astrophotography & Scientific Imaging
+Astrofotografía e imágenes científicas
+
+Pole Dance & Pole Sport
+Danza y deporte en barra
+
+Cardistry & Card Flourishes
+Cardistry y florituras con cartas
+
+Oral Storytelling
+Narración oral
+
+Gardening & Plant Cultivation
+Jardinería y cultivo de plantas
+
+Worldbuilding & Lore Design
+Construcción de mundos y diseño de trasfondos

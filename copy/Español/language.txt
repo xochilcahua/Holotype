@@ -1,0 +1,2 @@
+code: es
+name: Español

@@ -1,0 +1,46 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later
+   Copyright (C) 2026 Teo Monroy */
+
+/* THE FLOWER MARK itself -- the little inked flower on a card. */
+
+/* ---------------- Flowers ---------------- */
+.pl {
+  --dh: 0;
+  transform-origin: 0 0;
+  vector-effect: non-scaling-stroke;
+  stroke-width: 0.8px;
+  stroke-opacity: 0.9;
+}
+.pl {
+  fill: oklch(var(--pl) var(--pc) calc(var(--hue) + var(--dh)));
+  stroke: oklch(calc(var(--pl) - 0.1) var(--pc) calc(var(--hue) + var(--dh)));
+}
+.pl-t {
+  fill-opacity: 0.3;
+}
+.pl-d {
+  --dh: 20;
+  fill-opacity: 0.42;
+}
+.pl-s {
+  --dh: -20;
+  fill-opacity: 0.62;
+}
+.heart {
+  fill: oklch(calc(var(--pl) - 0.12) var(--pc) var(--hue));
+  stroke: none;
+}
+.flower.unfurl .pl {
+  animation: unfurl 0.9s cubic-bezier(0.16, 0.9, 0.24, 1) both;
+  animation-delay: calc(var(--i) * 20ms);
+}
+@keyframes unfurl {
+  from {
+    transform: scale(0.04);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

@@ -1,0 +1,6 @@
+# Data files are written as one record per art form and kept in that shape on purpose.
+src/data/art-forms.js
+src/data/prevalence.js
+dist/
+tests/
+_private/

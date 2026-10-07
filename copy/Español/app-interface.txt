@@ -1,0 +1,707 @@
+Garden
+Jardín
+
+Filters
+Filtros
+
+Made by Teo Monroy
+Hecho por Teo Monroy
+
+Free software under the
+Software libre bajo la
+
+GNU AGPL v3 or later
+GNU AGPL v3 o posterior
+
+Source code
+código fuente
+
+Contact
+Contacto
+
+Search art forms
+Buscar disciplinas
+
+View
+Vista
+
+Your Herbarium (E)
+Tu herbario (E)
+
+Sort order
+Orden
+
+Language
+Idioma
+
+Light or dark (T)
+Claro u oscuro (T)
+
+Switch light or dark
+Cambiar entre claro y oscuro
+
+Color tags (C)
+Etiquetas de color (C)
+
+Color tags
+Etiquetas de color
+
+Start over for the next person
+Empezar de nuevo para la siguiente persona
+
+Reset Holotype for the next person
+Reiniciar Holotipo para la siguiente persona
+
+How Holotype works (?)
+Cómo funciona Holotipo (?)
+
+How Holotype works
+Cómo funciona Holotipo
+
+Most common first
+Más comunes primero
+
+Less common first
+Menos comunes primero
+
+Closest to you first
+Más cercanas a ti primero
+
+Furthest from you first
+Más lejanas de ti primero
+
+A to Z
+De la A a la Z
+
+By category
+Por categoría
+
+By tag
+Por etiqueta
+
+Holotype — find your next creative pursuit
+Holotipo — encuentra tu próxima actividad creativa
+
+Rate the creative things you have done; Holotype shows what is near them, what is far, and the shape your practice makes.
+Valora las cosas creativas que has hecho; El holotipo muestra lo que está cerca de ellos, lo que está lejos y la forma que toma tu práctica.
+
+{0} art forms
+{0} disciplinas
+
+Rate what you already know with the sliders, and Holotype ranks the rest by how new it is to you.
+Valora lo que ya conoces con los deslizadores y Holotipo ordenará el resto según qué tan nuevo sea para ti.
+
+Open details for {0}
+Abrir detalles de {0}
+
+more specific forms
+disciplinas más específicas
+
+{0} inside this one, shown as their own cards
+{0} dentro de esta, con sus propias tarjetas
+
+{0} inside this one
+{0} dentro de esta
+
+How well you know {0}
+Qué tanto conoces {0}
+
+more specific form
+disciplina más específica
+
+{0} rated
+{0} valoradas
+
+Your garden
+Tu jardín
+
+Rated
+Valoradas
+
+Your own rating
+Tu valoración
+
+Familiar
+Familiar
+
+Novelty out of 100: how new this would be to you
+Novedad sobre 100: qué nuevo sería esto para ti
+
+New ground
+Terreno nuevo
+
+In between
+Intermedio
+
+Close
+Cerrar
+
+Narrow the catalogue by category, by which half you want to see, or by how new something is to you. The first two apply to the Garden, your Herbarium and the PDF alike.
+Limita el catálogo por categoría, por qué mitad quieres ver o por qué tan nuevo es algo para ti. Los dos primeros se aplican tanto al Jardín como al Herbario y al PDF.
+
+Show
+Mostrar
+
+Both are on by default. Switch one off to leave that half out of the page and the export.
+Ambas mitades se muestran inicialmente. Desactiva una para excluirla de la página y de la exportación.
+
+Category
+Categoría
+
+How new it is
+Qué tan nuevo es para ti
+
+These bands cover the art forms you have not rated, and they narrow the page and the export as well as the Garden.
+Estas franjas se aplican a las disciplinas que aún no valoras y limitan tanto el Jardín como la página del Herbario y la exportación.
+
+How far your ratings reach
+Hasta dónde llegan tus valoraciones
+
+Higher means each practice you know also counts toward more distant art forms. The middle is the default.
+Al subirlo, cada práctica que conoces también cuenta para disciplinas más distantes. El punto medio es el valor inicial.
+
+My garden (rated)
+Mi jardín (valoradas)
+
+Not yet rated
+Aún sin valorar
+
+Pick a tag (category, cost, space, learning curve, self-taught, or how far an art form sits from your taste) and give it a color. Matching art forms get that color, in the garden and in your Herbarium, and several tags can apply at once.
+Elige una etiqueta (categoría, costo, espacio, curva de aprendizaje, autodidacta o qué tan lejos queda una disciplina de tu gusto) y asígnale un color. Las disciplinas que coinciden toman ese color, en el jardín y en tu herbario, y puedes aplicar varias etiquetas a la vez.
+
+Add a color tag
+Agregar una etiqueta de color
+
+ratings
+valoraciones
+
+Start over for the next person?
+¿Empezar de nuevo para la siguiente persona?
+
+This clears {0}, all color and distance tags, and the name on this device, so the next person starts with a blank garden. Your light/dark and export settings stay. This can't be undone.
+Se borrarán {0}, las etiquetas de color y distancia, tu nombre y tu planta en este dispositivo. El idioma volverá al inglés. Se conservan los ajustes de tema y exportación. No se puede deshacer.
+
+Keep everything
+Conservar todo
+
+Reset
+Reiniciar
+
+Rated {0} of 10
+Valoración: {0} de 10
+
+Counts as familiar because you know it.
+Cuenta como familiar porque ya lo conoces.
+
+What it serves
+para que sirve
+
+Serves music/sound
+Sirve música/sonido
+
+Music and sound
+Música y sonido
+
+Serves narrative/literature
+Sirve narrativa/literatura
+
+Story
+historia
+
+Serves visual image-making
+Sirve para la creación de imágenes visuales.
+
+Image-making
+creación de imágenes
+
+Serves movement/the body
+Sirve al movimiento/el cuerpo.
+
+Movement
+movimiento
+
+Serves food & drink
+Sirve comida y bebida
+
+Food and drink
+comida y bebida
+
+Serves space/architecture
+Sirve al espacio/arquitectura
+
+Space
+espacio
+
+Serves nature/living systems
+Sirve a la naturaleza/sistemas vivos.
+
+Nature
+naturaleza
+
+Senses it engages
+Siente que se involucra
+
+Visual
+visuales
+
+Sight
+Vista
+
+Auditory
+Auditivo
+
+Hearing
+audiencia
+
+Tactile
+táctil
+
+Touch
+Toque
+
+Olfactory
+olfativo
+
+Smell
+Olor
+
+Gustatory
+gustativo
+
+Taste
+Gusto
+
+How it is made
+como se hace
+
+Improvised vs. planned
+Improvisado versus planificado
+
+Planned ahead
+Planificado con anticipación
+
+Originates vs. edits
+Originaciones versus ediciones
+
+Edits existing
+Edita existente
+
+Hand- vs. system-controlled
+Controlado manualmente o por sistema
+
+System-driven
+Impulsado por el sistema
+
+Interpretive vs. literal
+Interpretativo versus literal
+
+Literal
+Literal
+
+Sensory vs. symbolic
+Sensorial versus simbólico
+
+Symbolic
+Simbólico
+
+Fine vs. gross motor
+Motricidad fina vs. motricidad gruesa
+
+Full-body motion
+Movimiento de cuerpo completo
+
+Safe vs. hazardous materials
+Materiales seguros frente a materiales peligrosos
+
+Hazardous
+Peligroso
+
+Controlled vs. chance-driven
+Controlado versus impulsado por el azar
+
+Chance-driven
+impulsado por el azar
+
+Flat vs. volumetric
+Plano versus volumétrico
+
+Three-dimensional
+tridimensional
+
+Solo vs. collaborative
+Solo versus colaborativo
+
+Collaborative
+Colaborativo
+
+Closed vs. audience-shaped
+Cerrado versus en forma de audiencia
+
+Audience-shaped
+En forma de audiencia
+
+Irrevocable vs. revisable
+Irrevocable versus revisable
+
+Revisable
+Revisable
+
+Ephemeral vs. archival
+Efímero versus archivo
+
+Long-lasting
+De larga duración
+
+Materials and setting
+Materiales y ambientación
+
+Linguistic vs. tonal/formal content
+Contenido lingüístico versus tonal/formal
+
+Tone over words
+Tono sobre palabras
+
+Organic/living vs. inert/manufactured material
+Material orgánico/vivo vs. inerte/fabricado
+
+Inert material
+Material inerte
+
+Mark-making/rendering vs. non-rendering skill
+Habilidad de hacer marcas/renderizar versus no renderizar
+
+Not rendering
+No renderizando
+
+Functional/useful vs. purely contemplative
+Funcional/útil versus puramente contemplativo
+
+Purely expressive
+Puramente expresivo
+
+Ritual/traditional vs. secular/exhibition context
+Contexto ritual/tradicional versus secular/expositivo
+
+Secular setting
+entorno secular
+
+Apprenticeship-transmitted vs. self-taught
+Aprendizaje transmitido versus autodidacta
+
+Self-taught
+Autodidacta
+
+Physically singular vs. mass-reproducible
+Físicamente singular versus reproducible en masa
+
+Reproducible
+reproducible
+
+Solo/freelance vs. institutional
+Solo/independiente versus institucional
+
+Institutional
+Institucional
+
+Niche/hobbyist vs. large commercial scale
+Nicho/aficionado vs. gran escala comercial
+
+Large industry
+Gran industria
+
+Try this first
+Prueba esto primero
+
+Cost
+Costo
+
+Low
+Bajo
+
+Space needed
+Espacio necesario
+
+None
+Ninguno
+
+Learning curve
+Curva de aprendizaje
+
+Long
+Larga
+
+Teach yourself
+Aprender por tu cuenta
+
+Works well
+Funciona bien
+
+Easily confused by name
+Nombres que pueden confundirse
+
+{0} details
+Detalles de {0}
+
+Related art forms
+Disciplinas relacionadas
+
+Full profile
+Perfil completo
+
+How well do you know it?
+¿Qué tanto lo conoces?
+
+Moderate
+Moderado
+
+Novelty {0} of 100
+Novedad: {0} de 100
+
+Closest to {0}, which you rated.
+Lo más cercano es {0}, que ya valoraste.
+
+Better with a teacher
+Mejor con un docente
+
+Small
+Pequeño
+
+Quick
+Rápida
+
+More specific forms under this
+Disciplinas más específicas dentro de esta
+
+A studio
+Un taller
+
+A kind of {0}
+Un tipo de {0}
+
+Also under {0}
+También dentro de {0}
+
+Part of a larger art form
+Parte de una disciplina más amplia
+
+Large
+Grande
+
+High
+Alto
+
+{0} of {1} art forms
+{0} de {1} disciplinas
+
+Remove this tag
+Eliminar esta etiqueta
+
+Self-taught friendly
+Apto para aprender por tu cuenta
+
+Distance from your taste
+Distancia respecto a tus gustos
+
+Use this color
+Usa este color
+
+Pick any color
+Elige cualquier color
+
+Closest to your taste (lowest novelty)
+Lo más cercano a tu gusto (menor novedad)
+
+Furthest from your taste (highest novelty)
+Lo más alejado de tu gusto (mayor novedad)
+
+familiar → new
+familiar → nuevo
+
+Marks art forms you haven't rated whose novelty score falls in this range.
+Marca las disciplinas que aún no valoras y cuya puntuación de novedad está dentro de este rango.
+
+Distance from your taste: {0}–{1}
+Distancia respecto a tus gustos: {0}–{1}
+
+Nothing matches. Clear a filter or try a different search.
+Nada coincide. Borre un filtro o intente una búsqueda diferente.
+
+Clear filters and search
+Borrar filtros y buscar
+
+That file isn't valid JSON.
+Ese archivo no es JSON válido.
+
+That doesn't look like a Holotype session file.
+Eso no parece un archivo de sesión de Holotipo.
+
+This file needs features this version of Holotype doesn't have ({0}). Nothing was changed.
+Este archivo necesita características que esta versión de Holotipo no tiene ({0}). No se cambió nada.
+
+items
+elementos
+
+{0}: no usable rating
+{0}: ninguna clasificación utilizable
+
+tag rule
+regla de etiqueta
+
+{0} this version can't place (kept aside)
+{0} que esta versión no puede ubicar (guardadas aparte)
+
+sort order "{0}" not recognised
+orden de clasificación "{0}" no reconocido
+
+{0} skipped
+{0} omitidos
+
+rating
+valoración
+
+{0} sits near the middle of most axes, a generalist practice.
+{0} se encuentra cerca del medio de la mayoría de los ejes, una práctica generalista.
+
+Not measured yet
+Aún sin medir
+
+Rate what you know to see how new this is to you.
+Valora lo que conoces para ver qué tan nuevo es esto para ti.
+
+Among the newest third of what you have not rated.
+Entre el tercio más nuevo de lo que no has puntuado.
+
+Distance is measured from what you've rated, so this tag shows up once you rate at least one art form.
+La distancia se mide a partir de lo que has valorado, por lo que esta etiqueta aparece una vez que valoras al menos una forma de arte.
+
+{0} of {1} rated
+{0} de {1} valoradas
+
+You've switched off
+te has apagado
+
+, so there's nothing left here. Your rated art forms are still above.
+, así que aquí no queda nada. Tus formas de arte valoradas aún están arriba.
+
+Show everything again
+Mostrar todo de nuevo
+
+. Among the newest third of what you have not rated.
+. Entre el tercio más novedoso de lo que aún no valoras.
+
+Holotype: could not build description for
+Holotipo: no se pudo crear una descripción para
+
+This file was made by a newer version of Holotype. Everything this version understands was loaded, and the rest was kept aside.
+Este archivo fue creado por una versión más reciente de Holotipo. Todo lo que entiende esta versión se cargó y el resto se dejó a un lado.
+
+This file came from an older version; it was upgraded as it loaded.
+Este archivo proviene de una versión anterior; se actualizó a medida que se cargaba.
+
+{0} kept aside
+{0} guardadas aparte
+
+These art forms aren't in this version. They stay in your session and come back if the art form returns.
+Estas disciplinas no están en esta versión. Se quedan en tu sesión y vuelven si la disciplina regresa.
+
+{0} ({1}) were kept and will be included when you save again.
+Se conservaron {0} ({1}) y se incluirán cuando vuelvas a guardar.
+
+the name {0}
+el nombre {0}
+
+{0} {1}. Anything the file didn't mention was left as it was.
+{0} {1}. Lo que el archivo no mencionaba se dejó como estaba.
+
+Saved {0}.
+Se guardó {0}.
+
+The file has {0}{1}, and you have {2}.
+El archivo tiene {0}{1} y tú tienes {2}.
+
+Replace
+Reemplazar
+
+swaps in everything the file contains.
+intercambia todo lo que contiene el archivo.
+
+Merge
+Combinar
+
+adds its ratings to yours and lets the file win where both rate the same art form. Anything the file doesn't mention is left alone either way.
+suma las valoraciones del archivo a las tuyas y deja que gane el archivo donde ambos valoran la misma disciplina. Lo que el archivo no mencione queda como está en cualquiera de los dos casos.
+
+Cancel
+Cancelar
+
+for {0}
+para {0}
+
+language "{0}" not available
+el idioma «{0}» no está disponible
+
+an entry
+una entrada
+
+not a tag rule
+no es una regla de etiqueta
+
+unknown dimension
+dimensión desconocida
+
+no recognised values
+ningún valor reconocido
+
+some values not recognised
+algunos valores no se reconocen
+
+could not be read
+no se pudo leer
+
+That file is too large to be a Holotype session.
+Ese archivo es demasiado grande para ser una sesión de Holotipo.
+
+, replaced by
+, reemplazado por
+
+filters and sort order
+filtros y orden de clasificación
+
+Merged
+Se combinaron
+
+Loaded
+Se cargaron
+
+That file had nothing this version could use. Nothing was changed.
+Ese archivo no tenía nada que esta versión pudiera usar. No se cambió nada.
+
+Save cancelled.
+Guardar cancelado.
+
+Couldn't save the file in this browser.
+No se pudo guardar el archivo en este navegador.
+
+Couldn't read that file.
+No se pudo leer ese archivo.
+
+Load cancelled. Nothing changed.
+Carga cancelada. Nada cambió.
+
+item
+elemento
+
+unfamiliar field
+campo desconocido
+
+unfamiliar fields
+campos desconocidos
+
+tag
+etiqueta
+
+tags
+etiquetas
+
+tag rules
+reglas de etiquetas

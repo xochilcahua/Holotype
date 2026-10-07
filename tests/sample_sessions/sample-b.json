@@ -1,0 +1,150 @@
+{
+  "format": "holotype-session",
+  "schemaVersion": 2,
+  "appVersion": "2026.10",
+  "exportedAt": "2026-01-01T00:00:00.000Z",
+  "requires": [],
+  "name": "Sample B (serial starter)",
+  "ratings": [
+    {
+      "id": "af038",
+      "name": "Playing an Instrument",
+      "rating": 3
+    },
+    {
+      "id": "af009",
+      "name": "Painting",
+      "rating": 2
+    },
+    {
+      "id": "af023",
+      "name": "Ceramics & Pottery",
+      "rating": 2
+    },
+    {
+      "id": "af145",
+      "name": "Knitting & Crochet",
+      "rating": 2
+    },
+    {
+      "id": "af024",
+      "name": "Woodworking",
+      "rating": 1
+    },
+    {
+      "id": "af012",
+      "name": "Calligraphy",
+      "rating": 3
+    },
+    {
+      "id": "af030",
+      "name": "Origami",
+      "rating": 2
+    },
+    {
+      "id": "af227",
+      "name": "Podcasting & Audio Storytelling",
+      "rating": 2
+    },
+    {
+      "id": "af067",
+      "name": "Video Game Design",
+      "rating": 1
+    },
+    {
+      "id": "af080",
+      "name": "Bonsai",
+      "rating": 2
+    },
+    {
+      "id": "af077",
+      "name": "Baking & Pastry",
+      "rating": 3
+    },
+    {
+      "id": "af125",
+      "name": "Brewing, Wine & Spirits",
+      "rating": 2
+    },
+    {
+      "id": "af003",
+      "name": "Playwriting & Screenwriting",
+      "rating": 1
+    },
+    {
+      "id": "af002",
+      "name": "Poetry",
+      "rating": 2
+    },
+    {
+      "id": "af051",
+      "name": "Stand-Up Comedy",
+      "rating": 1
+    },
+    {
+      "id": "af190",
+      "name": "Juggling",
+      "rating": 2
+    },
+    {
+      "id": "af055",
+      "name": "Stage Magic",
+      "rating": 3
+    },
+    {
+      "id": "af050",
+      "name": "Improv Theater",
+      "rating": 2
+    },
+    {
+      "id": "af010",
+      "name": "Photography",
+      "rating": 3
+    },
+    {
+      "id": "af127",
+      "name": "Leatherworking",
+      "rating": 2
+    },
+    {
+      "id": "af148",
+      "name": "Candle Making",
+      "rating": 2
+    },
+    {
+      "id": "af149",
+      "name": "Soap Making",
+      "rating": 2
+    },
+    {
+      "id": "af105",
+      "name": "Embroidery",
+      "rating": 2
+    },
+    {
+      "id": "af170",
+      "name": "Terrarium & Vivarium Design",
+      "rating": 2
+    }
+  ],
+  "tags": [],
+  "distanceReach": 0.5,
+  "filters": {
+    "search": "",
+    "categories": [],
+    "familiarity": [],
+    "show": {
+      "rated": true,
+      "unrated": true
+    }
+  },
+  "sort": "common_desc",
+  "exportSections": {
+    "portrait": true,
+    "classification": true,
+    "filters": true,
+    "garden": true,
+    "unexplored": true
+  },
+  "plantSeed": "sample-b"
+}

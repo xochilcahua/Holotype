@@ -1,0 +1,663 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later
+   Copyright (C) 2026 Teo Monroy */
+
+/* THE FOLK THEME. The screen look of the whole app: a Scandinavian-folk x mid-century botanical chart. Flat
+   inks on cream paper, square geometry, double-ruled borders, no gradients or drop shadows.
+   Loads LAST (after every component stylesheet) because it restates the palette and refines components; where it
+   and a component sheet disagree, this file wins. The paper version lives in print.css and is separate on purpose. */
+
+/* ==========================================================================
+   FOLK THEME: Geometric Scandinavian folk art x mid-century botanical chart.
+   Flat inks on cream paper, square geometry, double-ruled borders, no gradients or drop shadows.
+   ========================================================================== */
+:root {
+  --paper: #e9e2ce;
+  --surface: #f6f2e6;
+  --sunken: #ddd5bc;
+  --ink: #23303a;
+  --ink-2: #44515a;
+  --ink-3: #666c6c;
+  --line: #cbc1a4;
+  --line-2: #9a9175;
+  --focus: #2a4359;
+  --f-slate: #2a4359;
+  --f-terra: #c8472f;
+  --f-ochre: #dda62f;
+  --f-forest: #4a6340;
+  --font-display: "Josefin Sans", ui-sans-serif, system-ui, "Segoe UI", sans-serif;
+  --font-ui: "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #161b20;
+    --surface: #1f262d;
+    --sunken: #11151a;
+    --ink: #efe9da;
+    --ink-2: #bdbbad;
+    --ink-3: #8e9396;
+    --line: #333c44;
+    --line-2: #4a5660;
+    --focus: #e9bc55;
+    --f-slate: #7c9dba;
+    --f-terra: #db6e55;
+    --f-ochre: #e9bc55;
+    --f-forest: #7fa06a;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #161b20;
+  --surface: #1f262d;
+  --sunken: #11151a;
+  --ink: #efe9da;
+  --ink-2: #bdbbad;
+  --ink-3: #8e9396;
+  --line: #333c44;
+  --line-2: #4a5660;
+  --focus: #e9bc55;
+  --f-slate: #7c9dba;
+  --f-terra: #db6e55;
+  --f-ochre: #e9bc55;
+  --f-forest: #7fa06a;
+}
+body {
+  font-size: 15px;
+}
+button,
+select,
+input {
+  font-family: var(--font-display);
+}
+.search-input,
+.key-hint,
+.view-toggle,
+.view-toggle button,
+.pill-btn,
+.text-select,
+.filter-count,
+.icon-btn,
+.dual-track,
+.dual-fill,
+.spec,
+.spec-tags i,
+.rate-live,
+.chip,
+.rule-row,
+.rule-select,
+.rule-remove,
+.add-rule-btn,
+.modal-close,
+.panel-close,
+.modal,
+.related-item,
+.pbar,
+.help-card,
+.prof-axisbar-track,
+.prof-catbar-track,
+.prof-catbar-fill,
+.prof-export-card,
+.prof-legend,
+.confirm-box,
+.confirm-actions button,
+.pe-header-band,
+.pe-accent-bar,
+.pe-catbar-track,
+.pe-catbar-fill,
+.pe-legend,
+.pe-axisbar-track {
+  border-radius: 0;
+}
+::selection {
+  background: var(--f-terra);
+  color: #fff;
+}
+
+/* Flowers: flat ink fills, paper-cut outline, no opacity */
+.pl {
+  stroke: var(--surface);
+  stroke-width: 0.7px;
+  stroke-opacity: 1;
+  fill-opacity: 1;
+}
+.pl-t {
+  fill: var(--c1);
+}
+.pl-d {
+  fill: var(--c2);
+}
+.pl-s {
+  fill: var(--c3);
+}
+.heart {
+  fill: var(--c1);
+}
+.heart2 {
+  fill: var(--surface);
+}
+.heart3 {
+  fill: var(--c3);
+}
+.empty-state .flower {
+  opacity: 1;
+}
+
+/* Top bar: printed masthead with a double rule and a folk zig-zag border */
+.bar {
+  background: var(--paper);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  border-bottom: 3px double var(--ink);
+}
+.search-input {
+  background: var(--surface);
+  border: 1px solid var(--ink);
+  font-family: var(--font-ui);
+}
+.search-input:focus {
+  box-shadow:
+    0 0 0 2px var(--surface),
+    0 0 0 4px var(--focus);
+}
+.view-toggle {
+  background: transparent;
+  border: 1px solid var(--ink);
+  padding: 2px;
+}
+.view-toggle button,
+.pill-btn,
+.text-select {
+  font: 600 12px var(--font-display);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.view-toggle button[aria-selected="true"] {
+  background: var(--f-slate);
+  color: #f6f2e6;
+  box-shadow: none;
+}
+.pill-btn,
+.text-select,
+.icon-btn {
+  background: var(--surface);
+  border: 1px solid var(--ink);
+}
+.pill-btn:hover,
+.text-select:hover,
+.icon-btn:hover {
+  border-color: var(--f-terra);
+  color: var(--f-terra);
+}
+.filter-count {
+  background: var(--f-terra);
+  color: #fff;
+}
+.dual-range input[type="range"]::-webkit-slider-thumb,
+.dual-range input[type="range"]::-moz-range-thumb {
+  box-shadow: none;
+}
+
+/* Wall: each specimen is a small plate with a double-ruled border */
+.page {
+  padding-top: 22px;
+}
+.wall-head,
+.group-title {
+  font: 600 11.5px var(--font-display);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+}
+.grid {
+  gap: 14px;
+  padding-top: 12px;
+}
+.spec {
+  background: var(--surface);
+  border: 1px solid var(--ink);
+  padding: 15px 16px;
+  box-shadow:
+    inset 0 0 0 4px var(--surface),
+    inset 0 0 0 5px var(--line-2);
+  transition:
+    border-color 0.15s,
+    transform 0.15s;
+}
+.spec:hover,
+.spec:focus-within {
+  background: var(--surface);
+  border-color: var(--f-terra);
+  box-shadow:
+    inset 0 0 0 4px var(--surface),
+    inset 0 0 0 5px var(--f-terra);
+}
+.spec-name {
+  font-size: 15.5px;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.spec-tag {
+  font-family: var(--font-ui);
+  font-style: italic;
+}
+.ring-track {
+  stroke: var(--line-2);
+  stroke-width: 1;
+  stroke-dasharray: 1.5 3.5;
+}
+.ring-fill {
+  stroke: var(--f-slate);
+  stroke-width: 2.6;
+  stroke-linecap: butt;
+}
+.is-rated .ring-fill,
+.modal-mark .ring-fill {
+  stroke: var(--f-terra);
+}
+.spec-tags i {
+  width: 7px;
+  height: 7px;
+}
+
+/* Panels, dialogs and cards: paper with a double border, no shadows */
+.modal,
+.help-card,
+.confirm-box,
+.settings-panel {
+  background: var(--surface);
+  border: 1px solid var(--ink);
+  box-shadow:
+    inset 0 0 0 5px var(--surface),
+    inset 0 0 0 6px var(--line-2);
+}
+.prof-export-card,
+.prof-legend,
+.rule-row,
+.related-item {
+  background: var(--surface);
+  border: 1px solid var(--line-2);
+  box-shadow:
+    inset 0 0 0 3px var(--surface),
+    inset 0 0 0 4px var(--line);
+}
+.chip {
+  font: 600 11.5px var(--font-display);
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  border-color: var(--ink);
+}
+.pbar,
+.prof-catbar-track,
+.prof-axisbar-track {
+  height: 5px;
+}
+
+/* Profile: the plant sits on a labeled botanical plate; genus name in Latin italic */
+.page h1,
+.page h2 {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+.page h2 {
+  border-bottom: 3px double var(--ink);
+  padding-bottom: 6px;
+}
+.prof-genus,
+.pe-genus {
+  font-family: var(--font-ui);
+  font-style: italic;
+}
+.prof-growth-plant {
+  flex-direction: column;
+  align-items: center;
+  padding: 14px 10px 10px;
+  background: #f6f2e6;
+  border: 1px solid var(--ink);
+  box-shadow:
+    inset 0 0 0 4px #f6f2e6,
+    inset 0 0 0 5px var(--line-2);
+}
+.prof-growth-plant::after {
+  content: "Plate I";
+  margin-top: 8px;
+  font: 600 10px var(--font-display);
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: #666c6c;
+}
+
+/* ---- Masthead, export column and plate layout ---- */
+.prof-main-r {
+  position: static;
+  align-self: center;
+  margin-top: 0;
+}
+@media (max-width: 1080px) {
+  .prof-main-r {
+    align-self: stretch;
+    margin-top: 8px;
+  }
+}
+.prof-flower-wrap svg {
+  overflow: visible;
+}
+.session-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.session-actions .add-rule-btn {
+  flex: 1 1 auto;
+}
+.session-status {
+  margin-top: 12px;
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+.session-status:empty {
+  display: none;
+}
+.session-status.err {
+  color: #b3453a;
+}
+.session-status p {
+  margin: 0 0 10px;
+}
+
+/* ---- Lighter paper, single rules, calmer dark mode (overrides the palette above) ---- */
+:root {
+  --paper: #f6f3ec;
+  --surface: #fdfbf6;
+  --sunken: #ede9dd;
+  --line: #e0d9c8;
+  --line-2: #bdb599;
+  --edge: #23303a;
+  --sel-bg: #2a4359;
+  --sel-fg: #f6f2e6;
+  --plate: #f6f2e6;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #1a1d21;
+    --surface: #23272c;
+    --sunken: #14161a;
+    --ink: #e9e6dc;
+    --ink-2: #b4b3aa;
+    --ink-3: #8b8f91;
+    --line: #2f343a;
+    --line-2: #444b53;
+    --edge: #566069;
+    --focus: #d9b35f;
+    --sel-bg: #3b4d5c;
+    --sel-fg: #f0ece0;
+    --plate: #22252a;
+    --f-slate: #8ca8be;
+    --f-terra: #d07660;
+    --f-ochre: #ddb463;
+    --f-forest: #86a374;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #1a1d21;
+  --surface: #23272c;
+  --sunken: #14161a;
+  --ink: #e9e6dc;
+  --ink-2: #b4b3aa;
+  --ink-3: #8b8f91;
+  --line: #2f343a;
+  --line-2: #444b53;
+  --edge: #566069;
+  --focus: #d9b35f;
+  --sel-bg: #3b4d5c;
+  --sel-fg: #f0ece0;
+  --plate: #22252a;
+  --f-slate: #8ca8be;
+  --f-terra: #d07660;
+  --f-ochre: #ddb463;
+  --f-forest: #86a374;
+}
+.bar,
+.search-input,
+.view-toggle,
+.pill-btn,
+.text-select,
+.icon-btn,
+.spec,
+.modal,
+.help-card,
+.confirm-box,
+.settings-panel,
+.chip,
+.prof-growth-plant {
+  border-color: var(--edge);
+}
+.view-toggle button[aria-selected="true"] {
+  background: var(--sel-bg);
+  color: var(--sel-fg);
+}
+.page h2 {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+.prof-growth-plant {
+  background: var(--plate);
+  box-shadow:
+    inset 0 0 0 4px var(--plate),
+    inset 0 0 0 5px var(--line-2);
+}
+.prof-growth-plant::after {
+  color: var(--ink-3);
+}
+
+/* ---- Plant plate and modifier line ---- */
+.prof-growth-plant {
+  background: var(--surface);
+  box-shadow:
+    inset 0 0 0 4px var(--surface),
+    inset 0 0 0 5px var(--line-2);
+}
+.prof-mods {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 22px;
+  margin: 10px 0 18px;
+  font: 600 12.5px var(--font-display);
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+}
+.prof-mods {
+  align-items: baseline;
+}
+.mod-rank {
+  margin-right: 3px;
+  font: 400 14px var(--font-ui);
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink-3);
+}
+.mod-name {
+  font: italic 400 19px var(--font-ui);
+  letter-spacing: 0.01em;
+  text-transform: none;
+  color: var(--ink);
+}
+.mod-and {
+  font-style: normal;
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+/* ---- Genus (tribe) layer and profile layout ---- */
+.prof-growth {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: 28px 44px;
+  align-items: start;
+}
+.prof-growth-side {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.prof-growth-side .prof-growth-plant {
+  flex: none;
+  width: 100%;
+}
+.prof-fieldnotes {
+  margin: 0;
+  padding: 14px 16px 16px;
+  background: var(--surface);
+  border: 1px solid var(--line-2);
+  box-shadow:
+    inset 0 0 0 3px var(--surface),
+    inset 0 0 0 4px var(--line);
+}
+.prof-fieldnotes-h {
+  font: 700 11px var(--font-display);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink);
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--line);
+}
+.prof-fieldnotes dt {
+  margin-top: 12px;
+  font: 600 10px var(--font-display);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.prof-fieldnotes dd {
+  margin: 2px 0 0;
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: var(--ink);
+}
+.prof-tribe {
+  margin: 8px 0 0;
+  font: italic 400 19px var(--font-ui);
+  color: var(--ink-2);
+}
+.prof-growth-body {
+  column-width: 330px;
+  column-gap: 44px;
+  margin-top: 4px;
+}
+.prof-growth-body p {
+  max-width: none;
+  break-inside: avoid;
+}
+.pe-tribe {
+  margin: 2px 0 6px;
+  font-style: italic;
+}
+.pe-fieldnotes {
+  font-size: 12px;
+}
+@media (max-width: 760px) {
+  .prof-growth {
+    grid-template-columns: 1fr;
+  }
+  .prof-growth-side {
+    max-width: 260px;
+  }
+}
+.prof-growth-main p.prof-lean {
+  font-size: 14px;
+  color: var(--ink-2);
+}
+.prof-lean .muted {
+  display: block;
+  margin-top: 6px;
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+
+.gl-grid {
+  margin: 8px 0 22px;
+  column-width: 300px;
+  column-gap: 40px;
+}
+.gl-item {
+  break-inside: avoid;
+  margin: 0 0 16px;
+}
+.gl-item dt {
+  font: 700 15px var(--font-display);
+  letter-spacing: 0.04em;
+}
+.gl-item dd {
+  margin: 4px 0 0;
+  font-size: 13.5px;
+  line-height: 1.55;
+  color: var(--ink-2);
+}
+.gl-k {
+  display: inline-block;
+  min-width: 76px;
+  margin-right: 6px;
+  font: 600 10px var(--font-display);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+/* ---- Help tabs, tier pills and the glossary ---- */
+.help-tabs {
+  display: flex;
+  gap: 0;
+  margin: 0 0 14px;
+  border-bottom: 1px solid var(--line-2);
+}
+.help-tab {
+  padding: 9px 18px 10px;
+  margin-bottom: -1px;
+  font: 600 12.5px var(--font-display);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  background: transparent;
+  border: 1px solid transparent;
+  border-bottom: 0;
+  cursor: pointer;
+}
+.help-tab:hover {
+  color: var(--ink);
+}
+.help-tab[aria-selected="true"] {
+  color: var(--ink);
+  background: var(--surface);
+  border-color: var(--line-2);
+  box-shadow: inset 0 2px 0 var(--f-terra);
+}
+.help-card [hidden] {
+  display: none;
+}
+.help-example.help-tier {
+  align-items: flex-start;
+  gap: 12px;
+}
+.help-example.help-tier > b {
+  flex: 0 0 76px;
+  padding: 2px 0;
+  text-align: center;
+  white-space: nowrap;
+  font: 600 12px var(--font-display);
+  letter-spacing: 0.06em;
+  border: 1px solid var(--line-2);
+}
+.help-card .gl-head {
+  margin: 20px 0 6px;
+  font: 700 11px var(--font-display);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+.help-card .gl-grid {
+  margin: 8px 0 6px;
+  column-width: 300px;
+  column-gap: 40px;
+}

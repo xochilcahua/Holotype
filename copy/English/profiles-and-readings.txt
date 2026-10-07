@@ -1,0 +1,734 @@
+Herbarium
+Herbarium
+
+The second tab, where your profile is kept.
+The second tab, where your profile is kept.
+
+A collection of pressed, dried and labeled plant specimens, used as a reference library.
+A collection of pressed, dried and labeled plant specimens, used as a reference library.
+
+Holotype
+Holotype
+
+Your profile page and the flower at its top: the one specimen your taste is named from.
+Your profile page and the flower at its top: the one specimen your taste is named from.
+
+The single specimen a species name is officially attached to. Every later find is compared against it.
+The single specimen a species name is officially attached to. Every later find is compared against it.
+
+Plate
+Plate
+
+The framed picture of your plant, styled like a page from a botanical book.
+The framed picture of your plant, styled like a page from a botanical book.
+
+A full-page illustration in a scientific book, traditionally engraved or lithographed.
+A full-page illustration in a scientific book, traditionally engraved or lithographed.
+
+Flower
+Flower
+
+The flower drawn for every art form and for you. Longer petals mean stronger traits.
+The flower drawn for every art form and for you. Longer petals mean stronger traits.
+
+The flower of a plant, or a plant in flower.
+The flower of a plant, or a plant in flower.
+
+Genus
+Genus
+
+Your core type, one of 16. Each is named after a real organism whose way of living echoes how you work. Fourteen are plants; Armillaria is a fungus and Physarum a slime mold.
+Your core type, one of 16. Each is named after a real organism whose way of living echoes how you work. Fourteen are plants; Armillaria is a fungus and Physarum a slime mold.
+
+A group of closely related species, and the first word of a two-part Latin name, as in Helianthus annuus.
+A group of closely related species, and the first word of a two-part Latin name, as in Helianthus annuus.
+
+Tribe
+Tribe
+
+The nickname for your kind of practitioner, such as The Room-Readers.
+The nickname for your kind of practitioner, such as The Room-Readers.
+
+A rank below subfamily and above genus that groups related genera.
+A rank below subfamily and above genus that groups related genera.
+
+Growth habit
+Growth habit
+
+The section describing how you tend to work, told as a plant.
+The section describing how you tend to work, told as a plant.
+
+A plant's characteristic form and manner of growing: climbing, creeping, upright or spreading.
+A plant's characteristic form and manner of growing: climbing, creeping, upright or spreading.
+
+var. (variety)
+var. (variety)
+
+Your approach to chance: ordinata steers toward control, flexilis moves between, aleatoria leaves room for chance.
+Your approach to chance: ordinata steers toward control, flexilis moves between, aleatoria leaves room for chance.
+
+A rank below species for a natural variant that differs in some trait but is not a separate species.
+A rank below species for a natural variant that differs in some trait but is not a separate species.
+
+cf. (compare)
+cf. (compare)
+
+The one or two fields your ratings clearly favor, written as Latin adjectives and spelled out in plain words.
+The one or two fields your ratings clearly favor, written as Latin adjectives and spelled out in plain words.
+
+Short for the Latin confer, compare. Written in a name when an identification is provisional and the specimen resembles a named group.
+Short for the Latin confer, compare. Written in a name when an identification is provisional and the specimen resembles a named group.
+
+Epithet
+Epithet
+
+The Latin word after var. or cf.: sonans (sound and pattern), eloquens (language and sequence), versicolor (the visual), mobilis (the body in motion), fragrans (taste and scent), spatialis (space and structure), sylvestris (nature).
+The Latin word after var. or cf.: sonans (sound and pattern), eloquens (language and sequence), versicolor (the visual), mobilis (the body in motion), fragrans (taste and scent), spatialis (space and structure), sylvestris (nature).
+
+The descriptive second part of a species name, such as alba (white) or officinalis (used in medicine).
+The descriptive second part of a species name, such as alba (white) or officinalis (used in medicine).
+
+indeterminata
+indeterminata
+
+What you see while it is too early to tell.
+What you see while it is too early to tell.
+
+Undetermined: a specimen not yet identified to a variety or species.
+Undetermined: a specimen not yet identified to a variety or species.
+
+Taxonomy
+Taxonomy
+
+The naming logic behind your profile: genus first, then variety, then compare.
+The naming logic behind your profile: genus first, then variety, then compare.
+
+The science of naming and classifying living things in nested ranks.
+The science of naming and classifying living things in nested ranks.
+
+The Path-Finders
+The Path-Finders
+
+A slime mold with no brain that can solve mazes.
+A slime mold with no brain that can solve mazes.
+
+The Surface Spreaders
+The Surface Spreaders
+
+Duckweed. Tiny floating plants that can cover a whole pond.
+Duckweed. Tiny floating plants that can cover a whole pond.
+
+The Underground Network
+The Underground Network
+
+Honey fungus. One organism can span a forest floor.
+Honey fungus. One organism can span a forest floor.
+
+The Drifters Who Always Belong
+The Drifters Who Always Belong
+
+Dandelions. Weeds that settle almost anywhere.
+Dandelions. Weeds that settle almost anywhere.
+
+The Slow Accumulators
+The Slow Accumulators
+
+Clubmosses. Slow, ancient plants that spread by spores.
+Clubmosses. Slow, ancient plants that spread by spores.
+
+The Root System
+The Root System
+
+Bamboo. Many stalks joined by one root system.
+Bamboo. Many stalks joined by one root system.
+
+The Ambitious Ensemble
+The Ambitious Ensemble
+
+Passionflowers. Elaborate climbers with showy blooms.
+Passionflowers. Elaborate climbers with showy blooms.
+
+The Banyan Builders
+The Banyan Builders
+
+Figs, including banyans, whose aerial roots grow into forests.
+Figs, including banyans, whose aerial roots grow into forests.
+
+The Quiet Hands
+The Quiet Hands
+
+Spikemoss. Some species curl up dry and revive when watered.
+Spikemoss. Some species curl up dry and revive when watered.
+
+The Remixers
+The Remixers
+
+Dodder. A leafless parasitic vine that grows on a host plant.
+Dodder. A leafless parasitic vine that grows on a host plant.
+
+The Rare Appearance
+The Rare Appearance
+
+The corpse lily. Enormous, rare, short-lived, and famously foul-smelling.
+The corpse lily. Enormous, rare, short-lived, and famously foul-smelling.
+
+The Room-Readers
+The Room-Readers
+
+The sensitive plant. Folds its leaves when touched.
+The sensitive plant. Folds its leaves when touched.
+
+The Stone Garden
+The Stone Garden
+
+Living stones. Succulents camouflaged as pebbles.
+Living stones. Succulents camouflaged as pebbles.
+
+The Perpetual Second Draft
+The Perpetual Second Draft
+
+Brake ferns. Fiddleheads unfurl into fronds again every season.
+Brake ferns. Fiddleheads unfurl into fronds again every season.
+
+The Sticky Planners
+The Sticky Planners
+
+Sundews. Carnivorous plants with sticky, glistening leaves.
+Sundews. Carnivorous plants with sticky, glistening leaves.
+
+The Sun-Followers
+The Sun-Followers
+
+Sunflowers. Young heads turn to follow the sun.
+Sunflowers. Young heads turn to follow the sun.
+
+food and scent
+food and scent
+
+Steers toward control
+Steers toward control
+
+taste and scent — the sensory payoff of a thing, not just its use
+taste and scent — the sensory payoff of a thing, not just its use
+
+Taste and scent stand out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones with a sensory payoff make up a larger share than they do across the catalog.
+Taste and scent stand out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones with a sensory payoff make up a larger share than they do across the catalog.
+
+Steered by control, what you make here tends toward craft, refined until it is repeatable.
+Steered by control, what you make here tends toward craft, refined until it is repeatable.
+
+quick cycles and lots of small wins
+quick cycles and lots of small wins
+
+every attempt has to be presentable before the next one can start
+every attempt has to be presentable before the next one can start
+
+Physarum, who gets through ten things at once and keeps what works; Drosera, for turning one of your attempts into a plan with a date on it; Taraxacum, for finding whatever water is nearest
+Physarum, who gets through ten things at once and keeps what works; Drosera, for turning one of your attempts into a plan with a date on it; Taraxacum, for finding whatever water is nearest
+
+You take things up alone, with no fixed method, playing loosely with the form each time instead of settling on one version of it. Range is the point: each new form adds ground rather than being a stage on the way to something more polished. Like the duckweed you are named for, you spread across a whole surface at once. From outside it can look as if no single attempt gets your full attention, when you are choosing range over depth. If you ever want depth, pick one attempt and keep it out of the rotation.
+You explore many practices alone, with no fixed method or single way of reading the material. Trying another form is often part of the pleasure. If you want to develop one piece further, give it a place in your schedule alongside the new experiments.
+
+You start easily and in many directions, each attempt with a good reason of its own. Being unafraid of starting is most of what trying new things takes, and you do it on your own terms, without waiting for a plan or for company.
+Keep the experiments you want to revisit somewhere you can find them. A small reminder may be enough to start again.
+
+Once a piece is under way you want it to land where you intended: the same brief produces the same result, and one you can repeat is worth more to you than one you got lucky with. Where the piece goes can be an accident; how it comes out is not. That is the distinction you actually work by: being able to do it again is the asset, and the happy surprise is the accident.
+You value a result you can repeat. Once a piece is under way, you pay attention to which choices make the outcome reliable. This can apply even when you started without a plan.
+
+The repeat performance is a point of pride: the recipe that works every time, the take you can redo on demand. A surprise in the result feels like a leak. The risk is tuning a piece until it is safe and a little sleepy, so schedule one deliberately loose attempt.
+The repeat performance is a point of pride: the recipe that works every time, the take you can redo on demand. A surprise in the result feels like a leak. The risk is tuning a piece until it is safe and a little sleepy, so schedule one deliberately loose attempt.
+
+Moves between control and chance
+Moves between control and chance
+
+steady practice on several fronts
+steady practice on several fronts
+
+everything you have is useful only to you, and you are the only one who knows that
+everything you have is useful only to you, and you are the only one who knows that
+
+Bambusa, who builds a system out of the same separate skills; Lithops, for a private routine that compounds quietly; Drosera, for turning the accumulation into something with a date
+Bambusa, who builds a system out of the same separate skills; Lithops, for a private routine that compounds quietly; Drosera, for turning the accumulation into something with a date
+
+You run a wide range of practices in parallel, alone, each with real method and a hands-on, fairly literal style. You are not choosing a specialty; you are building competence slowly on many fronts, for long enough that the range itself becomes the specialty. Mid-process, from outside, this can look unfocused or undecided, because the payoff shows only in hindsight and over longer stretches than most people judge by. Keeping a visible record of progress helps other people, and sometimes you, see the pattern earlier.
+You build skills in several practices at once, mostly on your own. Each has a method, and you care about getting the material or technique right. Progress can be slow when your time is spread across projects. A record of small milestones can help you decide where to put your attention.
+
+You never announce a specialty and one day discover you have one anyway. You collect skills the way other people collect apps, the range is invisible for years, and then a project comes along that needs all of it and you turn out to be qualified.
+Track progress separately in each practice. It can make a wide skill set easier to maintain and put to use.
+
+Some jobs get a plan and others get left alone to see what happens, and you pick per job rather than by habit. That reads less like a compromise than a judgment call: you size up what the work wants and give it that.
+You use control and chance in different amounts depending on the work. Some parts need a reliable method; others benefit from trying something and seeing what happens.
+
+You read the job before choosing a method, which suits an unpredictable brief. The risk is never quite committing to either approach, so decide early which way a given piece should go and hold to it.
+You read the job before choosing a method, which suits an unpredictable brief. The risk is never quite committing to either approach, so decide early which way a given piece should go and hold to it.
+
+a private routine and one fixed craft
+a private routine and one fixed craft
+
+you are asked to teach what you do
+you are asked to teach what you do
+
+Selaginella, who leaves your progress unremarked; Bambusa, for a system neither of you has to explain; Lycopodium, grinding quietly on several fronts beside you
+Selaginella, who leaves your progress unremarked; Bambusa, for a system neither of you has to explain; Lycopodium, grinding quietly on several fronts beside you
+
+You go deep on a small handful of things, alone, following a plan only you know, and you take the material fairly literally rather than looking for extra meaning in it. Being overlooked costs you very little: quiet, steady, mostly invisible progress is the job, not a consolation prize. You are usually more intense about the work than you look. Because none of it is performed, people who do not already know you often underestimate how much has gone into it, and you may need to say so out loud, since nobody will infer it.
+You work alone and go deep into a few practices. A plan, steady repetition and close attention to the material help you make progress. Much of that work happens out of sight. A record of what you've made can help you see how far you've come and share it with others.
+
+From outside you look like nothing much, and most of the work happens on the inside. You are the friend who has been quietly getting good at the same craft for years, and the reveal is always more impressive than anyone guessed. You do not need it to be noticed; it helps that it eventually is.
+Keep a record of your practice, even when you work privately. It can help you choose the next skill to develop.
+
+Leaves room for chance
+Leaves room for chance
+
+easy to teach yourself
+easy to teach yourself
+
+Taraxacum, who turns up and connects two groups who had not met; Passiflora, for a crew big enough to need you; Lycopodium, for the patient work the network feeds on
+Taraxacum, who turns up and connects two groups who had not met; Passiflora, for a crew big enough to need you; Lycopodium, for the patient work the network feeds on
+
+Lycopodium, for the long slow build; Ficus, when your framework has to become a place other people stand; Pteris, for the version of it that is allowed to change
+Lycopodium, for the long slow build; Ficus, when your framework has to become a place other people stand; Pteris, for the version of it that is allowed to change
+
+You try everything once and keep what worked. To people who like a tidy answer that looks like drift; to anyone who has watched you solve something new in an afternoon it looks like a knack with no job title. You are the person friends call when the problem has no manual.
+A list of experiments can help you see which ones deserve another attempt. You can build depth without giving up the range.
+
+old material and an outside deadline
+old material and an outside deadline
+
+volumetric and spatial
+volumetric and spatial
+
+structurally collaborative
+structurally collaborative
+
+You plan carefully and work the material fairly literally, but a piece is not complete until it happens in front of someone. An audience, a collaborator or a live moment is not decoration on top of the work; it is the step the planning was building toward. The flip side is that rehearsal and private drafts can feel unfinished however good they get, so put the audience on the calendar early instead of waiting until the work feels ready.
+You prepare carefully within a few practices, then bring the work to an audience or a collaborator. You prefer a direct result with a clear purpose. Put the shared session or performance on the calendar early, so your preparation has somewhere to lead.
+
+Space and structure stand out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones about rooms, layout and structure make up a larger share than they do across the catalog.
+Space and structure stand out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones about rooms, layout and structure make up a larger share than they do across the catalog.
+
+Rafflesia, who needs an audience as much as you do; Helianthus, for a stage with the sun on it; Drosera, who holds the plan steady while you read the room
+Rafflesia, who needs an audience as much as you do; Helianthus, for a stage with the sun on it; Drosera, who holds the plan steady while you read the room
+
+other people keep changing a plan you have already settled
+other people keep changing a plan you have already settled
+
+Movement stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that are really about the body in motion make up a larger share than they do across the catalog.
+Movement stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that are really about the body in motion make up a larger share than they do across the catalog.
+
+built from tone, form, or pattern without words
+built from tone, form, or pattern without words
+
+a date, a stage and a plan
+a date, a stage and a plan
+
+You work with a small set of things, mostly alone, by feel rather than by plan, and you take the material as it is instead of reading extra meaning into it. Skill comes from repetition and adjustment on the spot: you try it, see what happened, and change the next attempt. The catch is that this is hard to explain from outside. There is no plan or statement to point to, only the results.
+You return to a few familiar practices and mostly work alone. You learn by trying, noticing what happens and adjusting the next attempt. The material and the finished work matter more to you than explaining them. Keeping a few notes can help you share what you've learned.
+
+the body in motion — thinking through doing, not before it
+the body in motion — thinking through doing, not before it
+
+You think in systems, and you build them from whatever is nearby. Given enough time, almost anything you touch, a hobby, a side project, someone else's half-finished idea, starts to look like a component of something larger you are constructing, usually without your deciding to expand. This is not scattered ambition; it is one long operation with many moving parts. Your system tends to absorb things more than it showcases them, so people sometimes struggle to tell where the original ends and your structure begins, which is either exactly the point or a fair question, depending on who is asking.
+You connect several practices through planned projects with other people. You use each form flexibly and look for ways it can contribute to a larger idea. Make those connections clear to collaborators, and leave room for an individual piece to develop on its own.
+
+closely tied to music and sound
+closely tied to music and sound
+
+usually a solo or freelance pursuit
+usually a solo or freelance pursuit
+
+Your best work often begins from something already there — an existing structure, a piece someone else made, a piece of writing, a piece of music — and you keep working it, alone and without a plan, until it says something it was not built to say. You stay with a small set of these sources rather than roaming, and by the time you are done the original can be hard to recognize. A side effect worth knowing: because the starting point is often borrowed, it can be hard to point at what is yours in the result. Often the answer is the bending itself.
+You often start with something that already exists: a text, an image, a song or a structure. Working alone, you change it as you go until it carries your own meaning. You stay with a few familiar sources. Showing the starting point beside your result can make your contribution easier to see.
+
+Lemna, who also ranges widely; Taraxacum, who turns up wherever there is something to do; Cuscuta, for a route neither of you has taken before
+Lemna, who also ranges widely; Taraxacum, who turns up wherever there is something to do; Cuscuta, for a route neither of you has taken before
+
+built from words and semantic meaning
+built from words and semantic meaning
+
+Mimosa, who draws work out of a room of one; Drosera, for the date that turns a rarity into an event; Ficus, if what you make has to outlast the evening
+Mimosa, who draws work out of a room of one; Drosera, for the date that turns a rarity into an event; Ficus, if what you make has to outlast the evening
+
+closed off to audience influence
+closed off to audience influence
+
+planned well in advance
+planned well in advance
+
+You are often the reason a scene exists. You may never be the name on the poster, but ask anyone in the room who introduced them to everyone else. Projects come and go; the web is the work, and it is worth more than any single thing that passed through it.
+The people connecting your projects are part of your practice too. Make space to maintain those relationships between projects.
+
+You return to the same handful of forms again and again, alone, with real patience and a plan behind each attempt, and you never read them the same way twice. Someone else would call this mastering a fixed thing; you would call it reopening a question. It is why the same old material keeps producing something new in your hands. The cost is that you rarely converge: with no settled reading to measure against, it can be hard for you, or anyone watching, to say when a piece is finished. A deadline set from outside works well here.
+You revisit a few practices on your own, with patience and a plan. Each attempt gives you another way to interpret the same material. Deciding when a piece is finished can be difficult when there is always another version to try. A deadline can help you choose one.
+
+someone else controls one of the parts you depend on
+someone else controls one of the parts you depend on
+
+You have one method and many faces. The work looks unrelated at a glance and is obviously one person's on a second look. Others describe you as a very consistent person doing surprisingly different things, and they are right on both counts.
+Show the connections between your projects with a sketch or a few examples. It can help others understand the method you use.
+
+You organize complicated, beautiful things with lots of people and remember everyone's job. You tend to be the lead, the producer, the one people ring. The flowers are the showy part; the plant is a well-run machine, and you are the one who knows where every wire goes.
+Give collaborators a clear role and a shared view of what comes next. Review the plan when time or attention becomes tight.
+
+a strongly olfactory medium
+a strongly olfactory medium
+
+typically practiced inside institutions or studios
+typically practiced inside institutions or studios
+
+new rooms and new people
+new rooms and new people
+
+essentially irrevocable: one attempt
+essentially irrevocable: one attempt
+
+in service of visual image-making
+in service of visual image-making
+
+Flexible about method, here you can expect to move between planning and improvising.
+Flexible about method, here you can expect to move between planning and improvising.
+
+language and sequence — events read as a story with a shape
+language and sequence — events read as a story with a shape
+
+essentially flat and two-dimensional
+essentially flat and two-dimensional
+
+a strongly tactile medium
+a strongly tactile medium
+
+endlessly revisable
+endlessly revisable
+
+bound up with nature and living systems
+bound up with nature and living systems
+
+a strongly auditory medium
+a strongly auditory medium
+
+Nature people work in seasons, not sessions. You like things that grow, decay and return, and you are patient with slow processes.
+Nature people work in seasons, not sessions. You like things that grow, decay and return, and you are patient with slow processes.
+
+Careful, deliberate growth across many practices and many collaborators at once: ambitious in scope, sociable in how you work, and direct about what each piece is for, even with several running in parallel. With that much in flight and that many people involved, something is always getting less attention than it deserves; the useful habit is to choose what that something is instead of leaving it to chance.
+You plan work across several practices and involve other people in making it happen. You like each piece to have a clear purpose. With several projects moving at once, time and attention need care. Choosing what to finish first can help the group keep its momentum.
+
+Pteris, for reopening the same old questions from a different angle; Armillaria, who gives your rebuilds somewhere to attach; Lithops, who will never ask you to explain the method
+Pteris, for reopening the same old questions from a different angle; Armillaria, who gives your rebuilds somewhere to attach; Lithops, who will never ask you to explain the method
+
+highly controlled and repeatable
+highly controlled and repeatable
+
+Your projects grow aerial roots and become forests. You are the person with the system, the wiki, the web of linked ideas, and a private suspicion that everything can be joined up. It usually can, which is the most annoying part for everyone else.
+A larger system can grow from small projects. Keep track of what each part needs before adding another connection.
+
+You have tried a lot of things and few have gone past a first try. That is a pattern, not a failure: the list is wide and mostly shallow so far, which leaves room to find the one worth the hours.
+You have tried a lot of things and few have gone past a first try. That is a pattern, not a failure: the list is wide and mostly shallow so far, which leaves room to find the one worth the hours.
+
+a scene, a tradition or a regular audience
+a scene, a tradition or a regular audience
+
+The visual stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones you would judge with your eye make up a larger share than they do across the catalog.
+The visual stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones you would judge with your eye make up a larger share than they do across the catalog.
+
+Cuscuta, for reviving old material; Selaginella, for the long quiet stretch a revision needs; Drosera, for a deadline neither of you set yourself
+Cuscuta, for reviving old material; Selaginella, for the long quiet stretch a revision needs; Drosera, for a deadline neither of you set yourself
+
+You keep a small, plainly-done set of things in reserve and bring them out when someone is there to see them. Nothing is planned; it happens on contact with the room, and it is direct rather than layered. The long gaps between appearances are not a lull, they are how you make sure each one is worth watching. Others may call that inconsistent; selective is closer. With nobody around there is little pull to do the thing at all, so putting even a small audience or a partner in place is what gets you moving.
+You keep a few familiar practices ready for an audience or a partner. You respond to the room as things happen, with a direct approach and little advance planning. A small performance or shared session can give you a reason to return to the work.
+
+Sound-minded people hear structure before they see it: rhythm, repetition, how a room changes when something is played in it. You tend to describe things by how they would sound and to notice something is off before you can say why.
+Sound-minded people hear structure before they see it: rhythm, repetition, how a room changes when something is played in it. You tend to describe things by how they would sound and to notice something is off before you can say why.
+
+Physarum, who gets through ten things at once and keeps what works; Taraxacum, for finding whatever water is nearest; Lycopodium, for the slow version where the range becomes the thing
+Physarum, who gets through ten things at once and keeps what works; Taraxacum, for finding whatever water is nearest; Lycopodium, for the slow version where the range becomes the thing
+
+You work best when something is reading you back. You use a small, familiar set of things and adjust them as you go, and the result is never quite the same twice, which is much of the appeal. People often find your company restorative, and this is much of why: you are watching, timing and meeting the room where it is. Played entirely on your own terms, the same work is still good, but it loses something you cannot quite name, and you may find yourself arranging for a witness sooner or later.
+You respond to other people through a few familiar practices. Timing, listening and changing course in the moment are part of how you work. You like room for interpretation, so each attempt comes out differently. Regular time with a collaborator or an audience may help you keep going.
+
+chance-driven and emergent
+chance-driven and emergent
+
+a niche, hobbyist-scale pursuit
+a niche, hobbyist-scale pursuit
+
+being asked to commit to one of these before you are ready
+being asked to commit to one of these before you are ready
+
+rooted in ritual or tradition
+rooted in ritual or tradition
+
+made as singular physical objects or events
+made as singular physical objects or events
+
+Passiflora, for building at a scale you cannot hold alone; Armillaria, for the network running underneath what you assemble; Physarum, for reorganizing at speed without a plan
+Passiflora, for building at a scale you cannot hold alone; Armillaria, for the network running underneath what you assemble; Physarum, for reorganizing at speed without a plan
+
+a strong source to push against
+a strong source to push against
+
+improvised in the moment
+improvised in the moment
+
+more than one thing is in flight and there is no time for the one that matters
+more than one thing is in flight and there is no time for the one that matters
+
+You learn by doing and you are not much for announcing it. People see the result before they hear anything about the process, and if asked how you did it, the honest answer is usually that you kept adjusting until it worked. You tend to get better in unseen stretches, and the improvement shows up all at once.
+Much of your progress comes from repeated attempts. Save a few examples along the way so the small changes are easier to see.
+
+a strongly visual medium
+a strongly visual medium
+
+fixed and literal in meaning
+fixed and literal in meaning
+
+space and structure — how a room or layout shapes what happens in it
+space and structure — how a room or layout shapes what happens in it
+
+being asked to work inside someone else's structure, on their brief and to their rules
+being asked to work inside someone else's structure, on their brief and to their rules
+
+Visual people judge with the eye first: composition, color, what sits next to what. You tend to notice a badly spaced sign before you notice what it says, and to trust a thing more once it looks right.
+Visual people judge with the eye first: composition, color, what sits next to what. You tend to notice a badly spaced sign before you notice what it says, and to trust a thing more once it looks right.
+
+traditionally passed down through apprenticeship
+traditionally passed down through apprenticeship
+
+big projects with a crew
+big projects with a crew
+
+The accident is a collaborator. Happy mistakes are raw material, and you can tell in seconds which ones to keep. The risk is that people who need repeatability, clients and schedulers especially, find you hard to plan around.
+The accident is a collaborator. Happy mistakes are raw material, and you can tell in seconds which ones to keep. The risk is that people who need repeatability, clients and schedulers especially, find you hard to plan around.
+
+a live audience or a partner
+a live audience or a partner
+
+You reopen things other people consider closed. Your desk holds several works that are finished in the sense that you stopped and none in the sense that you are satisfied. This is the price of always seeing one more reading, and also the reason your old material never goes stale.
+Revisit an older piece and decide what you would keep now. A clear stopping point leaves room for the next version.
+
+sound and pattern — rhythm, tone, the shape of something heard
+sound and pattern — rhythm, tone, the shape of something heard
+
+Where other people's finished things are, you see a frame to climb. You tend to be the one with a shelf of other people's ideas half-rebuilt, and an eye for what a piece was secretly reaching for. Starting from nothing is rarely the hard part, because you so often start from something.
+Try showing what changed between the source and your version. It can help you see which decisions you want to keep exploring.
+
+You are the one people wait for. You turn up, do the thing plainly and well, and vanish again, which builds a reputation you did not plan and cannot always keep up. Whoever follows you tends to be loyal and slightly baffled, and you like it that way more than you admit.
+A regular date with a partner or a small audience can give these practices more continuity.
+
+driven by full-body, gross motion
+driven by full-body, gross motion
+
+easy to reproduce at scale
+easy to reproduce at scale
+
+Space people notice what rooms do to people. Layout, light, where a doorway leads: you would rather change the arrangement than the thing arranged, and a badly planned space tends to bother you.
+Space people notice what rooms do to people. Layout, light, where a doorway leads: you would rather change the arrangement than the thing arranged, and a badly planned space tends to bother you.
+
+centered on movement and the body
+centered on movement and the body
+
+understood by decoding symbolic language
+understood by decoding symbolic language
+
+Real discipline goes into one or two practices, and everything you make faces outward: toward a group, an audience or a tradition you are in conversation with, which you read loosely enough to bend toward your own angle. Like a field of sunflowers you all lean toward the light, no two at quite the same angle. Cut off from that audience or tradition, the work can lose its point for you. Keeping at least one live connection is what keeps the discipline pointed at something.
+You put sustained effort into a few practices and share the results with other people. A group, an audience or a tradition gives the work a setting, while you leave room for your own interpretation. Keeping that connection active can help you decide what to work on next.
+
+You make a room livelier: you feel the mood before anyone else and shift the whole performance a few degrees to match. You are probably better on the night than in rehearsal, and may have stopped apologizing for that. What is easy to miss is that this is a reading skill before it is a performing one, and it does not switch off when you are alone.
+Notice which parts change in response to the people around you. Those moments can give you useful material for the next session.
+
+the visual — composition, color, how things sit in a frame
+the visual — composition, color, how things sit in a frame
+
+you are asked to show your working
+you are asked to show your working
+
+Your range of practices is wide, but the thread connecting them is people rather than a method. You move between groups, projects and collaborators, and the network does as much of the work as anything you make inside it, much as a honey fungus is one organism spread across a whole forest floor. In the moment you are direct and improvised rather than mapped out. Take away the collaborators, the scene or the exchange and it gets harder to locate what you are trying to do, because for you the connections are close to the substance of the work, not support for it.
+Your practices connect you with different groups and collaborators. You work across a wide range, respond in the moment and prefer a direct, hands-on result. Shared projects give the work continuity. Keeping track of the people and projects involved can make the next step easier to find.
+
+You build out a wide set of practices with discipline, alone, following one consistent internal logic that carries from one thing to the next. New material gets read loosely enough to be bent into that same underlying structure, so the throughline is the method itself more than whatever it is applied to at the moment. Bamboo is a fair comparison: many stalks, one root system. Collaborators may find it hard to tell whether you care about the thing in front of you or the system it is an instance of, and telling them which is the quickest fix.
+You work alone across several practices, using a consistent method while interpreting each material in your own way. Connections between projects matter to you. When you share the work, explain both the individual piece and the larger idea that connects it to the others.
+
+living systems — growth and change tracked over seasons, not sessions
+living systems — growth and change tracked over seasons, not sessions
+
+Sound stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that live in rhythm and tone make up a larger share than they do across the catalog.
+Sound stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that live in rhythm and tone make up a larger share than they do across the catalog.
+
+built from raw material you originate
+built from raw material you originate
+
+grasped through direct sensory experience
+grasped through direct sensory experience
+
+Language people tend to narrate. Much of what you do has a beginning, a middle and an argument, and even visual work can arrive with a title and a story.
+Language people tend to narrate. Much of what you do has a beginning, a middle and an argument, and even visual work can arrive with a title and a story.
+
+collectives, festivals and open-door projects
+collectives, festivals and open-door projects
+
+built to be used, not just looked at
+built to be used, not just looked at
+
+a new problem with no commitment attached
+a new problem with no commitment attached
+
+part of food-and-drink culture
+part of food-and-drink culture
+
+Open to chance, here unplanned results have the best chance of becoming a recognizable style.
+Open to chance, here unplanned results have the best chance of becoming a recognizable style.
+
+made from organic or living material
+made from organic or living material
+
+a short list and the freedom to add to it
+a short list and the freedom to add to it
+
+Pteris, who works alone too but reopens finished work; Helianthus, for a night when both of you have to be seen; Physarum, for a problem that needs no plan from either of you
+Pteris, who works alone too but reopens finished work; Helianthus, for a night when both of you have to be seen; Physarum, for a problem that needs no plan from either of you
+
+an audience with a date on it
+an audience with a date on it
+
+you are asked to defend one fixed reading of a piece
+you are asked to defend one fixed reading of a piece
+
+driven by an autonomous system you set up
+driven by an autonomous system you set up
+
+Language stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that are really about sequence and narrative make up a larger share than they do across the catalog.
+Language stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that are really about sequence and narrative make up a larger share than they do across the catalog.
+
+you are asked what you are good at, and there is no single answer
+you are asked what you are good at, and there is no single answer
+
+archival: the result persists
+archival: the result persists
+
+Movement people think by doing. You understand something once your body has been through it.
+Movement people think by doing. You understand something once your body has been through it.
+
+You are disciplined and public-facing, the kind of person who turns a craft into a community. You are usually the one explaining the thing to newcomers, and you are better at it because you argue with it yourself. You collect mentors, rivals and students, and the boundary between them is soft.
+Sharing a practice can include teaching, performing or discussing it. Choose the kind of exchange that helps you return to it.
+
+you are asked to explain a plan you never made
+you are asked to explain a plan you never made
+
+assembled by editing existing material
+assembled by editing existing material
+
+made with hazardous or unforgiving materials
+made with hazardous or unforgiving materials
+
+one clear brief and long quiet stretches
+one clear brief and long quiet stretches
+
+the piece leaves no room to adjust as you go
+the piece leaves no room to adjust as you go
+
+purely expressive rather than functional
+purely expressive rather than functional
+
+you are asked to use your method on something it was not built for
+you are asked to use your method on something it was not built for
+
+driven by fine, precise motion
+driven by fine, precise motion
+
+You plan in private and land in public. Your preparation is thorough, and the fact that you rise to the occasion is what surprises people who only saw the spreadsheet. Collaborators seek you out because you are the one who actually read the brief, and probably annotated it.
+Preparation gives you something to rely on when the work goes live. Leave time to rehearse with the people who will take part.
+
+Lemna, who also ranges widely; Cuscuta, for a route neither of you has taken before; Selaginella, for a long quiet stretch
+Lemna, who also ranges widely; Cuscuta, for a route neither of you has taken before; Selaginella, for a long quiet stretch
+
+centered on mark-making and rendering skill
+centered on mark-making and rendering skill
+
+You go wherever there is something to do, and you make almost any room, project or group feel like somewhere you already belonged. No format throws you: hand you an unfamiliar setup and within minutes you have bent your loose approach to fit it. The trade-off is follow-through. Nothing in how you work pulls you back once the novelty is spent, so what stays finished is usually what someone or something expects you to return to: a deadline, a person, a standing commitment.
+You move between practices and groups, adapting your approach as you go. You enjoy interpreting unfamiliar material with other people. Following through can take more effort once the first burst of interest passes. A regular collaborator or a deadline can help a promising start become a finished piece.
+
+shaped around space and the built environment
+shaped around space and the built environment
+
+everyone already knows everyone and there is nobody left to introduce
+everyone already knows everyone and there is nobody left to introduce
+
+You try a wide range of things and do not stay long with most of them. Not scatter, exactly — more that you have not yet found the one that holds your attention, and the ratings say the range is real while the depth is not there yet.
+You try a wide range of things and do not stay long with most of them. Not scatter, exactly — more that you have not yet found the one that holds your attention, and the ratings say the range is real while the depth is not there yet.
+
+shaped by audience participation
+shaped by audience participation
+
+an industry with large commercial scale
+an industry with large commercial scale
+
+made from inert or manufactured material
+made from inert or manufactured material
+
+Nature stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones about growing and natural systems make up a larger share than they do across the catalog.
+Nature stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones about growing and natural systems make up a larger share than they do across the catalog.
+
+You cover a wide range, alone, with no plan going in, taking things mostly at face value. The method resembles the slime mold you are named for: spread out, find the shortest route to something workable, keep what is useful and move on. That is not scatter, it is efficiency across a large territory. Depth and range pull against each other in you, and which one wins depends on what the problem is. A written list of what you have tried tends to make the range visible.
+You try a wide range of practices alone, working out the method as you go. Keeping a record can help you see which ones you want to revisit.
+
+nobody is expecting anything back from you
+nobody is expecting anything back from you
+
+you have to explain yourself to people already inside the tradition
+you have to explain yourself to people already inside the tradition
+
+Drosera, who keeps the dates you need; Armillaria, for the network that holds after everyone goes home; Taraxacum, who lands anywhere and makes the room bigger
+Drosera, who keeps the dates you need; Armillaria, for the network that holds after everyone goes home; Taraxacum, who lands anywhere and makes the room bigger
+
+open to interpretation
+open to interpretation
+
+made with safe, forgiving materials
+made with safe, forgiving materials
+
+Accidents and unplanned turns are not corrected out of your process; they are often where the best part of the result comes from. Working this loosely is harder than it looks.
+You leave room for accidents and unexpected results. Part of the work is noticing which surprises to keep and which to try again.
+
+Sensory people treat taste and smell as serious information. You are drawn to what can be cooked, worn or consumed, and suspect anything that ignores the senses of being only half finished.
+Sensory people treat taste and smell as serious information. You are drawn to what can be cooked, worn or consumed, and suspect anything that ignores the senses of being only half finished.
+
+a strongly gustatory medium
+a strongly gustatory medium
+
+a personal framework you can keep extending
+a personal framework you can keep extending
+
+You seed yourself into every room and bloom there. You are the one asked to just help out because you will make it work, and you do, and it is fun, and three weeks later you are somewhere else with a new group who swear you have always been there.
+Before leaving a new project, choose one next step and a time to return. A small commitment can keep a useful idea alive.
+
+typically a solo pursuit
+typically a solo pursuit
+
+ephemeral: the result doesn't last
+ephemeral: the result doesn't last
+
+one ever-growing project with room to spread
+one ever-growing project with room to spread
+
+rooted in language and storytelling
+rooted in language and storytelling
+
+Helianthus, who also turns outward when the work is ready; Physarum, for the part of the plan that keeps not working; Lycopodium, for the slow accumulation behind the deadline
+Helianthus, who also turns outward when the work is ready; Physarum, for the part of the plan that keeps not working; Lycopodium, for the slow accumulation behind the deadline
+
+Ficus, for an empire to run rather than a job to finish; Armillaria, for the network that outlives the crew; Mimosa, for reading the room when a big project turns tense
+Ficus, for an empire to run rather than a job to finish; Armillaria, for the network that outlives the crew; Mimosa, for reading the room when a big project turns tense
+
+new problems with low commitment
+new problems with low commitment
+
+hand-controlled at every step
+hand-controlled at every step
+
+the visual
+the visual
+
+you are asked which of these is the real one
+you are asked which of these is the real one
+
+Armillaria, who keeps the network you seeded; Helianthus, who will find you a stage when the drift settles; Mimosa, who reads the room you have just walked into
+Armillaria, who keeps the network you seeded; Helianthus, who will find you a stage when the drift settles; Mimosa, who reads the room you have just walked into

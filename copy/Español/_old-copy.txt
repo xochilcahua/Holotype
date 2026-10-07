@@ -1,0 +1,311 @@
+(a range from 0, very familiar, to 100, very new; it appears once you've rated something). Matching tiles get a small colored mark, several tags can stack, and in your Herbarium they show only on art forms you haven't rated yet. You start with none.
+(un rango de 0, muy familiar, a 100, muy nuevo; aparece una vez que has calificado algo). Los mosaicos coincidentes obtienen una pequeña marca de color, se pueden apilar varias etiquetas y en tu herbario se muestran solo en formas de arte que aún no has calificado. Empiezas con ninguno.
+
+(compare) for up to two fields your ratings clearly favor, each spelled out in plain words just below. The five bars show where you sit on each axis compared with other people. With fewer than four ratings, or while nothing you rated is above a first try (3 or higher), you get a provisional genus only, with no variety or leans yet. The plant's shape and its colors follow your ratings, so both keep moving as you rate: the plant is inked with the same three colors as your holotype, with the one you lean into most leading. What stays put is the small companion beside the plant and the exact tone of the colors: they are chosen once for you and saved in your session file.
+(compare) para hasta dos campos que sus calificaciones favorezcan claramente, cada uno de ellos explicado con palabras sencillas justo debajo. Las cinco barras muestran dónde te sientas en cada eje en comparación con otras personas. Con menos de cuatro calificaciones, o si nada de lo que calificaste está por encima del primer intento (3 o más), obtienes solo un género provisional, sin variedad ni inclinación todavía. La forma de la planta y sus colores siguen tus calificaciones, por lo que ambos continúan moviéndose a medida que calificas: la planta está entintada con los mismos tres colores que tu holotipo, siendo el que más te inclinas. Lo que permanece es el pequeño compañero al lado de la planta y el tono exacto de los colores: se eligen una vez por ti y se guardan en tu archivo de sesión.
+
+(grouped by field, nearest first within each) and
+(agrupados por campo, el primero más cercano dentro de cada uno) y
+
+(grouped by your own color tags, so it needs some) complete the list. The Herbarium's "Not yet explored" list follows the same choice. Search by name at any time.
+(agrupados por sus propias etiquetas de color, por lo que necesita algunos) complete la lista. La lista "Aún no explorado" del Herbario sigue la misma elección. Busque por nombre en cualquier momento.
+
+(or "Print > PDF" / "Microsoft Print to PDF") as the destination. Nothing is uploaded anywhere.
+(o "Imprimir > PDF" / "Microsoft Print to PDF") como destino. No se sube nada a ningún lado.
+
+(variety) for how you handle chance, and
+(variedad) por cómo manejas el azar, y
+
+, by how
+, por cómo
+
+, drawn as its own plant and given a tribe name. Beneath that, written the way botanists write a name, sit up to two short Latin notes:
+, dibujada como su propia planta y dándole el nombre de una tribu. Debajo, escrito como los botánicos escriben un nombre, se encuentran dos breves notas en latín:
+
+. The flower at the top is a fingerprint of your ratings, inked by the category you lean into most. Below it, your
+. La flor en la parte superior es una huella digital de tus calificaciones, entintada por la categoría en la que más te inclinas. Debajo, tu
+
+: stacked full width and split into three columns each, which fits most of the catalogue on one screen. The
+: apilados en todo su ancho y divididos en tres columnas cada una, lo que cabe en la mayor parte del catálogo en una pantalla. el
+
+: the art forms the most people have tried at some point, an estimated share of adults shown beside each one in the Herbarium list (a filled dot is a published survey figure, a hollow ring is an estimate).
+: las formas de arte que la mayoría de las personas han probado en algún momento, una proporción estimada de adultos se muestra al lado de cada una en la lista del Herbario (un punto relleno es una cifra de encuesta publicada, un anillo hueco es una estimación).
+
+All of these follow you across the app, not just the grid. Whatever you have filtered down to is what the
+Todos estos te siguen a través de la aplicación, no solo en la cuadrícula. Lo que sea que hayas filtrado es lo que el
+
+Based on only {0} rating{1} so far, all within one category. This is an early read, not a settled type, and the shape may open up as you rate things elsewhere.
+Basado únicamente en la {0}calificación{1} hasta el momento, todo dentro de una categoría. Esta es una lectura temprana, no un tipo establecido, y la forma puede abrirse a medida que califica las cosas en otros lugares.
+
+Based on only {0} rating{1} so far, already spread across a few categories. This is an early read, not a settled type, though the spread itself is a real signal.
+Basado únicamente en la {0}calificación{1} hasta el momento, ya distribuida en algunas categorías. Esta es una lectura temprana, no una lectura definitiva, aunque el diferencial en sí es una señal real.
+
+Botanical terms, and what they mean in biology as well as in Holotype, are explained in the
+Los términos botánicos y lo que significan tanto en biología como en holotipo se explican en el
+
+Both lists follow your filters, so switching off
+Ambas listas siguen tus filtros, así que desactiva
+
+Choose what to include: the PDF only contains the sections checked below, so it can stay as condensed or as complete as you want. Opens your browser's print dialog; choose
+Elija qué incluir: el PDF solo contiene las secciones marcadas a continuación, por lo que puede permanecer tan condensado o completo como desee. Abre el cuadro de diálogo de impresión de su navegador; elegir
+
+Clear all
+Borrar todo
+
+Cuscuta
+Cúscuta
+
+Filters narrow the catalogue by
+Los filtros acotan el catálogo por
+
+Helianthus
+helianto
+
+Herbarium page
+página del herbario
+
+Lithops
+litops
+
+Lycopodium
+licopodio
+
+Mimosa
+mimosa
+
+Newest third
+El tercio más novedoso
+
+On the Herbarium page, choose which sections to include and press Save as PDF; it uses your browser's own print dialog and nothing is uploaded. The sheet contains exactly the art forms your filters currently allow, and the subheading says how many of the catalogue it lists. Include the
+En la página Herbario, elija qué secciones incluir y presione Guardar como PDF; utiliza el cuadro de diálogo de impresión propio de su navegador y no se carga nada. La hoja contiene exactamente las formas artísticas que sus filtros permiten actualmente, y el subtítulo dice cuántas del catálogo enumera. Incluir el
+
+Only {0} rating{1} so far. {2} is a starting guess, not a verdict — it leans on what you have told us and not much else. Rate a few things you have actually kept doing and it will sharpen.
+Sólo {0} calificación{1} hasta el momento. {2} es una suposición inicial, no un veredicto: se basa en lo que usted nos ha dicho y no mucho más. Califica algunas cosas que has seguido haciendo y mejorarás.
+
+Open the palette icon to give any trait a color: category, cost, space, learning curve, self-taught friendly, or
+Abra el ícono de la paleta para darle un color a cualquier rasgo: categoría, costo, espacio, curva de aprendizaje, amigable autodidacta o
+
+Passiflora
+pasiflora
+
+Physarum
+fisarum
+
+Some art forms contain more specific ones. A small
+Algunas formas de arte contienen otras más específicas. un pequeño
+
+Strongly
+fuertemente
+
+Taraxacum
+taraxacum
+
+The
+el
+
+The Herbarium's lists open
+Las listas del Herbario abiertas
+
+The file has {0} rating{1}{2}, and you have {3}.
+El archivo tiene {0} clasificación{1}{2} y tú tienes {3}.
+
+The page is your
+la pagina es tuya
+
+The sort menu in the top bar orders the art forms you have not rated. It opens on
+El menú de clasificación en la barra superior ordena las formas de arte que no has calificado. se abre en
+
+This clears {0} rating{1}, all color and distance tags, and the name on this device, so the next person starts with a blank garden. Your light/dark and export settings stay. This can't be undone.
+Esto borra la {0}clasificación{1}, todas las etiquetas de color y distancia, y el nombre de este dispositivo, por lo que la siguiente persona comienza con un jardín en blanco. Tus configuraciones de luz/oscuridad y exportación permanecen. Esto no se puede deshacer.
+
+Unique vs. editionable (not used in scoring)
+Único versus editable (no se usa en la puntuación)
+
+a rating entry that was not an object
+una entrada de calificación que no era un objeto
+
+a tag that was not an object
+una etiqueta que no era un objeto
+
+aleatoria
+aleatorio
+
+beside a name means four more specific forms sit inside it (Dance holds Flamenco, Capoeira, Chinese Opera and Pole Dance). Each of those has its own tile, with the larger form named in small type above its name. Open either side and you see the other: a larger form lists the forms inside it, and a specific form shows a
+al lado de un nombre significa que en su interior se encuentran cuatro formas más específicas (Danza incluye Flamenco, Capoeira, Ópera China y Pole Dance). Cada uno de ellos tiene su propio mosaico, con la forma más grande nombrada en letra pequeña encima de su nombre. Abra cualquiera de los lados y verá el otro: un formulario más grande enumera los formularios que contiene y un formulario específico muestra un
+
+button loosens them into two side-by-side lists, what you rated on the left and what you have not on the right. That choice is for reading only — it is not saved to your session and does not change the PDF.
+El botón los divide en dos listas una al lado de la otra, lo que calificó a la izquierda y lo que no calificó a la derecha. Esa opción es solo para lectura: no se guarda en su sesión y no cambia el PDF.
+
+category
+categoría
+
+condensed
+condensado
+
+contains, so a list you narrowed to five art forms exports as five rows rather than the whole catalog. Both halves are shown by default; switch one off and it leaves the page and the export too. When a filter is holding something back, the list heading says so, as "12 of {0}", so a short list is never mistaken for the whole thing.
+contiene, por lo que una lista que redujo a cinco formas de arte se exporta como cinco filas en lugar de todo el catálogo. Ambas mitades se muestran de forma predeterminada; apague uno y abandonará la página y la exportación también. Cuando un filtro retiene algo, el encabezado de la lista lo dice como "12 de {0}", por lo que una lista corta nunca se confunde con todo.
+
+distance from your taste
+distancia de tu gusto
+
+genus
+género
+
+growth habit
+hábito de crecimiento
+
+half
+la mitad
+
+high
+alto
+
+holotype
+holotipo
+
+is where what you have grown gets pressed, labeled and kept: your holotype, your growth habit, your rated and unexplored lists, and the PDF export, all built live from your ratings. Switch with the tabs in the top bar; nothing is lost when you do.
+es donde lo que ha crecido se presiona, etiqueta y conserva: su holotipo, su hábito de crecimiento, sus listas calificadas e inexploradas y la exportación en PDF, todo construido en vivo a partir de sus calificaciones. Cambie con las pestañas en la barra superior; No se pierde nada cuando lo haces.
+
+is where you rate: every art form is a tile, with your rated ones collected at the top. The
+Es donde calificas: cada forma de arte es un mosaico, y las que calificas se encuentran en la parte superior. el
+
+language
+lenguaje
+
+large
+grande
+
+leaves only what you've rated.
+deja solo lo que has calificado.
+
+lists and what the
+listas y cuales son
+
+long
+largo
+
+low
+bajo
+
+medium
+medio
+
+moderate
+moderado
+
+movement
+movimiento
+
+names how you tend to work, as a plant. The big italic word is your
+nombra cómo tiendes a trabajar, como planta. La palabra grande en cursiva es tu
+
+nature
+naturaleza
+
+need at least one rating to mean anything: closest leads with what is most like the things you rated, furthest is there if you would rather be surprised than be helped.
+Necesita al menos una calificación para significar algo: lo más cercano conduce a lo que más se parece a las cosas que calificó, lo más lejano está ahí si prefiere sorprenderse antes que recibir ayuda.
+
+new
+nuevo
+
+none
+ninguno
+
+ordinata
+ordenada
+
+{0} item{1} skipped
+{0} elemento{1} omitido
+
+{0} more specific form{1} inside this one
+{0} formulario más específico{1} dentro de este
+
+{0} more specific form{1} inside this one, shown as their own cards
+{0}formulario más específico{1} dentro de este, mostrado como sus propias tarjetas
+
+{0} rating{1} kept aside
+{0} calificación{1} mantenida a un lado
+
+{0} tag rule{1} this version can't place (kept aside)
+{0} regla de etiquetas{1} esta versión no se puede colocar (se mantiene a un lado)
+
+{0} unfamiliar field{1} ({2}) were kept and will be included when you save again.
+{0}campo desconocido{1} ({2}) se conservaron y se incluirán cuando vuelva a guardar.
+
+puts everything back.
+devuelve todo.
+
+quick
+rapido
+
+reach
+alcanzar
+
+reverses it.
+lo invierte.
+
+section naming its parent, plus the other forms under the same parent. They are ordinary art forms, rated separately, so rate whichever level matches what you actually do.
+sección que nombra su padre, más los demás formularios bajo el mismo padre. Son formas de arte ordinarias, clasificadas por separado, así que califica el nivel que coincida con lo que realmente haces.
+
+section to have the sheet record which filters, sort and search produced it, so a shortened sheet can be explained later. You can also save your session as a small file (ratings, name, tags, filters, sort, and your plant's colors and companion) and load it in a later visit to pick up where you left off. Sessions saved in earlier versions still load. If an art form has since been renamed it is matched automatically, and if it was split or removed your rating is set aside and listed for you to place again, never silently dropped; art forms added since are simply unrated until you find and rate them. The circular arrow in the top bar wipes ratings, tags, name and plant so the next person on the same device starts fresh (after a confirmation).
+sección para tener el registro de la hoja que filtra, clasifica y busca lo produjo, por lo que una hoja abreviada se puede explicar más adelante. También puede guardar su sesión como un archivo pequeño (clasificaciones, nombre, etiquetas, filtros, clasificación y los colores y acompañantes de su planta) y cargarlo en una visita posterior para continuar donde lo dejó. Las sesiones guardadas en versiones anteriores aún se cargan. Si desde entonces se ha cambiado el nombre de una forma de arte, se empareja automáticamente, y si se dividió o eliminó, su calificación se guarda y se enumera para que usted la vuelva a colocar, nunca se elimina silenciosamente; Las formas de arte agregadas desde entonces simplemente no están calificadas hasta que las encuentres y las califiques. La flecha circular en la barra superior borra las calificaciones, las etiquetas, el nombre y la planta para que la siguiente persona en el mismo dispositivo comience de nuevo (después de una confirmación).
+
+slider: turned up, everything you know counts for more, so more of it reads as familiar and the closest-first list tightens around your own field; turned down, only your nearest neighbours get credit and the rest of the catalog stays new ground.
+control deslizante: aparece hacia arriba, todo lo que sabes cuenta para más, por lo que una mayor parte se lee como familiar y la lista de los más cercanos primero se ajusta a tu propio campo; rechazado, sólo sus vecinos más cercanos obtienen crédito y el resto del catálogo permanece en terreno nuevo.
+
+small
+pequeño
+
+some category filters no longer exist
+algunos filtros de categorías ya no existen
+
+some familiarity filters not recognised
+algunos filtros de familiaridad no reconocidos
+
+something is to you (Familiar, In between, New ground), by which
+algo es para ti (Familiar, En el medio, Nuevo terreno), por el cual
+
+sound
+sonido
+
+space
+espacio
+
+studio
+estudio
+
+tab of this window.
+pestaña de esta ventana.
+
+yes
+si
+
+you want to see (My garden, Not yet rated), and they hold the
+quieres ver (Mi jardín, Aún no calificado), y sostienen el
+
+Leans {0}
+Tiende hacia: {0}
+
+Strongly {0}
+Marcadamente: {0}
+
+goes
+va
+
+go
+van
+
+would
+daría
+
+it
+esa valoración
+
+one thing
+una actividad
+
+you have kept
+que has seguido practicando
+
+Sports & Martial Arts
+Deportes y artes marciales

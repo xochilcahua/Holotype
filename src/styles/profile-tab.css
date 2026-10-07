@@ -1,0 +1,800 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later
+   Copyright (C) 2026 Teo Monroy */
+
+/* THE HERBARIUM TAB: the holotype plate, the classification, the two
+lists and the reading key. On-screen only -- what the PDF gets is
+in print.css. */
+
+/* ---------------- Profile tab (on-screen; distinct from the print-only #printExport below) ---------------- */
+#profileView[hidden] {
+  display: none;
+}
+#profileView {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding-top: 22px;
+}
+.prof-hero {
+  display: flex;
+  gap: 36px 44px;
+  align-items: center;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+.prof-hero .prof-catbars {
+  flex: 1 1 300px;
+  max-width: 460px;
+}
+/* The two lists, and the rule between them. Comfortable puts them side by side - one column of what
+   you rated, one of what you have not - the way a printed sheet divides its columns. Condensed
+   stacks them full width and splits each into three, which is the point of condensed. The rule is
+   the same hairline the section headings already use, turned vertical or horizontal, so the two
+   read as one sheet rather than as two widgets. */
+.prof-lists {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 30px;
+}
+@media (min-width: 1080px) {
+  .prof-lists {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 0;
+  }
+  .prof-lists > .prof-block:first-child {
+    padding-right: 30px;
+  }
+  .prof-lists > .prof-block + .prof-block {
+    border-left: 1px solid var(--line-2);
+    padding-left: 30px;
+  }
+}
+#profileView.dense .prof-lists {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 24px;
+}
+#profileView.dense .prof-lists > .prof-block:first-child {
+  padding-right: 0;
+}
+#profileView.dense .prof-lists > .prof-block + .prof-block {
+  border-left: 0;
+  border-top: 1px solid var(--line-2);
+  padding-left: 0;
+  padding-top: 24px;
+}
+.prof-block {
+  min-width: 0;
+}
+.prof-flower-wrap {
+  flex: 0 0 220px;
+  display: flex;
+  justify-content: center;
+}
+.prof-flower-wrap svg {
+  width: 220px;
+  height: 220px;
+  overflow: visible;
+}
+.prof-hero-text {
+  flex: 1;
+  min-width: 260px;
+}
+.prof-eyebrow {
+  font: 700 11px var(--font-ui);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink-3);
+  margin-bottom: 6px;
+}
+/* overflow-wrap:anywhere (not break-word) so a single unbroken token like a long surname is
+   broken too — break-word left a 1005px overflow on the on-screen title at every width. */
+.prof-title {
+  font: 700 30px/1.15 var(--font-display);
+  margin: 0 0 4px;
+  overflow-wrap: anywhere;
+}
+.prof-hero-desc {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  max-width: 60ch;
+  margin: 8px 0 0;
+}
+.prof-stats {
+  display: flex;
+  gap: 28px;
+  margin: 16px 0 0;
+}
+.prof-stat b {
+  display: block;
+  font: 700 24px var(--font-display);
+  line-height: 1;
+}
+.prof-stat span {
+  font: 11px var(--font-ui);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-3);
+}
+
+.prof-section {
+  margin-top: 34px;
+  padding-top: 22px;
+  border-top: 1px solid var(--line);
+}
+.prof-section h2 {
+  font: 700 20px var(--font-display);
+  margin: 0 0 14px;
+}
+.prof-section p.lede {
+  font-size: 13px;
+  color: var(--ink-2);
+  line-height: 1.6;
+  margin: 0 0 18px;
+  max-width: 100ch;
+}
+
+.prof-axisbars {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin: 26px 0 4px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--line-2);
+}
+.prof-axisbar-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.prof-axisbar-pole {
+  flex: none;
+  width: 96px;
+  font: 700 10.5px var(--font-ui);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-3);
+}
+.prof-axisbar-pole.hi {
+  text-align: right;
+}
+.prof-axisbar-track {
+  position: relative;
+  flex: 1;
+  height: 4px;
+  background: var(--sunken);
+  border-radius: 3px;
+}
+.prof-axisbar-marker {
+  position: absolute;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 0 3px var(--paper);
+}
+
+.prof-catbars {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  max-width: 480px;
+}
+.prof-catbar-row {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 12px;
+}
+.prof-catbar-row .name {
+  width: 160px;
+  flex: none;
+  color: var(--ink-2);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.prof-catbar-track {
+  flex: 1;
+  height: 6px;
+  background: var(--sunken);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.prof-catbar-fill {
+  display: block;
+  height: 100%;
+  border-radius: 3px;
+}
+.prof-catbar-row .pct {
+  width: 34px;
+  flex: none;
+  text-align: right;
+  color: var(--ink-3);
+}
+
+.prof-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.prof-table th {
+  text-align: left;
+  font: 700 10.5px var(--font-ui);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-3);
+  padding: 0 6px 6px;
+  border-bottom: 1px solid var(--line-2);
+}
+.prof-table th.num {
+  text-align: right;
+}
+.th-sort {
+  font: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  color: var(--ink-2);
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+.th-sort:hover {
+  color: var(--ink);
+}
+.prof-table td {
+  padding: 5px 6px;
+  border-bottom: 1px solid var(--line);
+  vertical-align: middle;
+}
+.prof-table td.dot-cell {
+  width: 46px;
+  white-space: nowrap;
+}
+.prof-table td.dot-cell .pe-dot + .pe-dot {
+  margin-left: 2px;
+}
+.prof-table td.muted {
+  color: var(--ink-3);
+}
+.prof-table td.num {
+  text-align: right;
+  color: var(--ink-2);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+/* "How common" only appears while a commonness sort is active. The dot is the honesty signal: filled
+   where a published NEA figure backs the number, hollow where it is modelled, so the reader can see
+   at a glance which rows are figures and which are judgement. */
+.prof-table th.pct-cell,
+.prof-table td.pct-cell {
+  width: 92px;
+  padding-left: 10px;
+}
+.prof-table td.pct-cell {
+  color: var(--ink-2);
+}
+.pc-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-right: 5px;
+  border-radius: 50%;
+  background: var(--ink-3);
+  vertical-align: middle;
+}
+.pc-dot.pc-est {
+  background: none;
+  box-shadow: inset 0 0 0 1.5px var(--ink-3);
+}
+@media (forced-colors: active) {
+  .pc-dot.pc-est {
+    background: none;
+    box-shadow: inset 0 0 0 1.5px CanvasText;
+  }
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.prof-subhead {
+  font: 700 12px var(--font-ui);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-2);
+  margin: 0 0 8px;
+}
+
+/* The unexplored list runs to nearly 300 rows. In one narrow column that is an endless scroll, so
+   on a wide screen it is split across columns the same way the print sheet already does it. The
+   sub-tables carry the same class as the single table they replace, so anything selecting rows by
+   that class (the test runner, print styling) still finds every row.
+
+   The column count arrives as --cols from splitTableRows(), the same function that decided how many
+   sub-tables to emit. It used to be decided twice - here by media query, there by script - and the
+   two disagreed at 1440px, where CSS allowed three columns but the script only emitted two, so the
+   third sub-table dropped onto a row of its own and stretched the list back down to two columns of
+   reading. One source of truth now. */
+.prof-multi {
+  display: grid;
+  grid-template-columns: repeat(var(--cols, 1), minmax(0, 1fr));
+  gap: 0 26px;
+  align-items: start;
+}
+#profileView.dense .prof-multi {
+  gap: 0 18px;
+}
+
+/* Condensed density: same information, less air. Toggled per-visit rather than a permanent
+   redesign, because which one you want depends on how much of the list you actually read. */
+#profileView.dense .prof-table {
+  font-size: 12px;
+}
+#profileView.dense .prof-table td {
+  padding: 2px 5px;
+}
+#profileView.dense .prof-table th {
+  padding: 0 5px 4px;
+}
+#profileView.dense .prof-subhead {
+  margin: 0 0 6px;
+}
+#profileView.dense .prof-legend {
+  margin-bottom: 16px;
+}
+.prof-density-btn {
+  margin: 0;
+}
+/* Title and toggle share one baseline. The toggle used to sit in its own row with a -6px top
+   margin, which cancelled the heading's own spacing and left the two looking accidentally placed. */
+.prof-density-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px 20px;
+  flex-wrap: wrap;
+  margin: 0 0 6px;
+}
+.prof-density-row h2 {
+  margin: 0;
+}
+/* The filter note sits under the heading at full width. It was a right-aligned flex sibling of the
+   toggle, which pushed it away from the sentence it explains and left a ragged gap beside it. */
+.prof-density-note {
+  margin: 0 0 14px;
+  font-size: 12px;
+  line-height: 1.55;
+  color: var(--ink-3);
+  max-width: 78ch;
+}
+
+.prof-export-card {
+  margin: 0 0 14px;
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface);
+}
+.prof-export-card h3 {
+  font: 700 16px var(--font-display);
+  margin: 0 0 4px;
+}
+.prof-export-card .sub {
+  font-size: 12.5px;
+  color: var(--ink-2);
+  margin: 0 0 18px;
+}
+.prof-export-checks {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 10px 18px;
+  margin: 4px 0 20px;
+}
+/* The load/save report. sessionReportHTML() writes into #sessionStatus, so these
+   style that one element; it holds either a one-line status or, after a load, a
+   <details> breakdown of what was kept aside. */
+.session-status p {
+  margin: 0 0 8px;
+}
+.session-status details {
+  margin: 6px 0;
+}
+.session-status summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.session-status ul {
+  margin: 6px 0 4px 18px;
+  padding: 0;
+}
+.session-status .muted {
+  color: var(--ink-3);
+}
+.prof-check-row {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 13px;
+  color: var(--ink);
+}
+.prof-check-row input {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--focus);
+}
+
+#profileView .pe-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex: none;
+}
+#profileView .pe-dot-lg {
+  width: 10px;
+  height: 10px;
+}
+
+.cat-ico {
+  display: inline-block;
+  vertical-align: middle;
+  flex: none;
+}
+.prof-table td.ico-cell {
+  width: 30px;
+  text-align: center;
+  padding-right: 2px;
+}
+tr.tagged td.ico-cell {
+  border-left: 3px solid var(--tag);
+}
+
+/* The reading key. A closed disclosure by default: the prose plus the 12-icon category key is ~120px
+   of always-on furniture sitting between the heading and the lists, and none of it changes once you
+   have read it once. It uses the same summary treatment the session report already uses, so it
+   reads as part of the sheet rather than as a panel dropped in. */
+.prof-legend {
+  margin: 0 0 18px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+}
+.prof-legend > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  font: 600 12px var(--font-ui);
+  color: var(--ink-2);
+}
+.prof-legend > summary::-webkit-details-marker {
+  display: none;
+}
+.prof-legend > summary::before {
+  content: "+";
+  font: 700 13px/1 var(--font-ui);
+  color: var(--ink-3);
+  width: 12px;
+  text-align: center;
+}
+.prof-legend[open] > summary::before {
+  content: "\2212";
+}
+.prof-legend > summary:hover {
+  color: var(--ink);
+}
+.prof-legend-body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0 14px 14px;
+}
+.prof-legend-note {
+  margin: 0;
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  max-width: 62ch;
+}
+.prof-legend-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 16px;
+  font-size: 12.5px;
+  color: var(--ink-2);
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+/* Open, the note and the key sit side by side. Stacked, the note's ~62ch measure left half the
+   disclosure empty, which is the same dead space the disclosure was introduced to remove. This has
+   to come after the base .prof-legend-row rule: a media query adds no specificity, so a later
+   same-specificity rule would win regardless of the breakpoint. */
+@media (min-width: 900px) {
+  .prof-legend-body {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+    gap: 0 34px;
+    align-items: start;
+  }
+  .prof-legend-note {
+    grid-row: 1 / span 2;
+  }
+  .prof-legend-row {
+    padding-top: 0;
+    border-top: 0;
+  }
+}
+.prof-legend-row b {
+  flex: 0 0 82px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-3);
+}
+.prof-key {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.confirm-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: rgb(0 0 0 / 0.5);
+}
+.confirm-box {
+  width: min(440px, 100%);
+  padding: 22px;
+  border-radius: 16px;
+  border: 1px solid var(--line-2);
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: 0 20px 60px rgb(0 0 0 / 0.4);
+}
+.confirm-box h3 {
+  font: 700 17px var(--font-display);
+  margin: 0 0 8px;
+}
+.confirm-box p {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  margin: 0 0 18px;
+}
+.confirm-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+.confirm-actions button {
+  height: 36px;
+  padding: 0 16px;
+  border-radius: 9px;
+  border: 1px solid var(--line-2);
+  background: var(--surface);
+  color: var(--ink);
+  font: 600 13.5px var(--font-ui);
+  cursor: pointer;
+}
+.confirm-actions .confirm-ok {
+  background: #b3453a;
+  border-color: #b3453a;
+  color: #fff;
+}
+
+.help-intro {
+  max-width: 84ch;
+}
+.help-cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 44px;
+  align-items: start;
+}
+.help-cols h4:first-child {
+  margin-top: 12px;
+}
+@media (max-width: 860px) {
+  .help-cols {
+    grid-template-columns: 1fr;
+  }
+}
+.hint-note {
+  font-size: 12px;
+  color: var(--ink-3);
+  margin: 8px 0 0;
+  line-height: 1.5;
+}
+
+.prof-growth {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.prof-growth-plant {
+  flex: 0 0 210px;
+  display: flex;
+  justify-content: center;
+}
+.prof-growth-plant svg {
+  width: 210px;
+  height: 260px;
+  overflow: visible;
+}
+.prof-growth-main {
+  flex: 1;
+  min-width: 280px;
+}
+.prof-genus {
+  font: 700 46px/1.05 var(--font-display);
+  font-style: italic;
+  margin: 0;
+}
+.prof-mods {
+  font-size: 14px;
+  color: var(--ink-3);
+  margin: 8px 0 16px;
+  letter-spacing: 0.02em;
+}
+.prof-mods i {
+  font-weight: 600;
+  color: var(--ink-2);
+}
+.prof-growth-main p {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--ink-2);
+  margin: 0 0 12px;
+  max-width: 72ch;
+}
+.prof-growth-main p.prof-lean {
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+.prof-early-note-line {
+  font-size: 12px;
+  margin: -6px 0 16px;
+}
+/* the provisional-framing lead-in on the genus paragraph when there are very few ratings */
+.prof-genus-hedge,
+.pe-genus-hedge {
+  display: block;
+  margin: 0 0 6px;
+  font: 600 12.5px/1.5 var(--font-ui);
+  color: var(--ink-3);
+  font-style: italic;
+}
+/* the dead-band honesty note under the axis bars */
+.prof-axisbar-note {
+  margin: 2px 0 0;
+  font-size: 11.5px;
+  line-height: 1.55;
+  color: var(--ink-3);
+  max-width: 76ch;
+}
+.prof-axisbar-val {
+  flex: none;
+  width: 150px;
+  text-align: right;
+  font: 600 11px var(--font-ui);
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+
+.prof-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 350px;
+  gap: 0 44px;
+  align-items: start;
+}
+.prof-main-r {
+  margin-top: 34px;
+  position: sticky;
+  top: 72px;
+}
+.prof-main-r .prof-export-card {
+  padding: 20px;
+}
+.prof-main-r .prof-export-card .sub {
+  margin-bottom: 14px;
+}
+.prof-main-r .prof-export-checks {
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 12px;
+  margin-bottom: 16px;
+}
+.prof-main-r .prof-export-card input[type="text"] {
+  max-width: none !important;
+}
+.prof-filters-mini {
+  padding: 0 4px;
+}
+.prof-filters-mini h4 {
+  font: 700 11px var(--font-ui);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0 0 6px;
+}
+.prof-filters-mini ul {
+  padding-left: 16px;
+  margin: 0;
+  color: var(--ink-2);
+  font-size: 12.5px;
+  line-height: 1.6;
+}
+.prof-filters-mini p {
+  margin: 0;
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+@media (max-width: 1080px) {
+  .prof-main {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .prof-main-r {
+    position: static;
+    margin-top: 8px;
+  }
+}
+.prof-growth {
+  gap: 28px 36px;
+  align-items: flex-start;
+}
+.prof-growth-plant {
+  flex: 0 0 190px;
+  padding-top: 4px;
+}
+.prof-growth-plant svg {
+  width: 190px;
+  height: 240px;
+}
+.prof-growth-main {
+  min-width: 260px;
+}
+
+#printExport {
+  display: none;
+}
+
+/* On a phone the 150px value label used to share the row with two 96px poles, which left the bar
+   itself 0px wide and pushed the page 5px past the viewport. Let the label drop to its own line
+   and give the track a floor so the marker is always drawn. */
+@media (max-width: 560px) {
+  .prof-axisbar-row {
+    flex-wrap: wrap;
+    row-gap: 4px;
+  }
+  .prof-axisbar-pole {
+    width: auto;
+    flex: 0 1 auto;
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+  .prof-axisbar-track {
+    flex: 1 1 48px;
+    min-width: 48px;
+  }
+  .prof-axisbar-val {
+    width: 100%;
+    text-align: left;
+  }
+}

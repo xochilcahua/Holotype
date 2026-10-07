@@ -1,0 +1,707 @@
+Garden
+Garden
+
+Filters
+Filters
+
+Made by Teo Monroy
+Made by Teo Monroy
+
+Free software under the
+Free software under the
+
+GNU AGPL v3 or later
+GNU AGPL v3 or later
+
+Source code
+Source code
+
+Contact
+Contact
+
+Search art forms
+Search art forms
+
+View
+View
+
+Your Herbarium (E)
+Your Herbarium (E)
+
+Sort order
+Sort order
+
+Language
+Language
+
+Light or dark (T)
+Light or dark (T)
+
+Switch light or dark
+Switch light or dark
+
+Color tags (C)
+Color tags (C)
+
+Color tags
+Color tags
+
+Start over for the next person
+Start over for the next person
+
+Reset Holotype for the next person
+Reset Holotype for the next person
+
+How Holotype works (?)
+How Holotype works (?)
+
+How Holotype works
+How Holotype works
+
+Most common first
+Most common first
+
+Less common first
+Less common first
+
+Closest to you first
+Closest to you first
+
+Furthest from you first
+Furthest from you first
+
+A to Z
+A to Z
+
+By category
+By category
+
+By tag
+By tag
+
+Holotype — find your next creative pursuit
+Holotype — find your next creative pursuit
+
+Rate the creative things you have done; Holotype shows what is near them, what is far, and the shape your practice makes.
+Rate the creative things you have done; Holotype shows what is near them, what is far, and the shape your practice makes.
+
+{0} art forms
+{0} art forms
+
+Rate what you already know with the sliders, and Holotype ranks the rest by how new it is to you.
+Rate what you already know with the sliders, and Holotype ranks the rest by how new it is to you.
+
+Open details for {0}
+Open details for {0}
+
+more specific forms
+more specific forms
+
+{0} inside this one, shown as their own cards
+{0} inside this one, shown as their own cards
+
+{0} inside this one
+{0} inside this one
+
+How well you know {0}
+How well you know {0}
+
+more specific form
+more specific form
+
+{0} rated
+{0} rated
+
+Your garden
+Your garden
+
+Rated
+Rated
+
+Your own rating
+Your own rating
+
+Familiar
+Familiar
+
+Novelty out of 100: how new this would be to you
+Novelty out of 100: how new this would be to you
+
+New ground
+New ground
+
+In between
+In between
+
+Close
+Close
+
+Narrow the catalogue by category, by which half you want to see, or by how new something is to you. The first two apply to the Garden, your Herbarium and the PDF alike.
+Narrow the catalogue by category, by which half you want to see, or by how new something is to you. The first two apply to the Garden, your Herbarium and the PDF alike.
+
+Show
+Show
+
+Both are on by default. Switch one off to leave that half out of the page and the export.
+Both are on by default. Switch one off to leave that half out of the page and the export.
+
+Category
+Category
+
+How new it is
+How new it is
+
+These bands cover the art forms you have not rated, and they narrow the page and the export as well as the Garden.
+These bands cover the art forms you have not rated, and they narrow the page and the export as well as the Garden.
+
+How far your ratings reach
+How far your ratings reach
+
+Higher means each practice you know also counts toward more distant art forms. The middle is the default.
+Higher means each practice you know also counts toward more distant art forms. The middle is the default.
+
+My garden (rated)
+My garden (rated)
+
+Not yet rated
+Not yet rated
+
+Pick a tag (category, cost, space, learning curve, self-taught, or how far an art form sits from your taste) and give it a color. Matching art forms get that color, in the garden and in your Herbarium, and several tags can apply at once.
+Pick a tag (category, cost, space, learning curve, self-taught, or how far an art form sits from your taste) and give it a color. Matching art forms get that color, in the garden and in your Herbarium, and several tags can apply at once.
+
+Add a color tag
+Add a color tag
+
+ratings
+ratings
+
+Start over for the next person?
+Start over for the next person?
+
+This clears {0}, all color and distance tags, and the name on this device, so the next person starts with a blank garden. Your light/dark and export settings stay. This can't be undone.
+This clears {0}, all color and distance tags, and your name and plant on this device. The language returns to English. Your light/dark and export settings stay. This can't be undone.
+
+Keep everything
+Keep everything
+
+Reset
+Reset
+
+Rated {0} of 10
+Rated {0} of 10
+
+Counts as familiar because you know it.
+Counts as familiar because you know it.
+
+What it serves
+What it serves
+
+Serves music/sound
+Serves music/sound
+
+Music and sound
+Music and sound
+
+Serves narrative/literature
+Serves narrative/literature
+
+Story
+Story
+
+Serves visual image-making
+Serves visual image-making
+
+Image-making
+Image-making
+
+Serves movement/the body
+Serves movement/the body
+
+Movement
+Movement
+
+Serves food & drink
+Serves food & drink
+
+Food and drink
+Food and drink
+
+Serves space/architecture
+Serves space/architecture
+
+Space
+Space
+
+Serves nature/living systems
+Serves nature/living systems
+
+Nature
+Nature
+
+Senses it engages
+Senses it engages
+
+Visual
+Visual
+
+Sight
+Sight
+
+Auditory
+Auditory
+
+Hearing
+Hearing
+
+Tactile
+Tactile
+
+Touch
+Touch
+
+Olfactory
+Olfactory
+
+Smell
+Smell
+
+Gustatory
+Gustatory
+
+Taste
+Taste
+
+How it is made
+How it is made
+
+Improvised vs. planned
+Improvised vs. planned
+
+Planned ahead
+Planned ahead
+
+Originates vs. edits
+Originates vs. edits
+
+Edits existing
+Edits existing
+
+Hand- vs. system-controlled
+Hand- vs. system-controlled
+
+System-driven
+System-driven
+
+Interpretive vs. literal
+Interpretive vs. literal
+
+Literal
+Literal
+
+Sensory vs. symbolic
+Sensory vs. symbolic
+
+Symbolic
+Symbolic
+
+Fine vs. gross motor
+Fine vs. gross motor
+
+Full-body motion
+Full-body motion
+
+Safe vs. hazardous materials
+Safe vs. hazardous materials
+
+Hazardous
+Hazardous
+
+Controlled vs. chance-driven
+Controlled vs. chance-driven
+
+Chance-driven
+Chance-driven
+
+Flat vs. volumetric
+Flat vs. volumetric
+
+Three-dimensional
+Three-dimensional
+
+Solo vs. collaborative
+Solo vs. collaborative
+
+Collaborative
+Collaborative
+
+Closed vs. audience-shaped
+Closed vs. audience-shaped
+
+Audience-shaped
+Audience-shaped
+
+Irrevocable vs. revisable
+Irrevocable vs. revisable
+
+Revisable
+Revisable
+
+Ephemeral vs. archival
+Ephemeral vs. archival
+
+Long-lasting
+Long-lasting
+
+Materials and setting
+Materials and setting
+
+Linguistic vs. tonal/formal content
+Linguistic vs. tonal/formal content
+
+Tone over words
+Tone over words
+
+Organic/living vs. inert/manufactured material
+Organic/living vs. inert/manufactured material
+
+Inert material
+Inert material
+
+Mark-making/rendering vs. non-rendering skill
+Mark-making/rendering vs. non-rendering skill
+
+Not rendering
+Not rendering
+
+Functional/useful vs. purely contemplative
+Functional/useful vs. purely contemplative
+
+Purely expressive
+Purely expressive
+
+Ritual/traditional vs. secular/exhibition context
+Ritual/traditional vs. secular/exhibition context
+
+Secular setting
+Secular setting
+
+Apprenticeship-transmitted vs. self-taught
+Apprenticeship-transmitted vs. self-taught
+
+Self-taught
+Self-taught
+
+Physically singular vs. mass-reproducible
+Physically singular vs. mass-reproducible
+
+Reproducible
+Reproducible
+
+Solo/freelance vs. institutional
+Solo/freelance vs. institutional
+
+Institutional
+Institutional
+
+Niche/hobbyist vs. large commercial scale
+Niche/hobbyist vs. large commercial scale
+
+Large industry
+Large industry
+
+Try this first
+Try this first
+
+Cost
+Cost
+
+Low
+Low
+
+Space needed
+Space needed
+
+None
+None
+
+Learning curve
+Learning curve
+
+Long
+Long
+
+Teach yourself
+Teach yourself
+
+Works well
+Works well
+
+Easily confused by name
+Easily confused by name
+
+{0} details
+{0} details
+
+Related art forms
+Related art forms
+
+Full profile
+Full profile
+
+How well do you know it?
+How well do you know it?
+
+Moderate
+Moderate
+
+Novelty {0} of 100
+Novelty {0} of 100
+
+Closest to {0}, which you rated.
+Closest to {0}, which you rated.
+
+Better with a teacher
+Better with a teacher
+
+Small
+Small
+
+Quick
+Quick
+
+More specific forms under this
+More specific forms under this
+
+A studio
+A studio
+
+A kind of {0}
+A kind of {0}
+
+Also under {0}
+Also under {0}
+
+Part of a larger art form
+Part of a larger art form
+
+Large
+Large
+
+High
+High
+
+{0} of {1} art forms
+{0} of {1} art forms
+
+Remove this tag
+Remove this tag
+
+Self-taught friendly
+Self-taught friendly
+
+Distance from your taste
+Distance from your taste
+
+Use this color
+Use this color
+
+Pick any color
+Pick any color
+
+Closest to your taste (lowest novelty)
+Closest to your taste (lowest novelty)
+
+Furthest from your taste (highest novelty)
+Furthest from your taste (highest novelty)
+
+familiar → new
+familiar → new
+
+Marks art forms you haven't rated whose novelty score falls in this range.
+Marks art forms you haven't rated whose novelty score falls in this range.
+
+Distance from your taste: {0}–{1}
+Distance from your taste: {0}–{1}
+
+Nothing matches. Clear a filter or try a different search.
+Nothing matches. Clear a filter or try a different search.
+
+Clear filters and search
+Clear filters and search
+
+That file isn't valid JSON.
+That file isn't valid JSON.
+
+That doesn't look like a Holotype session file.
+That doesn't look like a Holotype session file.
+
+This file needs features this version of Holotype doesn't have ({0}). Nothing was changed.
+This file needs features this version of Holotype doesn't have ({0}). Nothing was changed.
+
+items
+items
+
+{0}: no usable rating
+{0}: no usable rating
+
+tag rule
+tag rule
+
+{0} this version can't place (kept aside)
+{0} this version can't place (kept aside)
+
+sort order "{0}" not recognised
+sort order "{0}" not recognised
+
+{0} skipped
+{0} skipped
+
+rating
+rating
+
+{0} sits near the middle of most axes, a generalist practice.
+{0} sits near the middle of most axes, a generalist practice.
+
+Not measured yet
+Not measured yet
+
+Rate what you know to see how new this is to you.
+Rate what you know to see how new this is to you.
+
+Among the newest third of what you have not rated.
+Among the newest third of what you have not rated.
+
+Distance is measured from what you've rated, so this tag shows up once you rate at least one art form.
+Distance is measured from what you've rated, so this tag shows up once you rate at least one art form.
+
+{0} of {1} rated
+{0} of {1} rated
+
+You've switched off
+You've switched off
+
+, so there's nothing left here. Your rated art forms are still above.
+, so there's nothing left here. Your rated art forms are still above.
+
+Show everything again
+Show everything again
+
+. Among the newest third of what you have not rated.
+. Among the newest third of what you have not rated.
+
+Holotype: could not build description for
+Holotype: could not build description for
+
+This file was made by a newer version of Holotype. Everything this version understands was loaded, and the rest was kept aside.
+This file was made by a newer version of Holotype. Everything this version understands was loaded, and the rest was kept aside.
+
+This file came from an older version; it was upgraded as it loaded.
+This file came from an older version; it was upgraded as it loaded.
+
+{0} kept aside
+{0} kept aside
+
+These art forms aren't in this version. They stay in your session and come back if the art form returns.
+These art forms aren't in this version. They stay in your session and come back if the art form returns.
+
+{0} ({1}) were kept and will be included when you save again.
+{0} ({1}) were kept and will be included when you save again.
+
+the name {0}
+the name {0}
+
+{0} {1}. Anything the file didn't mention was left as it was.
+{0} {1}. Anything the file didn't mention was left as it was.
+
+Saved {0}.
+Saved {0}.
+
+The file has {0}{1}, and you have {2}.
+The file has {0}{1}, and you have {2}.
+
+Replace
+Replace
+
+swaps in everything the file contains.
+swaps in everything the file contains.
+
+Merge
+Merge
+
+adds its ratings to yours and lets the file win where both rate the same art form. Anything the file doesn't mention is left alone either way.
+adds its ratings to yours and lets the file win where both rate the same art form. Anything the file doesn't mention is left alone either way.
+
+Cancel
+Cancel
+
+for {0}
+for {0}
+
+language "{0}" not available
+language "{0}" not available
+
+an entry
+an entry
+
+not a tag rule
+not a tag rule
+
+unknown dimension
+unknown dimension
+
+no recognised values
+no recognised values
+
+some values not recognised
+some values not recognised
+
+could not be read
+could not be read
+
+That file is too large to be a Holotype session.
+That file is too large to be a Holotype session.
+
+, replaced by
+, replaced by
+
+filters and sort order
+filters and sort order
+
+Merged
+Merged
+
+Loaded
+Loaded
+
+That file had nothing this version could use. Nothing was changed.
+That file had nothing this version could use. Nothing was changed.
+
+Save cancelled.
+Save cancelled.
+
+Couldn't save the file in this browser.
+Couldn't save the file in this browser.
+
+Couldn't read that file.
+Couldn't read that file.
+
+Load cancelled. Nothing changed.
+Load cancelled. Nothing changed.
+
+item
+item
+
+unfamiliar field
+unfamiliar field
+
+unfamiliar fields
+unfamiliar fields
+
+tag
+tag
+
+tags
+tags
+
+tag rules
+tag rules

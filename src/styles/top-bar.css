@@ -1,0 +1,303 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later
+   Copyright (C) 2026 Teo Monroy */
+
+/* THE BAR ACROSS THE TOP, and the distance slider inside the colour tags. */
+
+/* ---------------- Top bar ---------------- */
+.bar {
+  position: sticky;
+  top: env(safe-area-inset-top, 0px);
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 10px clamp(12px, 3vw, 32px);
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--line);
+}
+/* The wordmark: HOL + the flower (sized to a letter "O" by renderBrandMark in ui/flower-card.js) + TYPE. */
+.brand {
+  display: block;
+  margin-right: 14px;
+  font-family: var(--font-display);
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  line-height: 1.15;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.brand svg {
+  display: inline-block;
+  flex: none;
+  width: 52px;
+  height: 52px;
+  margin: 0 0.14em 0 0;
+  overflow: visible;
+}
+.brand .pl {
+  stroke-width: 0.3px;
+}
+/* HOLOTYPE is eight letters, so below 1366px the wordmark steps down to keep the top bar on one row. */
+@media (max-width: 1365px) {
+  .brand {
+    font-size: 26px;
+  }
+}
+.search-wrap {
+  position: relative;
+  flex: 1 1 220px;
+  max-width: 380px;
+}
+.search-input {
+  width: 100%;
+  height: 36px;
+  padding: 0 38px 0 36px;
+  border-radius: 9px;
+  border: 1px solid var(--line-2);
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  outline: none;
+  transition:
+    border-color 0.15s,
+    box-shadow 0.15s;
+}
+.search-input::placeholder {
+  color: var(--ink-3);
+}
+.search-input:focus {
+  border-color: var(--focus);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus) 20%, transparent);
+}
+.search-input:focus ~ .search-key-hint {
+  display: none;
+}
+.search-icon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--ink-3);
+  pointer-events: none;
+  display: flex;
+}
+.search-key-hint {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.key-hint {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 6px;
+  border-radius: 5px;
+  border: 1px solid var(--line-2);
+  color: var(--ink-3);
+  font: 500 11px var(--font-ui);
+  pointer-events: none;
+}
+.view-toggle {
+  display: inline-flex;
+  padding: 3px;
+  gap: 2px;
+  border-radius: 11px;
+  background: var(--sunken);
+  border: 1px solid var(--line-2);
+}
+.view-toggle button {
+  height: 30px;
+  padding: 0 18px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--ink-2);
+  font: 600 13.5px var(--font-ui);
+  transition:
+    background 0.15s,
+    color 0.15s,
+    box-shadow 0.15s;
+}
+.view-toggle button:hover {
+  color: var(--ink);
+}
+.view-toggle button[aria-selected="true"] {
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow:
+    0 1px 3px rgb(0 0 0 / 0.18),
+    0 0 0 1px var(--line-2);
+}
+#resetToggle:hover {
+  color: #b3453a;
+  border-color: #b3453a;
+}
+.bar-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+}
+.pill-btn,
+.text-select {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  height: 36px;
+  padding: 0 13px;
+  border-radius: 9px;
+  border: 1px solid var(--line-2);
+  background: var(--surface);
+  color: var(--ink);
+  font: 500 13.5px var(--font-ui);
+  transition: border-color 0.15s;
+}
+.pill-btn:hover,
+.text-select:hover {
+  border-color: var(--ink-3);
+}
+.text-select {
+  padding-right: 8px;
+  cursor: pointer;
+}
+.filter-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: 5px;
+  background: var(--ink);
+  color: var(--paper);
+  font-size: 11px;
+  font-weight: 700;
+}
+.filter-count[hidden] {
+  display: none;
+}
+.icon-btn {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 9px;
+  border: 1px solid var(--line-2);
+  background: var(--surface);
+  color: var(--ink-2);
+  transition:
+    color 0.15s,
+    border-color 0.15s;
+}
+/* On touch devices the bar controls grow to 44px. A negative margin pulls the row back in so
+   the wider targets do not push the toolbar onto a second line on a 390px phone. */
+@media (pointer: coarse) {
+  .icon-btn,
+  .pill-btn,
+  .text-select,
+  .search-input {
+    height: 44px;
+  }
+  .icon-btn {
+    width: 44px;
+  }
+  .bar-actions {
+    margin: 0 -6px;
+  }
+}
+.icon-btn:hover {
+  color: var(--ink);
+  border-color: var(--ink-3);
+}
+
+/* ---------------- Distance-tag slider (inside the color tags panel) ---------------- */
+.dual-range {
+  position: relative;
+  flex: 1 1 100%;
+  width: 100%;
+  min-width: 0;
+  height: 46px;
+  margin: 8px 2px 2px;
+  --rc: var(--rule-color, var(--focus));
+}
+.dual-track {
+  position: absolute;
+  left: 9px;
+  right: 9px;
+  top: 11px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--line-2);
+}
+.dual-fill {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  border-radius: 2px;
+  background: var(--rc);
+}
+.dual-range input[type="range"] {
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 100%;
+  height: 18px;
+  margin: 0;
+  background: transparent;
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: none;
+}
+.dual-range input[type="range"]::-webkit-slider-runnable-track {
+  height: 18px;
+  background: transparent;
+}
+.dual-range input[type="range"]::-moz-range-track {
+  height: 18px;
+  background: transparent;
+}
+.dual-range input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  pointer-events: auto;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 2px solid var(--rc);
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.3);
+  cursor: grab;
+}
+.dual-range input[type="range"]::-moz-range-thumb {
+  pointer-events: auto;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 2px solid var(--rc);
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.3);
+  cursor: grab;
+}
+.dual-range input[type="range"]:focus-visible::-webkit-slider-thumb {
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--rc) 35%, transparent);
+}
+.dual-readout {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 28px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 11.5px;
+  color: var(--ink-2);
+  font-variant-numeric: tabular-nums;
+}
+.dual-mid {
+  color: var(--ink-3);
+}

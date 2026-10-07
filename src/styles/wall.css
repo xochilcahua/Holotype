@@ -1,0 +1,236 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later
+   Copyright (C) 2026 Teo Monroy */
+
+/* THE GARDEN. One narrowing layer, so the grid, the Herbarium and both
+PDFs can never disagree about what is on screen. */
+
+/* ---------------- Wall ---------------- */
+.page {
+  padding: 4px clamp(6px, 2vw, 24px) 64px;
+}
+.wall-head {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 2px 16px;
+  padding: 14px 12px 4px;
+  font-size: 13px;
+  color: var(--ink-3);
+}
+.group-title {
+  padding: 14px 12px 2px;
+  font: 600 13px var(--font-ui);
+  color: var(--ink-2);
+}
+.group-title span {
+  margin-left: 8px;
+  font-weight: 400;
+  color: var(--ink-3);
+}
+.divider {
+  height: 1px;
+  background: var(--line);
+  margin: 10px 12px 0;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(296px, 1fr));
+  gap: 2px 4px;
+  padding-top: 6px;
+}
+.grid.garden {
+  --mark: 60px;
+}
+
+.spec {
+  position: relative;
+  display: grid;
+  grid-template-columns: var(--mark, 72px) minmax(0, 1fr);
+  gap: 14px;
+  align-items: start;
+  padding: 10px 12px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.spec:hover,
+.spec:focus-within {
+  background: var(--surface);
+}
+.spec:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: -2px;
+}
+.mark {
+  position: relative;
+  width: var(--mark, 72px);
+  height: var(--mark, 72px);
+  flex: none;
+}
+.mark > svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+.mark .flower {
+  inset: 7%;
+  width: 86%;
+  height: 86%;
+}
+.ring-track {
+  fill: none;
+  stroke: var(--line);
+  stroke-width: 1.5;
+}
+.ring-fill {
+  fill: none;
+  stroke: var(--ink-2);
+  stroke-width: 2.2;
+  stroke-linecap: round;
+}
+.is-rated .ring-fill,
+.modal-mark .ring-fill {
+  stroke: var(--ink);
+}
+.spec-body {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: var(--mark, 72px);
+}
+.spec-name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.12;
+  letter-spacing: -0.005em;
+}
+.spec-tag {
+  margin-top: 3px;
+  font-size: 13px;
+  line-height: 1.35;
+  color: var(--ink-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.spec-foot {
+  margin-top: auto;
+  padding-top: 6px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.spec-read {
+  flex: none;
+  white-space: nowrap;
+}
+.spec-read b {
+  color: var(--ink);
+  font-weight: 700;
+}
+.spec-rate {
+  flex: 1;
+  min-width: 40px;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+.spec:hover .spec-rate,
+.spec:focus-within .spec-rate,
+.is-rated .spec-rate {
+  opacity: 1;
+}
+@media (hover: none) {
+  .spec-rate {
+    opacity: 1;
+  }
+  .help-only {
+    display: none;
+  }
+}
+.spec-tags {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3px;
+  pointer-events: none;
+}
+.spec.has-tags .spec-body {
+  min-height: calc(var(--mark, 72px) + 16px);
+}
+.spec-tags i {
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+}
+/* Hierarchy: the trail above the name says what this form is a kind of. It is the quietest
+   thing on the card on purpose -- the name and the slider are what you came to read. */
+.spec-trail {
+  margin: 0 0 2px;
+  font-size: 11px;
+  line-height: 1.3;
+  color: var(--ink-3);
+  font-family: var(--font-ui);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.spec-trail span {
+  opacity: 0.55;
+}
+.spec-kids {
+  display: inline-block;
+  margin-left: 7px;
+  padding: 1px 6px;
+  border-radius: 20px;
+  background: var(--line);
+  color: var(--ink-2);
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 600;
+  vertical-align: 2px;
+  font-variant-numeric: tabular-nums;
+}
+.modal-trail {
+  margin: -2px 0 8px;
+  font-size: 12px;
+  color: var(--ink-3);
+  font-family: var(--font-ui);
+}
+.modal-trail.is-link {
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--line-2);
+}
+.modal-trail.is-link:hover {
+  color: var(--ink-2);
+}
+.child-wrap {
+  margin: 14px 0;
+}
+.empty-state {
+  grid-column: 1 / -1;
+  display: grid;
+  justify-items: center;
+  gap: 10px;
+  padding: 56px 24px;
+  text-align: center;
+  color: var(--ink-2);
+}
+.empty-state .flower {
+  width: 80px;
+  height: 80px;
+  opacity: 0.8;
+}

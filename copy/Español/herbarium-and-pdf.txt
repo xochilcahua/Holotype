@@ -1,0 +1,482 @@
+In Holotype
+En Holotipo
+
+In biology
+En biología
+
+Terms
+Términos
+
+The 16 genera
+Los 16 géneros
+
+Sort: {0}
+Orden: {0}
+
+How common: estimated share of US adults who have tried this at some point in their lives, including once as a kid (filled dot = published lifetime figure, hollow = estimated)
+Qué tan común es: proporción estimada de adultos de EE. UU. que lo han probado alguna vez, incluso una sola vez en la infancia (punto relleno = cifra publicada; círculo hueco = estimación).
+
+About {0}% of adults have had a go at this at some point in their lives.
+Aproximadamente el {0} % de los adultos ha probado esto en algún momento de sus vidas.
+
+, survey figure
+, cifra de encuesta
+
+About {0}% of adults have had a go at this at some point in their lives (estimated, not a published figure).
+Alrededor del {0} % de los adultos han probado esto en algún momento de sus vidas (cifra estimada, no publicada).
+
+, estimated
+, estimación
+
+Each row's icon is its category (key below). Dots and colored edges are your own tags, and they only appear on art forms you haven't rated yet. The number is your rating out of 10 in the garden; in the unexplored list it is a novelty score from 1 (very familiar) to 100 (very new): {0} or less is familiar, {1}-{2} in between, above {3} new ground.
+El icono de cada fila es su categoría (clave abajo). Los puntos y los bordes de color son tus propias etiquetas, y solo aparecen en las disciplinas que aún no has valorado. El número es tu valoración sobre 10 en el jardín; en la lista de por explorar es una puntuación de novedad de 1 (muy familiar) a 100 (muy nueva): {0} o menos es familiar, de {1} a {2} es intermedio y por encima de {3} es terreno nuevo.
+
+How common
+Qué tan común es
+
+is roughly how many adults have had a go at it at all, at any age, even once as a kid — the same bar as rating it a 1. So singing, drawing and cooking sit near the top. Hollow rings are estimates, so read those as an order of magnitude.
+indica aproximadamente cuántos adultos lo han probado alguna vez, a cualquier edad, incluso una sola vez en la infancia: equivale a una valoración de 1. Por eso el canto, el dibujo y la cocina aparecen arriba. Los círculos huecos son estimaciones; interprétalos como una escala aproximada.
+
+Categories
+Categorías
+
+How to read these lists
+Cómo leer estas listas
+
+furthest first
+las más lejanas primero
+
+Sort by novelty
+Ordenar por novedad
+
+Sort by novelty, currently {0}
+Ordenar por novedad; ahora, {0}
+
+Novelty{0}
+Novedad{0}
+
+Roughly how many adults have had a go at this at some point in their lives, including once as a kid. A filled dot is a published lifetime figure; a hollow ring is modelled.
+Cuántos adultos han probado esto, aproximadamente, en algún momento de su vida, aunque sea una sola vez de niños. Un punto relleno es una cifra publicada; un anillo hueco es una estimación modelada.
+
+Art form
+Disciplina
+
+Tags
+Etiquetas
+
+and
+y
+
+Compare (cf.): leans toward {0}
+Comparar (cf.): se inclina hacia {0}
+
+cf.
+cf.
+
+Variety (var.): {0}
+Variedad (var.): {0}
+
+var.
+var.
+
+This part reflects what you've rated so far more than who you are; it'll shift as you rate more.
+Esta parte refleja lo que has valorado hasta ahora más que quién eres; cambiará a medida que valores más.
+
+Thrives on
+Prospera con
+
+Wilts when
+Se marchita cuando
+
+Shares ground with
+Comparte terreno con
+
+Field notes
+Notas de campo
+
+Plant representing {0}
+Planta que representa a {0}
+
+Strongly wide
+Marcadamente amplio
+
+Focused
+Concentrado
+
+Wide
+Amplio
+
+Strongly improvised
+Marcadamente improvisado
+
+Improvised
+Improvisado
+
+Planned
+Planificado
+
+Strongly solo
+Marcadamente en solitario
+
+Solo
+En solitario
+
+Strongly interpretive
+Marcadamente interpretativo
+
+Interpretive
+Interpretativo
+
+Leans repeatable
+Tiende a lo repetible
+
+Repeatable
+Repetible
+
+Chance-led
+Guiado por el azar
+
+Growth Habit
+Hábito de crecimiento
+
+In botany, a plant's habit is its characteristic way of growing. Yours is how you tend to work, read from the same fingerprint as your holotype. It describes a style, not how good you are at anything, and it sharpens as you rate more.
+En botánica, el hábito de una planta es su manera característica de crecer. El tuyo representa cómo sueles trabajar, a partir de la misma huella que da forma a tu holotipo. Describe un estilo, no tu habilidad, y se vuelve más preciso al añadir valoraciones.
+
+MADE
+PROCESO
+
+FIELD
+CAMPO
+
+SENSES
+SENTIDOS
+
+Your holotype: outer petals show how you make things, middle petals the fields you lean toward, inner pips the senses you use. Longer means stronger.
+Tu holotipo: los pétalos exteriores muestran cómo haces las cosas, los pétalos del medio, los campos hacia los que te inclinas, las puntas interiores, los sentidos que utilizas. Más tiempo significa más fuerte.
+
+HOLOTYPE
+HOLOTIPO
+
+longer petal, stronger trait
+pétalo más largo, rasgo más fuerte
+
+Your Holotype
+Tu holotipo
+
+Avg. rating
+Valoración media
+
+Holotype & stats
+Holotipo y estadísticas
+
+Session filters
+Filtros de la sesión
+
+Your garden (rated list)
+Tu jardín (lista de valoradas)
+
+Not yet explored
+Aún sin explorar
+
+Choose what to include: the PDF only contains the sections checked below, so it can stay as condensed or as complete as you want. Opens your browser's print dialog; choose <b>Save as PDF</b> (or "Print > PDF" / "Microsoft Print to PDF") as the destination. Nothing is uploaded anywhere.
+Elige las secciones que quieres incluir. El PDF solo contendrá las que marques, para que sea tan breve o completo como quieras. Se abre el diálogo de impresión del navegador: elige <b>Guardar como PDF</b> (o «Imprimir &gt; PDF» / «Microsoft Print to PDF») como destino. No se sube ningún dato.
+
+Export as PDF
+Exportar como PDF
+
+Your name or alias (optional)
+Tu nombre o alias (opcional)
+
+e.g. Alex
+por ej. Álex
+
+Save as PDF
+Guardar como PDF
+
+Save or load a session
+Guardar o cargar una sesión
+
+Save your ratings, name, tags, filters and sort order as a small file. Load it on a later visit to pick up where you left off, then rate what you've learned since. Files from older versions load too, and anything this version can't place is kept aside, not deleted. Nothing is uploaded.
+Guarda tus valoraciones, nombre, etiquetas, filtros y orden en un archivo pequeño. Cárgalo en otra visita para continuar y valorar lo que hayas aprendido desde entonces. También funcionan los archivos de versiones anteriores; lo que esta versión no pueda ubicar se conserva aparte. No se sube ningún dato.
+
+Save session (.json)
+Guardar sesión (.json)
+
+Load session…
+Cargar sesión…
+
+Comfortable spacing
+Espaciado cómodo
+
+Both lists follow your filters, so switching off <b>Not yet rated</b> leaves only what you've rated.
+Ambas listas siguen tus filtros; al desactivar <b>Aún sin valorar</b>, solo se muestra lo que ya has valorado.
+
+Your garden — {0} rated
+Tu jardín — {0} valoradas
+
+Rating
+Valoración
+
+Not yet explored — {0}
+Aún sin explorar — {0}
+
+Herbarium · specimen sheet
+Herbario · ficha del ejemplar
+
+Every art form in Holotype grows its own flower from what it involves. Yours grows from what you've rated, so it works less like a flower and more like a fingerprint of your taste, drawn in the same visual language as everything else here. Its ink comes from whichever category you lean into most.
+Cada disciplina de Holotipo produce una flor a partir de sus rasgos. La tuya nace de lo que has valorado: es una huella de tus gustos, dibujada con el mismo lenguaje visual que el resto de la aplicación. Su tinta proviene de la categoría hacia la que más te inclinas.
+
+This session's filters
+Filtros de esta sesión
+
+Your garden and unexplored flora
+Tu jardín y la flora sin explorar
+
+· sorted: {0}{1}
+· ordenado: {0}{1}
+
+{0} of {1} art forms rated
+{0} de {1} disciplinas valoradas
+
+What this shows
+Qué muestra esta ficha
+
+Every art form in Holotype grows its own flower from what it involves. Yours grows from what you've rated, so it works less like a flower and more like a fingerprint of your taste. Its ink comes from whichever category you lean into most.
+Cada disciplina de Holotipo produce una flor a partir de sus rasgos. La tuya nace de lo que has valorado y representa una huella de tus gustos. Su tinta proviene de la categoría hacia la que más te inclinas.
+
+sorted: {0}
+ordenado: {0}
+
+My Holotype
+Mi holotipo
+
+Exported {0} · {1}
+Exportado {0} · {1}
+
+No single domain stands out yet
+Ningún dominio destaca todavía
+
+— your ratings are spread fairly evenly across fields, which is its own kind of signal: you follow the idea, not the medium.
+- tus valoraciones se reparten de manera bastante uniforme entre los campos, lo cual es una señal en sí misma: sigues la idea, no el medio.
+
+would each
+darían, cada una,
+
+them
+esas valoraciones
+
+Worth knowing before you read the rest: {0} of the {1} ratings you gave most weight to {2} name a different plant if you took {3} back. {4} is the better fit, not a settled fact.
+Vale la pena saberlo antes de leer el resto: {0} de las {1} valoraciones que le dio más peso a {2} nombrar una planta diferente si retiraba {3}. {4} es la mejor opción, no es un hecho establecido.
+
+Close to the middle
+Cerca del punto medio
+
+Leans solo
+Tiende a trabajar en solitario
+
+Leans literal
+Tiende a lo literal
+
+Near the middle
+Cerca del punto medio
+
+a bit of both
+un poco de ambos
+
+One or more of these sits right on the middle line, where the honest answer is {0}. That is a common place to land, not a flaw — and the type above still holds either way.
+Una o más puntuaciones están cerca del centro, así que {0} puede describirte tan bien como cualquiera de los extremos. El perfil aún puede servirte.
+
+Even, but across too little.
+Incluso, pero muy poco.
+
+Nothing here holds more than {0}% of what you rated, which would normally read as broad — but breadth needs at least {1} fields you have kept doing (rated 3 or higher), and you have {2}. Two fields is a choice, not a range. It widens on its own as you rate things elsewhere.
+Nada aquí contiene más del {0} % de lo que valoraste, que normalmente se consideraría amplio, pero la amplitud necesita al menos {1} campos que hayas seguido haciendo (valorado 3 o superior), y tienes {2}. Dos campos son una elección, no un rango. Se amplía por sí solo a medida que valoras las cosas en otros lugares.
+
+things
+actividades
+
+{0} you have kept
+{0} que has seguido practicando
+
+That rests on {0}, so treat it as a first guess.
+Eso depende de {0}, así que trátelo como una primera suposición.
+
+Strongly planned
+Marcadamente planificado
+
+Strongly literal
+Marcadamente literal
+
+Strongly repeatable
+Marcadamente repetible
+
+closest first
+las más cercanas primero
+
+(add colour tags to group by them)
+(añade etiquetas de color para agrupar por ellas)
+
+Your tags
+Tus etiquetas
+
+{0}'s Holotype
+Holotipo de {0}
+
+Worth knowing before you read the rest: one of the {0} ratings you gave most weight to would name a different plant if you took it back. {1} is the better fit, not a settled fact.
+Vale la pena saberlo antes de leer el resto: una de las {0} valoraciones a las que le diste más importancia nombraría una planta diferente si la retiraras. {1} es la mejor opción, no es un hecho establecido.
+
+Every rating so far is a first try, so {0} is a starting guess drawn from what you have sampled, not from what you do. Rate something you have kept doing, at 3 or higher, and it will change.
+Cada valoración hasta ahora es un primer intento, por lo que {0} es una suposición inicial extraída de lo que ha probado, no de lo que hace. Valora algo que has seguido haciendo, con 3 o más, y cambiará.
+
+One rating so far. {0} is the first name this flower gets, and it is drawn from that one answer more than from anything else. Rate a few things you have actually kept doing and it will change.
+Una valoración hasta el momento. {0} es el primer nombre que recibe esta flor y se deriva de esa respuesta más que de cualquier otra cosa. Valora algunas cosas que has seguido haciendo y cambiarán.
+
+Only {0} so far. {1} is a starting guess, not a verdict — it leans on what you have told us and not much else. Rate a few things you have actually kept doing and it will sharpen.
+Con solo {0}, {1} es una lectura inicial. Valora algunas prácticas que hayas mantenido en el tiempo para darle más información.
+
+Based on only {0} so far, all within one category. This is an early read, not a settled type, and the shape may open up as you rate things elsewhere.
+Se basa en solo {0}, todas de una categoría. Es una lectura inicial, no un tipo definitivo, y la forma puede ampliarse al valorar actividades de otros campos.
+
+Based on only {0} so far, already spread across a few categories. This is an early read, not a settled type, though the spread itself is a real signal.
+Se basa en solo {0}, ya distribuidas entre varias categorías. Es una lectura inicial, no un tipo definitivo, aunque esa diversidad ya dice algo.
+
+Search: "{0}"
+Búsqueda: «{0}»
+
+Category filter: {0}
+Filtro de categoría: {0}
+
+Familiarity filter: {0}
+Filtro de familiaridad: {0}
+
+Hidden: {0}
+Oculto: {0}
+
+How far ratings reach: {0}
+Alcance de las valoraciones: {0}
+
+your garden (rated)
+tu jardín (valoradas)
+
+not yet rated
+aún sin valorar
+
+Too early to say: rate a few more art forms
+Demasiado pronto para decirlo: valora algunas formas de arte más
+
+Too early to say what you're drawn to
+Demasiado pronto para decir lo que te atrae
+
+— rate a few more and this will fill in.
+— valora algunos más y esto se completará.
+
+Spread wide but not far.
+Extiéndase ampliamente pero no muy lejos.
+
+No single field holds more than {0}% of what you have rated, which normally reads as broad — but {1} in the whole list {2} beyond a first try, so it counts as unproven rather than wide. Rate a few things you have actually kept doing and the width will mean something.
+Ningún campo contiene más del {0}% de lo que has valorado, que normalmente se considera amplio, pero {1} en toda la lista {2} más allá del primer intento, por lo que se considera no probado en lugar de amplio. Valora algunas cosas que has seguido haciendo y el ancho significará algo.
+
+only {0} things
+solo {0} actividades
+
+Alone or with others: not called.
+Solo o con otros: no llamado.
+
+Everything you have rated so far is a broad category rather than a specific practice, and those cannot say whether you work on your own or with people — a guitar in a bedroom and a guitar in an orchestra are the same answer here. Rate a specific form or two and this settles quickly.
+Todo lo que has valorado hasta ahora es una categoría amplia más que una práctica específica, y eso no puede decir si trabajas solo o con gente: una guitarra en un dormitorio y una guitarra en una orquesta son la misma respuesta aquí. Valora una o dos disciplinas específicas y esto se resolverá rápidamente.
+
+Early days, but something is already showing — and it will sharpen as you rate more:
+Es temprano, pero algo ya se está mostrando, y se agudizará a medida que valores más:
+
+Leans focused
+Tiende a lo concentrado
+
+Strongly focused
+Marcadamente concentrado
+
+Leans wide
+Tiende a lo amplio
+
+Leans improvised
+Tiende a lo improvisado
+
+Leans planned
+Tiende a lo planificado
+
+Leans collaborative
+Tiende a lo colaborativo
+
+Strongly collaborative
+Marcadamente colaborativo
+
+Leans interpretive
+Tiende a lo interpretativo
+
+Leans chance-led
+Tiende a lo guiado por el azar
+
+Strongly chance-led
+Marcadamente guiado por el azar
+
+one
+uno
+
+nothing
+ninguna actividad
+
+only one thing
+solo una actividad
+
+You cover a wide range, alone, with no plan going in, taking things mostly at face value. The method resembles the slime mold you are named for: spread out, find the shortest route to something workable, keep what is useful and move on. That is not scatter, it is efficiency across a large territory. Because you move on before the long focus arrives, the range is easier to see than the depth — a written list of what you have tried tends to make it obvious.
+Pruebas muchas prácticas a solas y encuentras el método sobre la marcha. Llevar un registro puede ayudarte a elegir cuáles retomar.
+
+things you have mostly tried once
+cosas que en su mayoría has probado una vez
+
+both at once
+ambos a la vez
+
+thing
+actividad
+
+{0} of {1} art forms listed — {2} rated, {3} not yet
+{0} de {1} disciplinas en la lista — {2} valoradas y {3} sin valorar
+
+Your garden — {0} of {1} rated
+Tu jardín — {0} de {1} valoradas
+
+Not yet explored — {0} of {1}
+Aún sin explorar — {0} de {1}
+
+Rate a few art forms in Holotype and this section will fill in with what your ratings lean toward.
+Valora algunas disciplinas en Holotipo y esta sección se completará con aquello hacia lo que se inclinan tus valoraciones.
+
+No filters were active.
+No había filtros activos.
+
+Rate a few art forms and your growth habit appears here: a plant of your own, named for how you tend to work.
+Valora algunas disciplinas y aquí aparecerá tu hábito de crecimiento: una planta propia, nombrada según tu forma de trabajar.
+
+Rate a few art forms in your garden and this page fills in.
+Valora algunas disciplinas en tu jardín y esta página empezará a tomar forma.
+
+No filters are active right now.
+No hay filtros activos.
+
+Novelty
+Novedad
+
+Condensed spacing
+Espaciado condensado
+
+Nothing rated yet.
+Aún no has valorado nada.
+
+Your garden is hidden by the filter.
+El filtro oculta tu jardín.
+
+Nothing left in this category.
+No queda nada en esta categoría.
+
+Not yet explored is hidden by the filter.
+El filtro oculta la lista de disciplinas sin explorar.

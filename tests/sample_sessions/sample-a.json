@@ -1,0 +1,140 @@
+{
+  "format": "holotype-session",
+  "schemaVersion": 2,
+  "appVersion": "2026.10",
+  "exportedAt": "2026-01-01T00:00:00.000Z",
+  "requires": [],
+  "name": "Sample A (wide)",
+  "ratings": [
+    {
+      "id": "af009",
+      "name": "Painting",
+      "rating": 9
+    },
+    {
+      "id": "af021",
+      "name": "Sculpture",
+      "rating": 6
+    },
+    {
+      "id": "af037",
+      "name": "Music Composition",
+      "rating": 5
+    },
+    {
+      "id": "af001",
+      "name": "Fiction Writing",
+      "rating": 5
+    },
+    {
+      "id": "af010",
+      "name": "Photography",
+      "rating": 6
+    },
+    {
+      "id": "af076",
+      "name": "Cooking",
+      "rating": 5
+    },
+    {
+      "id": "af024",
+      "name": "Woodworking",
+      "rating": 2
+    },
+    {
+      "id": "af023",
+      "name": "Ceramics & Pottery",
+      "rating": 3
+    },
+    {
+      "id": "af002",
+      "name": "Poetry",
+      "rating": 3
+    },
+    {
+      "id": "af053",
+      "name": "Dance",
+      "rating": 2
+    },
+    {
+      "id": "af039",
+      "name": "Singing",
+      "rating": 3
+    },
+    {
+      "id": "af049",
+      "name": "Acting",
+      "rating": 2
+    },
+    {
+      "id": "af027",
+      "name": "Weaving",
+      "rating": 1
+    },
+    {
+      "id": "af030",
+      "name": "Origami",
+      "rating": 2
+    },
+    {
+      "id": "af012",
+      "name": "Calligraphy",
+      "rating": 3
+    },
+    {
+      "id": "af032",
+      "name": "Mosaic",
+      "rating": 1
+    },
+    {
+      "id": "af011",
+      "name": "Graphic Design",
+      "rating": 3
+    },
+    {
+      "id": "af082",
+      "name": "Landscape Design",
+      "rating": 2
+    },
+    {
+      "id": "af077",
+      "name": "Baking & Pastry",
+      "rating": 3
+    },
+    {
+      "id": "af078",
+      "name": "Perfumery",
+      "rating": 1
+    },
+    {
+      "id": "af050",
+      "name": "Improv Theater",
+      "rating": 2
+    },
+    {
+      "id": "af051",
+      "name": "Stand-Up Comedy",
+      "rating": 1
+    }
+  ],
+  "tags": [],
+  "distanceReach": 0.5,
+  "filters": {
+    "search": "",
+    "categories": [],
+    "familiarity": [],
+    "show": {
+      "rated": true,
+      "unrated": true
+    }
+  },
+  "sort": "common_desc",
+  "exportSections": {
+    "portrait": true,
+    "classification": true,
+    "filters": true,
+    "garden": true,
+    "unexplored": true
+  },
+  "plantSeed": "sample-a"
+}

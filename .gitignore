@@ -1,0 +1,24 @@
+# Personal files and unpublished material
+_private/
+
+# Real people's session files must never be committed. Samples in tests/sample_sessions/ are synthetic and allowed.
+bloom-session-*.json
+holotype-session-*.json
+!tests/sample_sessions/*.json
+
+# Test output and caches
+out/
+*.pyc
+__pycache__/
+.venv*/
+node_modules/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+.site/

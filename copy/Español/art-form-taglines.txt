@@ -1,0 +1,875 @@
+Narrative prose about imagined characters and events
+Prosa narrativa sobre personajes y eventos imaginados.
+
+Literary art of rhythmic, condensed language
+Arte literario de lenguaje rítmico y condensado.
+
+Writing of scripts for stage, film and television
+Redacción de guiones para teatro, cine y televisión.
+
+Factual prose, from essay and memoir to reporting
+Prosa fáctica, del ensayo y las memorias al reportaje
+
+Languages designed deliberately rather than evolved
+Lenguajes diseñados deliberadamente en lugar de evolucionados
+
+Art that conceals or encodes messages
+Arte que oculta o codifica mensajes.
+
+Short written instructions realized as artworks
+Breves instrucciones escritas realizadas como obras de arte.
+
+Making images by marks on a surface
+Hacer imágenes mediante marcas en una superficie.
+
+Application of pigment to a surface
+Aplicación de pigmento a una superficie.
+
+Recording of images by light
+Grabación de imágenes por luz.
+
+Visual communication through type, image and layout
+Comunicación visual a través de tipografía, imagen y diseño.
+
+Decorative handwriting and lettering
+Escritura y letras decorativas.
+
+Images made to accompany or interpret text
+Imágenes realizadas para acompañar o interpretar texto.
+
+Medium combining sequential images and text
+Medio que combina imágenes secuenciales y texto.
+
+Making images by printing from a prepared matrix
+Hacer imágenes imprimiendo desde una matriz preparada
+
+Accurate depiction of plants and specimens
+Representación precisa de plantas y especímenes.
+
+Composition from cut and pasted materials
+Composición a partir de materiales cortados y pegados.
+
+Writing and image-making on public surfaces
+Escritura y creación de imágenes en superficies públicas.
+
+Painting with digital tools
+Pintar con herramientas digitales.
+
+Animation produced from sequences of drawings
+Animación producida a partir de secuencias de dibujos.
+
+Three-dimensional art made by carving, modeling or assembly
+Arte tridimensional realizado mediante tallado, modelado o montaje.
+
+Sculpture at a microscopic scale
+Escultura a escala microscópica
+
+Objects formed from clay and hardened by firing
+Objetos formados a partir de arcilla y endurecidos mediante cocción.
+
+Craft of making objects from timber
+Artesanía de hacer objetos de madera.
+
+Forming glass by inflating molten glass
+Formar vidrio inflando vidrio fundido
+
+Craft of making body ornaments
+Artesanía de hacer adornos corporales.
+
+Making cloth by interlacing warp and weft
+Hacer tela entrelazando urdimbre y trama.
+
+Design of clothing and accessories
+Diseño de ropa y complementos.
+
+Construction of garments by stitching and shaping
+Construcción de prendas mediante costura y conformación.
+
+Japanese art of paper folding
+El arte japonés de doblar papel.
+
+Painting with heated pigmented beeswax
+Pintar con cera de abejas pigmentada calentada.
+
+Images composed of small set pieces
+Imágenes compuestas por pequeñas escenas
+
+Craft of assembling and covering books
+Manualidad de armar y forrar libros.
+
+Scale models and small three-dimensional scenes
+Maquetas a escala y pequeños escenarios tridimensionales.
+
+Artistic use of taxidermy and animal remains
+Uso artístico de la taxidermia y restos de animales.
+
+Cosmetic and prosthetic transformation for screen and stage
+Transformación cosmética y protésica para pantalla y escenario.
+
+Writing or improvising original music
+Escribir o improvisar música original.
+
+Performance of music on an instrument
+Interpretación de música en un instrumento.
+
+Musical production with the human voice
+Producción musical con la voz humana.
+
+Spontaneous creation of music in performance
+Creación espontánea de música en la interpretación.
+
+Creation and manipulation of audio for media
+Creación y manipulación de audio para medios.
+
+Balancing and finalizing recorded audio
+Equilibrar y finalizar el audio grabado
+
+Live performance of sound effects for film
+Realización en directo de efectos sonoros para cine.
+
+Vocal percussion imitating drums and electronic sounds
+Percusión vocal imitando batería y sonidos electrónicos.
+
+Selecting and mixing recorded music for an audience
+Seleccionar y mezclar música grabada para una audiencia.
+
+Writing code live to generate music
+Escribir código en vivo para generar música
+
+Sound and visual triggers for a tingling relaxation response
+Desencadenantes sonoros y visuales para una respuesta de relajación con hormigueo
+
+Directing a musical ensemble through gesture
+Dirigir un conjunto musical a través del gesto
+
+Interpretation of character through voice and body
+Interpretación del personaje a través de la voz y el cuerpo.
+
+Unscripted performance created in the moment
+Rendimiento sin guión creado en el momento.
+
+Solo comedic performance to a live audience
+Actuación cómica en solitario ante una audiencia en vivo.
+
+Composition of movement for dance
+Composición de movimiento para danza.
+
+Rhythmic movement of the body, typically to music
+Movimiento rítmico del cuerpo, típicamente con música.
+
+Athletic skills of flipping, balancing and tumbling
+Habilidades atléticas de voltear, equilibrar y dar volteretas.
+
+Performance of illusions and sleight of hand
+Realización de ilusiones y juegos de manos.
+
+Choreographed combat for stage, screen and wrestling
+Combate coreografiado para escenario, pantalla y lucha libre.
+
+Manipulation of figures to create the illusion of life
+Manipulación de figuras para crear la ilusión de vida.
+
+Live artistic action using the artist's body or presence
+Vivir la acción artística utilizando el cuerpo o la presencia del artista.
+
+Permanent insertion of pigment into the skin
+Inserción permanente de pigmento en la piel.
+
+Filmmaking undertaken with a small crew and modest budget
+Realización cinematográfica realizada con un equipo reducido y un presupuesto modesto.
+
+Directing the creative and technical work of a film or program
+Dirigir el trabajo creativo y técnico de una película o programa.
+
+Staging a play and guiding its performance
+Poner en escena una obra y guiar su representación.
+
+Defining the visual style of a creative project
+Definir el estilo visual de un proyecto creativo.
+
+Selecting and assembling recorded footage
+Selección y montaje de metraje grabado.
+
+Adjustment of color and tone in finished footage
+Ajuste de color y tono en metraje terminado.
+
+Selecting and organizing works for public presentation
+Selección y organización de obras para presentación pública.
+
+Design of rules and systems for digital games
+Diseño de reglas y sistemas para juegos digitales.
+
+Design of rules for board, card and role-playing games
+Diseño de reglas para juegos de mesa, cartas y rol.
+
+Art generated through code and algorithmic process
+Arte generado a través de código y proceso algorítmico.
+
+Sculpture and mechanical figures that move
+Escultura y figuras mecánicas que se mueven.
+
+Art that uses the network itself as its medium
+Arte que utiliza la propia red como medio
+
+Art made with living organisms and biotechnology
+Arte hecho con organismos vivos y biotecnología
+
+Fiction in which reader choices shape the narrative
+Ficción en la que las elecciones del lector dan forma a la narrativa.
+
+Design of manufactured physical objects
+Diseño de objetos físicos fabricados.
+
+Design of digital interfaces and user experience
+Diseño de interfaces digitales y experiencia de usuario.
+
+Preparation of food through heat and technique
+Preparación de alimentos mediante calor y técnica.
+
+Preparation of bread, pastry and baked goods
+Elaboración de pan, repostería y repostería.
+
+Composition of scented products from aromatic materials
+Composición de productos perfumados a partir de materiales aromáticos.
+
+Arrangement of flowers and foliage
+Arreglo de flores y follaje.
+
+Cultivation of miniature trees in containers
+Cultivo de árboles en miniatura en contenedores.
+
+Design and planning of buildings
+Diseño y planificación de edificios.
+
+Design of gardens, parks and outdoor spaces
+Diseño de jardines, parques y espacios exteriores.
+
+Art engaging with ecosystems and environmental issues
+Arte comprometido con los ecosistemas y las cuestiones ambientales.
+
+Large-scale art made directly in the landscape
+Arte a gran escala realizado directamente en el paisaje.
+
+Large-scale public light art made by projecting onto real surfaces
+Arte de iluminación pública a gran escala realizado mediante proyección sobre superficies reales
+
+Temporary sculpture carved in sand or ice, from sandcastles to ice carving
+Escultura temporal tallada en arena o hielo, desde castillos de arena hasta tallas en hielo
+
+Choreographed pyrotechnic displays
+Exhibiciones pirotécnicas coreografiadas.
+
+Choreographed movement of drones, fountains and lights
+Movimiento coreografiado de drones, fuentes y luces.
+
+Art staged as live events and social situations
+Arte escenificado como eventos en vivo y situaciones sociales.
+
+Existing objects presented as artworks
+Objetos existentes presentados como obras de arte.
+
+Art created and exchanged through the postal system
+Arte creado e intercambiado a través del sistema postal.
+
+Fictional narratives told through invented documents and media
+Narrativas ficticias contadas a través de documentos y medios inventados.
+
+Storytelling with silhouettes cast on a screen
+Narración con siluetas proyectadas en una pantalla.
+
+Illustrated scrolls narrated as they are cranked past a viewing window
+Pergaminos ilustrados narrados a medida que pasan por una ventana de visualización.
+
+Recorded narration synchronized with walking a real route
+Narración grabada sincronizada con recorrer una ruta real.
+
+Recording and organizing the sounds of specific places
+Grabar y organizar los sonidos de lugares específicos.
+
+Objects designed to convey narrative through touch
+Objetos diseñados para transmitir narrativa a través del tacto.
+
+Poems created by obscuring most of an existing text
+Poemas creados oscureciendo la mayor parte de un texto existente.
+
+Preservation and repair of artworks and cultural objects
+Conservación y reparación de obras de arte y objetos culturales.
+
+Decoration or alteration of the human body
+Decoración o alteración del cuerpo humano.
+
+Animation created by photographing physical objects incrementally moved
+Animación creada al fotografiar objetos físicos movidos incrementalmente.
+
+Animation of rigged characters in three-dimensional software
+Animación de personajes manipulados en software tridimensional.
+
+Building and rendering three-dimensional digital objects and scenes
+Construcción y renderizado de escenas y objetos digitales tridimensionales.
+
+Craft of building and repairing stringed instruments
+Oficio de construcción y reparación de instrumentos de cuerda.
+
+Decorative stitching of thread onto fabric
+Costura decorativa de hilo sobre tela.
+
+Design of chairs, tables and storage furniture
+Diseño de sillas, mesas y muebles de almacenaje.
+
+Colored glass assembled or fused into decorative panels
+Vidrio coloreado ensamblado o fusionado en paneles decorativos.
+
+Shaping heated metal by hammer and anvil
+Dar forma al metal calentado con un martillo y un yunque
+
+Sculptural and structural work made from paper
+Obra escultórica y estructural realizada en papel.
+
+Rhythmic, often memorized poetry performed live, and rapped lyrics
+Poesía rítmica, a menudo memorizada, interpretada en vivo y letras rapeadas.
+
+Speaking without visible lip movement while animating a puppet
+Hablar sin movimiento visible de los labios mientras se anima un títere
+
+Trimming shrubs and trees into decorative shapes
+Recortar arbustos y árboles para darles formas decorativas.
+
+Art that transforms an entire space for the viewer to enter
+Arte que transforma todo un espacio para que el espectador entre.
+
+Sculpture carved from the pages of a book
+Escultura tallada en las páginas de un libro.
+
+Three-dimensional art assembled from found and everyday objects
+Arte tridimensional ensamblado a partir de objetos encontrados y cotidianos.
+
+Photographing and lighting motion pictures
+Fotografiar e iluminar películas
+
+Creation of music using digital audio workstation software
+Creación de música utilizando software de estación de trabajo de audio digital.
+
+Live manipulation of video to accompany music
+Manipulación en vivo de vídeo para acompañar música.
+
+Japanese ritual of preparing and serving powdered green tea
+Ritual japonés de preparar y servir té verde en polvo
+
+Traditional sacred painting in the Orthodox Christian tradition
+Pintura sagrada tradicional en la tradición cristiana ortodoxa.
+
+Intricate sand patterns created and ritually destroyed
+Intrincados patrones de arena creados y destruidos ritualmente
+
+Training and hunting with birds of prey
+Entrenamiento y caza con aves rapaces.
+
+Decorative patterns poured into espresso-based milk drinks
+Motivos decorativos vertidos en bebidas lácteas a base de espresso
+
+Production of alcoholic beverages through fermentation and distillation
+Elaboración de bebidas alcohólicas mediante fermentación y destilación.
+
+Poetic performance composed and delivered in sign language
+Performance poética compuesta y entregada en lengua de signos.
+
+Craft of cutting, shaping and stitching leather
+Artesanía de cortar, dar forma y coser cuero.
+
+Weaving containers from plant fibers
+Tejer contenedores a partir de fibras vegetales.
+
+Sewing patterned fabric layers into a padded textile
+Coser capas de tela estampadas en un tejido acolchado
+
+Coloring fabric using dye and resist techniques
+Teñir telas usando técnicas de tinte y resistencia.
+
+Shaping stone by carving and cutting
+Dar forma a la piedra tallando y cortando
+
+Fusing colored glass onto metal
+Fusionar vidrio coloreado sobre metal
+
+Hand-lettered signage and decorative lettering
+Señalización escrita a mano y rotulación decorativa.
+
+Animation of characters built from digitally rigged parts
+Animación de personajes construidos a partir de piezas manipuladas digitalmente.
+
+Persuasive commercial writing for brands and advertising
+Redacción comercial persuasiva para marcas y publicidad.
+
+Rendering literary work from one language into another
+Traducir obras literarias de un idioma a otro
+
+Designing word puzzles and crossword grids
+Diseño de rompecabezas de palabras y cuadrículas de crucigramas.
+
+Writing spoken addresses for a specific speaker
+Escribir discursos hablados para un orador específico
+
+Visual design of characters, worlds and props before production
+Diseño visual de personajes, mundos y atrezzo antes de la producción.
+
+Digital images built from individually placed pixels
+Imágenes digitales creadas a partir de píxeles colocados individualmente
+
+Sequential drawings that plan a film or animation's shots
+Dibujos secuenciales que planifican los planos de una película o animación.
+
+Exaggerated portrait drawing that captures likeness through distortion
+Dibujo de retrato exagerado que captura la semejanza a través de la distorsión.
+
+Single-panel satirical drawings and image-and-caption memes on current events
+Dibujos satíricos de un solo panel y memes con imágenes y leyendas sobre eventos actuales.
+
+Forming fabric from yarn using needles or a hook
+Formar tela a partir de hilo usando agujas o un gancho.
+
+Textile art made entirely from knotted cord
+Arte textil elaborado íntegramente con cordón anudado.
+
+Constructing patterns and objects from strung or woven beads
+Construir patrones y objetos a partir de cuentas ensartadas o tejidas.
+
+Shaping and scenting wax into candles by melting and pouring
+Dar forma y perfumar cera a las velas derritiéndola y vertiéndola
+
+Making soap through the chemical reaction of fats and lye
+Fabricación de jabón mediante la reacción química de grasas y lejía.
+
+Casting and coating objects and art using liquid epoxy resin
+Fundición y revestimiento de objetos y arte con resina epoxi líquida.
+
+Shaping molten metal in a mold to make sculpture
+Dar forma al metal fundido en un molde para hacer escultura.
+
+Planning the function, layout and finish of interior spaces
+Planificación de la función, distribución y acabado de espacios interiores.
+
+Designing typefaces as complete, functioning letterform systems
+Diseño de tipos de letra como sistemas de letras completos y funcionales
+
+Designing the structure and graphics of product packaging
+Diseño de la estructura y gráfica del packaging del producto.
+
+Animating graphic design elements for screen
+Animación de elementos de diseño gráfico para pantalla.
+
+Designing clothing for a character and story, physical or digital
+Diseñar ropa para un personaje y una historia, física o digital.
+
+Designing physical light for a stage, film set or building
+Diseño de luz física para un escenario, set de cine o edificio.
+
+Designing the environments of a production, physical or virtual
+Diseñar los entornos de una producción, física o virtual.
+
+Art made by directing machine learning models
+Arte creado dirigiendo modelos de aprendizaje automático.
+
+Building interactive art in augmented or virtual space
+Construyendo arte interactivo en un espacio aumentado o virtual.
+
+Filmmaking that records and shapes real events and subjects
+Realización de películas que registran y dan forma a eventos y temas reales.
+
+Directing scripted fiction performed and produced for audio alone
+Dirección de ficción con guión interpretada y producida únicamente para audio.
+
+Composing and preparing mixed drinks behind a bar
+Componer y preparar cócteles detrás de una barra.
+
+Transforming milk into cheese through culturing and aging
+Transformar la leche en queso mediante cultivo y envejecimiento
+
+Preserving and transforming food through controlled microbial activity
+Preservar y transformar alimentos mediante actividad microbiana controlada
+
+Sculpting and decorating cakes with icing and sugar work
+Trabajos de escultura y decoración de tartas con glaseado y azúcar.
+
+Roasting green coffee beans to develop flavor
+Tostar granos de café verde para desarrollar el sabor
+
+Building walls from stacked, uncut stone without mortar
+Construir muros con piedra apilada y sin cortar sin mortero
+
+Designing and maintaining planted underwater landscapes
+Diseño y mantenimiento de paisajes submarinos plantados.
+
+Building small, enclosed living landscapes in glass containers
+Construyendo pequeños paisajes vivos cerrados en contenedores de vidrio
+
+Writing lyrics and melodic structure for songs
+Escribir letras y estructura melódica para canciones.
+
+Live improvised resonance from gongs and bowls for meditation
+Resonancia improvisada en vivo de gongs y cuencos para meditación.
+
+Rewiring electronic toys and devices to make new sounds
+Recablear juguetes y dispositivos electrónicos para producir nuevos sonidos.
+
+Wordless performance built from precise physical illusion
+Performance sin palabras construida a partir de una ilusión física precisa
+
+Efficient, fluid movement over and through urban obstacles
+Movimiento eficiente y fluido sobre y a través de obstáculos urbanos.
+
+Theatrical performance built through costume, makeup and persona
+Representación teatral construida a través del vestuario, el maquillaje y la personalidad.
+
+Performing character voice for animation, games and dubbing
+Realización de voz de personajes para animación, juegos y doblaje.
+
+Building and performing as a costumed fictional character
+Construir y actuar como un personaje ficticio disfrazado.
+
+Making small, self-published, photocopied booklets
+Hacer pequeños folletos fotocopiados, autoeditados.
+
+Wrapping public objects in knitted or crocheted yarn
+Envolver objetos públicos en hilo de punto o crochet.
+
+Personal written correspondence addressed to a specific reader
+Correspondencia escrita personal dirigida a un lector específico
+
+Improvised, rhythmic, rhymed verbal performance, often in head-to-head competition
+Interpretación verbal improvisada, rítmica y rimada, a menudo en competencias cara a cara.
+
+Painting with pigment into wet lime plaster so it binds into the wall as it dries
+Pintar con pigmento sobre yeso de cal húmedo para que se adhiera a la pared mientras se seca.
+
+Painting by spraying atomized paint through an air-fed gun rather than applying it by hand
+Pintar rociando pintura atomizada a través de una pistola alimentada por aire en lugar de aplicarla a mano
+
+Drawing by scraping through a black ink coating on chalk-clay board to reveal white beneath
+Dibujar raspando una capa de tinta negra sobre una pizarra de tiza y arcilla para revelar el blanco debajo.
+
+Deliberately corrupting digital image, video or audio data to produce visual artifacts
+Corromper deliberadamente datos de imágenes, vídeos o audios digitales para producir artefactos visuales.
+
+Unamplified sung theatrical performance combining classical vocal technique with staged drama
+Representación teatral cantada sin amplificación que combina técnica vocal clásica con drama escénico.
+
+Reworking an existing piece of music for a different combination of voices or instruments
+Reelaborar una pieza musical existente para una combinación diferente de voces o instrumentos.
+
+Composing music on vintage or emulated sound-chip hardware, often within demoscene productions
+Componer música en hardware de chip de sonido antiguo o emulado, a menudo dentro de producciones demoscene.
+
+Keeping multiple objects in continuous, controlled motion through the air by hand
+Mantener múltiples objetos en movimiento continuo y controlado a través del aire con la mano.
+
+Performance built on extreme spinal and joint flexibility, trained over years
+Rendimiento basado en una flexibilidad extrema de la columna y las articulaciones, entrenado durante años.
+
+Theatrical striptease performance built around costume, comic timing and reveal
+Espectáculo de striptease teatral basado en vestuario, sincronización cómica y revelación.
+
+Staged drama that integrates song, dialogue and dance into a single dramatic form
+Drama escénico que integra canto, diálogo y danza en una única forma dramática.
+
+Twisting and shaping long, thin balloons by hand into figures and structures
+Torcer y dar forma a globos largos y delgados a mano en figuras y estructuras.
+
+Working cacao and sugar through tempering, molding and enrobing into chocolate and candy
+Trabajar el cacao y el azúcar a través del atemperado, moldeado y bañado en chocolate y dulces.
+
+Breaking down whole animals and preserving meat through curing, smoking and sausage-making
+Descomponer animales enteros y conservar la carne mediante curado, ahumado y elaboración de embutidos.
+
+Concentrating alcohol out of a fermented liquid by controlled heating and vapor condensation
+Concentrar alcohol a partir de un líquido fermentado mediante calentamiento controlado y condensación de vapor.
+
+Preparing vinegared rice and raw or cured fish into precise, minimal compositions
+Preparar arroz con vinagre y pescado crudo o curado en composiciones mínimas y precisas.
+
+Japanese art of flower arrangement built on asymmetry, line and empty space rather than abundance
+Arte japonés de arreglos florales basado en la asimetría, la línea y el espacio vacío en lugar de la abundancia
+
+Managing honeybee colonies for honey, pollination and colony health
+Manejo de colonias de abejas para la miel, la polinización y la salud de las colonias.
+
+Roofing with layered bundles of straw, reed or similar plant material
+Techado con haces de paja, caña o material vegetal similar en capas
+
+Building a watertight hull, traditionally in wood, from a set of curved structural pieces
+Construcción de un casco estanco, tradicionalmente en madera, a partir de un conjunto de piezas estructurales curvas
+
+Training a fruit tree over years into a flat, formal two-dimensional shape against a wall or frame
+Entrenando un árbol frutal a lo largo de años hasta darle una forma bidimensional plana y formal contra una pared o marco.
+
+Composing raked gravel and placed rock into a garden that represents water and landscape without either
+Componer grava rastrillada y roca colocada en un jardín que representa el agua y el paisaje sin ninguno de los dos.
+
+Melting and shaping glass rod or tube over a small torch flame, typically alone at a bench
+Derretir y dar forma a una varilla o tubo de vidrio sobre la llama de un pequeño soplete, normalmente solo en un banco.
+
+Shaping rotating wood on a lathe with hand-held cutting tools
+Dar forma a madera giratoria en un torno con herramientas de corte manuales
+
+Raising and forming sheet silver into vessels and holloware by hammering over stakes
+Levantar y formar láminas de plata en vasijas y huecos martillando sobre estacas.
+
+Cutting thin sheets of contrasting wood veneer and fitting them into a flat pictorial pattern
+Cortar láminas finas de chapa de madera contrastante y colocarlas en un patrón pictórico plano
+
+Twisting raw fiber into continuous, usable yarn or thread by hand or wheel
+Torcer la fibra cruda en hilo o hilo continuo y utilizable a mano o con un torno
+
+Matting loose wool fibers into a solid fabric or sculptural form without weaving or spinning
+Matear fibras de lana sueltas hasta obtener una tela sólida o una forma escultórica sin tejer ni hilar
+
+Building open, patterned fabric from thread using bobbins, a needle, or knotted loops rather than a loom
+Confeccionar telas abiertas y estampadas a partir de hilo utilizando canillas, una aguja o bucles anudados en lugar de un telar.
+
+Blocking, shaping and trimming felt or straw over wooden forms to make hats
+Bloquear, dar forma y recortar fieltro o paja sobre formas de madera para hacer sombreros.
+
+Building and repairing footwear by hand around a foot-shaped last
+Construir y reparar calzado a mano alrededor de una horma con forma de pie.
+
+Designing, building and repairing mechanical timekeeping devices at fine tolerance
+Diseño, construcción y reparación de dispositivos mecánicos de cronometraje con tolerancia fina.
+
+Building sculptural forms from layered strips or pulped paper bound with paste
+Construir formas escultóricas a partir de tiras en capas o papel de pulpa encuadernado con pasta.
+
+Floating pigment on a liquid surface and combing it into pattern, then lifting the pattern onto paper
+Flotar pigmento sobre una superficie líquida y peinarlo para formar un patrón, luego levantar el patrón sobre papel.
+
+Cutting a single sheet of paper, often folded, into a symmetrical or pictorial silhouette
+Cortar una sola hoja de papel, a menudo doblada, en una silueta simétrica o pictórica.
+
+Rolling and shaping narrow strips of paper into coils and arranging them into designs
+Enrollar y dar forma a tiras estrechas de papel en bobinas y organizarlas en diseños.
+
+Gluing cut-paper images onto an object's surface and sealing under many layers of varnish
+Pegar imágenes de papel recortado sobre la superficie de un objeto y sellarlas bajo muchas capas de barniz.
+
+Drawing or shading onto wood or leather by burning marks with a heated point
+Dibujar o sombrear madera o cuero quemando marcas con una punta caliente
+
+Engraving fine lines into bone or ivory by hand, then rubbing pigment into the incisions
+Grabar líneas finas en hueso o marfil a mano y luego frotar pigmento en las incisiones.
+
+Applying gold leaf a few molecules thick onto a surface so it appears solid gold
+Aplicar pan de oro de unas pocas moléculas de espesor sobre una superficie para que parezca oro macizo.
+
+Shaping and coiling metal wire by hand into jewelry or small sculptural forms without soldering
+Dar forma y enrollar alambre de metal a mano en joyería o pequeñas formas escultóricas sin soldadura.
+
+Carving large-scale wood sculpture with a running chainsaw and other power tools
+Tallar esculturas de madera a gran escala con una motosierra y otras herramientas eléctricas
+
+Pulling loops of yarn or fabric strips through a backing cloth to build a pile surface
+Pasar bucles de hilo o tiras de tela a través de una tela de respaldo para crear una superficie de pelo.
+
+Repairing broken ceramics with lacquer dusted in gold so the crack becomes visible rather than hidden
+Reparar cerámica rota con laca espolvoreada con oro para que la grieta se vuelva visible en lugar de ocultarse.
+
+Producing recorded, episodic spoken-audio shows, from interviews to scripted narrative
+Producir programas de audio hablado episódicos grabados, desde entrevistas hasta narrativa guionada.
+
+Turning numerical data into a visual structure that reveals its patterns accurately and clearly
+Convertir datos numéricos en una estructura visual que revele sus patrones de forma precisa y clara.
+
+Unauthorized, often anonymous public art or intervention designed to surprise and provoke reaction
+Arte público no autorizado, a menudo anónimo, o intervención diseñada para sorprender y provocar reacciones.
+
+Secretly organizing and rehearsing a group to perform, then disperse, in an unsuspecting public space
+Organizar y ensayar en secreto un grupo para actuar y luego dispersarse en un espacio público desprevenido.
+
+Building sculptural or representational work from interlocking bricks
+Construir obras escultóricas o representativas a partir de ladrillos entrelazados.
+
+Training animals, most often dogs, for competition, performance or working roles
+Entrenar animales, generalmente perros, para competencias, desempeño o funciones laborales.
+
+Layering filmed, rendered and generated elements into one seamless shot
+Superposición de elementos filmados, renderizados y generados en una sola toma perfecta
+
+Defining how a 3D model's materials, textures and light behave before final rendering
+Definir cómo se comportan los materiales, las texturas y la luz de un modelo 3D antes del renderizado final.
+
+Writing built around humor: jokes, sketches, satire and comic prose
+Escritura basada en el humor: chistes, sketches, sátira y prosa cómica.
+
+Radially symmetric geometric patterns drawn or painted as a meditative practice
+Patrones geométricos radialmente simétricos dibujados o pintados como práctica meditativa.
+
+Cutting sound directly into a physical disc or cylinder using mechanical methods
+Cortar el sonido directamente en un disco físico o cilindro mediante métodos mecánicos.
+
+Cutting adhesive or heat-transfer vinyl into decals, signs and fabric designs
+Cortar vinilo adhesivo o de transferencia térmica en calcomanías, letreros y diseños de telas
+
+Transforming existing garments by cutting, reworking, bleaching, distressing or printing
+Transformar prendas existentes cortándolas, reelaborándolas, blanqueando, desgastando o imprimiendo.
+
+Performing on suspended apparatus: silks, trapeze, aerial hoop
+Actuación sobre aparatos suspendidos: sedas, trapecio, aro aéreo.
+
+Character-based comic performance built on exaggeration and audience play
+Actuación cómica basada en personajes basada en la exageración y el juego del público.
+
+Manipulating props, often flaming, in flowing patterns as performance
+Manipular accesorios, a menudo en llamas, en patrones fluidos como actuación.
+
+Making short vertical video for social platforms: filming, editing and pacing
+Realización de vídeos verticales cortos para plataformas sociales: filmación, edición y ritmo.
+
+Andalusian song, dance and guitar built on rhythmic forms called palos
+Canto, baile y guitarra andaluces construidos sobre formas rítmicas llamadas palos.
+
+Ceremonial dance from pre-Hispanic traditions, with regalia, drums and copal
+Danza ceremonial de tradiciones prehispánicas, con galas, tambores y copal.
+
+Totonac ritual in which four flyers descend a tall pole on ropes
+Ritual totonaca en el que cuatro voladores descienden de un poste alto con cuerdas
+
+Afro-Brazilian game of movement, music and martial art played in a circle
+Juego afrobrasileño de movimiento, música y artes marciales jugado en círculo.
+
+Choreographed team and duet routines performed in the water to music
+Rutinas coreografiadas en equipo y a dúo realizadas en el agua con música.
+
+Judged routines on floor, vault, bars, beam, rings and pommel horse
+Rutinas juzgadas en suelo, bóveda, barras, viga, anillas y caballo con arcos.
+
+Floor routines to music with hoop, ball, clubs and ribbon
+Rutinas de suelo con música con aro, pelota, mazas y cinta.
+
+Jumps, spins and step sequences on ice, in singles, pairs and ice dance
+Saltos, giros y secuencias de pasos sobre hielo, individuales, en parejas y danza sobre hielo.
+
+Wordless vocal improvisation that treats the voice as a jazz instrument
+Improvisación vocal sin palabras que trata la voz como un instrumento de jazz.
+
+Japanese theater of stylized dance, music, makeup and dramatic poses
+Teatro japonés de danza estilizada, música, maquillaje y poses dramáticas.
+
+Slow, masked Japanese musical theater of ghosts, gods and memory
+Teatro musical japonés lento y enmascarado de fantasmas, dioses y memoria.
+
+Chinese theater combining song, speech, martial arts and acrobatics
+Teatro chino que combina canto, oratoria, artes marciales y acrobacias.
+
+Kerala dance-drama with painted faces, mudras and epic stories
+Danza-drama de Kerala con caras pintadas, mudras e historias épicas
+
+Japanese avant-garde dance of slow, distorted, image-driven movement
+Danza japonesa de vanguardia de movimiento lento, distorsionado e impulsado por imágenes.
+
+Italian masked comedy of stock characters and improvised scenarios
+Comedia de máscaras italiana con personajes comunes y escenarios improvisados.
+
+Iranian ritual theater mourning the martyrdom at Karbala
+Teatro ritual iraní de luto por el martirio de Karbala
+
+Carving crests and stories into large cedar poles and ceremonial objects
+Tallar crestas e historias en grandes postes de cedro y objetos ceremoniales
+
+Making masks for ceremony, dance and theater
+Confección de máscaras para ceremonia, danza y teatro.
+
+Sculpting devotional and ritual figures according to tradition
+Esculpir figuras devocionales y rituales según la tradición.
+
+Bladework as sport, study and duel of wits
+El trabajo con espada como deporte, estudio y duelo de ingenio.
+
+Tricks, flow and style on four wheels
+Trucos, fluidez y estilo sobre cuatro ruedas
+
+Dance and tricks on wheeled skates
+Baile y trucos sobre patines de ruedas.
+
+Tricks and lines on a small-wheeled bike
+Trucos y líneas en bicicleta de ruedas pequeñas
+
+Bike control as spectacle
+El control de la bicicleta como espectáculo
+
+Solo forms that carry a style's technique
+Formas solistas que llevan la técnica de un estilo.
+
+Slow forms linked with breath and attention
+Formas lentas vinculadas con la respiración y la atención.
+
+Leverage, timing and technique on the mat
+Apalancamiento, sincronización y técnica en la colchoneta.
+
+Punches, kicks and timing under pressure
+Puñetazos, patadas y sincronización bajo presión.
+
+Form, breath and one released arrow
+Forma, aliento y una flecha lanzada.
+
+Jumps, rails and style on snow
+Saltos, raíles y estilo sobre la nieve.
+
+Reading waves and drawing lines on them
+Leer ondas y dibujar líneas sobre ellas.
+
+Building the figures that get performed
+Construyendo las figuras que se representan
+
+Shaping the board you will ride
+Dando forma a la tabla que montarás
+
+One-off machines, built by hand
+Máquinas únicas, construidas a mano.
+
+Fabricating the hard and handheld parts of a costume
+Fabricar las partes duras y portátiles de un disfraz.
+
+Turning fiber and water into paper
+Convertir fibra y agua en papel
+
+Cutting and polishing stone into gems
+Cortar y pulir piedra para convertirla en gemas.
+
+Forging steel into edged tools
+Forjar acero en herramientas afiladas
+
+Building objects that hide their own solution
+Construir objetos que ocultan su propia solución.
+
+Shaping how bikes, cars and boats look and work
+Dando forma al aspecto y funcionamiento de las bicicletas, los coches y los barcos
+
+Deciding what a place looks like on paper
+Decidir cómo se ve un lugar en papel
+
+Circuits and boards made to be seen and used
+Circuitos y placas hechas para ser vistas y utilizadas.
+
+Turning files into physical objects
+Convertir archivos en objetos físicos
+
+Making moving figures that seem alive
+Hacer figuras en movimiento que parezcan vivas
+
+Designing a story that players solve in person
+Diseñar una historia que los jugadores resuelvan en persona.
+
+Photographing what the eye cannot see
+Fotografiar lo que el ojo no puede ver
+
+Dance and strength on a vertical pole
+Danza y fuerza en un poste vertical
+
+Moves with a deck, made to be seen
+Se mueve con una baraja, hecha para ser vista.
+
+Telling a story aloud, without a page
+Contar una historia en voz alta, sin página.
+
+Growing plants through the seasons
+Cultivar plantas a través de las estaciones.
+
+Making a fictional world hold together
+Cómo hacer que un mundo ficticio se mantenga unido

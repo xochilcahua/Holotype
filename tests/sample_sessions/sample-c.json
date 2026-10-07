@@ -1,0 +1,60 @@
+{
+  "format": "holotype-session",
+  "schemaVersion": 2,
+  "appVersion": "2026.10",
+  "exportedAt": "2026-01-01T00:00:00.000Z",
+  "requires": [],
+  "name": "Sample C (needlework)",
+  "ratings": [
+    {
+      "id": "af145",
+      "name": "Knitting & Crochet",
+      "rating": 5
+    },
+    {
+      "id": "af029",
+      "name": "Sewing & Tailoring",
+      "rating": 4
+    },
+    {
+      "id": "af105",
+      "name": "Embroidery",
+      "rating": 2
+    },
+    {
+      "id": "af076",
+      "name": "Cooking",
+      "rating": 4
+    },
+    {
+      "id": "af077",
+      "name": "Baking & Pastry",
+      "rating": 4
+    },
+    {
+      "id": "af010",
+      "name": "Photography",
+      "rating": 2
+    }
+  ],
+  "tags": [],
+  "distanceReach": 0.5,
+  "filters": {
+    "search": "",
+    "categories": [],
+    "familiarity": [],
+    "show": {
+      "rated": true,
+      "unrated": true
+    }
+  },
+  "sort": "common_desc",
+  "exportSections": {
+    "portrait": true,
+    "classification": true,
+    "filters": true,
+    "garden": true,
+    "unexplored": true
+  },
+  "plantSeed": "sample-c"
+}

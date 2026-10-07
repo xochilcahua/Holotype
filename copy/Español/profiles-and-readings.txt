@@ -1,0 +1,734 @@
+Herbarium
+Herbario
+
+The second tab, where your profile is kept.
+La segunda pestaña, donde se guarda tu perfil.
+
+A collection of pressed, dried and labeled plant specimens, used as a reference library.
+Colección de especímenes de plantas prensadas, secas y etiquetadas, que se utiliza como biblioteca de referencia.
+
+Holotype
+Holotipo
+
+Your profile page and the flower at its top: the one specimen your taste is named from.
+Tu página de perfil y la flor en la parte superior: el único ejemplar que da nombre a tu gusto.
+
+The single specimen a species name is officially attached to. Every later find is compared against it.
+El único espécimen al que se adjunta oficialmente el nombre de una especie. Cada hallazgo posterior se compara con él.
+
+Plate
+Lámina
+
+The framed picture of your plant, styled like a page from a botanical book.
+La imagen enmarcada de tu planta, con el estilo de una página de un libro de botánica.
+
+A full-page illustration in a scientific book, traditionally engraved or lithographed.
+Ilustración a página completa de un libro científico, tradicionalmente grabada o litografiada.
+
+Flower
+Flor
+
+The flower drawn for every art form and for you. Longer petals mean stronger traits.
+La flor dibujada para cada forma de arte y para ti. Los pétalos más largos significan rasgos más fuertes.
+
+The flower of a plant, or a plant in flower.
+La flor de una planta, o una planta en flor.
+
+Genus
+Género
+
+Your core type, one of 16. Each is named after a real organism whose way of living echoes how you work. Fourteen are plants; Armillaria is a fungus and Physarum a slime mold.
+Tu tipo principal, uno de 16. Cada uno lleva el nombre de un organismo real cuya forma de vida refleja tu forma de trabajar. Catorce son plantas; Armillaria es un hongo y Physarum un moho limoso.
+
+A group of closely related species, and the first word of a two-part Latin name, as in Helianthus annuus.
+Grupo de especies estrechamente relacionadas y primera palabra de un nombre latino de dos partes, como en Helianthus annuus.
+
+Tribe
+Tribu
+
+The nickname for your kind of practitioner, such as The Room-Readers.
+El apodo de tu estilo de práctica, por ejemplo Quienes leen el ambiente.
+
+A rank below subfamily and above genus that groups related genera.
+Un rango por debajo de la subfamilia y por encima del género que agrupa géneros relacionados.
+
+Growth habit
+Hábito de crecimiento
+
+The section describing how you tend to work, told as a plant.
+La sección que describe cómo sueles trabajar mediante la imagen de una planta.
+
+A plant's characteristic form and manner of growing: climbing, creeping, upright or spreading.
+Forma característica de una planta y manera de crecer: trepadora, rastrera, erguida o extendida.
+
+var. (variety)
+var. (variedad)
+
+Your approach to chance: ordinata steers toward control, flexilis moves between, aleatoria leaves room for chance.
+Tu relación con el azar: ordinata busca el control, flexilis alterna entre control y azar, y aleatoria deja espacio al azar.
+
+A rank below species for a natural variant that differs in some trait but is not a separate species.
+Un rango por debajo de especie para una variante natural que difiere en algún rasgo pero que no es una especie separada.
+
+cf. (compare)
+cf. (comparar)
+
+The one or two fields your ratings clearly favor, written as Latin adjectives and spelled out in plain words.
+Uno o dos campos que tus valoraciones favorecen con claridad, escritos como adjetivos latinos y explicados con palabras sencillas.
+
+Short for the Latin confer, compare. Written in a name when an identification is provisional and the specimen resembles a named group.
+Abreviatura del latín confer, «compara». Se escribe en un nombre cuando la identificación es provisional y el ejemplar se parece a un grupo conocido.
+
+Epithet
+Epíteto
+
+The Latin word after var. or cf.: sonans (sound and pattern), eloquens (language and sequence), versicolor (the visual), mobilis (the body in motion), fragrans (taste and scent), spatialis (space and structure), sylvestris (nature).
+La palabra latina después de var. o cf.: sonans (sonido y patrones), eloquens (lenguaje y secuencia), versicolor (lo visual), mobilis (el cuerpo en movimiento), fragrans (sabor y aroma), spatialis (espacio y estructura), sylvestris (naturaleza).
+
+The descriptive second part of a species name, such as alba (white) or officinalis (used in medicine).
+La segunda parte descriptiva del nombre de una especie, como alba (blanco) u officinalis (usado en medicina).
+
+indeterminata
+indeterminata
+
+What you see while it is too early to tell.
+Lo que ves aunque es demasiado pronto para decirlo.
+
+Undetermined: a specimen not yet identified to a variety or species.
+Indeterminado: un espécimen aún no identificado para una variedad o especie.
+
+Taxonomy
+Taxonomía
+
+The naming logic behind your profile: genus first, then variety, then compare.
+La lógica de nomenclatura detrás de tu perfil: primero el género, luego la variedad y luego el «comparar».
+
+The science of naming and classifying living things in nested ranks.
+La ciencia de nombrar y clasificar los seres vivos en filas anidadas.
+
+The Path-Finders
+Quienes encuentran caminos
+
+A slime mold with no brain that can solve mazes.
+Un moho mucilaginoso sin cerebro que puede resolver laberintos.
+
+The Surface Spreaders
+Quienes abarcan la superficie
+
+Duckweed. Tiny floating plants that can cover a whole pond.
+Lenteja de agua. Pequeñas plantas flotantes que pueden cubrir un estanque entero.
+
+The Underground Network
+La red subterránea
+
+Honey fungus. One organism can span a forest floor.
+Hongo de miel. Un organismo puede abarcar el suelo de un bosque.
+
+The Drifters Who Always Belong
+Quienes siempre encuentran su lugar
+
+Dandelions. Weeds that settle almost anywhere.
+Dientes de león. Malezas que se asientan en casi cualquier lugar.
+
+The Slow Accumulators
+Quienes acumulan poco a poco
+
+Clubmosses. Slow, ancient plants that spread by spores.
+Musgos de club. Plantas lentas y antiguas que se propagan por esporas.
+
+The Root System
+El sistema de raíces
+
+Bamboo. Many stalks joined by one root system.
+Bambú. Muchos tallos unidos por un sistema de raíces.
+
+The Ambitious Ensemble
+El conjunto ambicioso
+
+Passionflowers. Elaborate climbers with showy blooms.
+Pasifloras. Trepadoras elaboradas con flores vistosas.
+
+The Banyan Builders
+Quienes construyen bosques de raíces
+
+Figs, including banyans, whose aerial roots grow into forests.
+Higos, incluidos los banianos, cuyas raíces aéreas se convierten en bosques.
+
+The Quiet Hands
+Las manos silenciosas
+
+Spikemoss. Some species curl up dry and revive when watered.
+Musgo de púas. Algunas especies se acurrucan en seco y reviven cuando se riegan.
+
+The Remixers
+Quienes reinventan
+
+Dodder. A leafless parasitic vine that grows on a host plant.
+Cuscuta. Una enredadera parásita sin hojas que crece en una planta huésped.
+
+The Rare Appearance
+La aparición excepcional
+
+The corpse lily. Enormous, rare, short-lived, and famously foul-smelling.
+El lirio cadáver. Enorme, raro, de corta duración y famoso por su mal olor.
+
+The Room-Readers
+Quienes leen el ambiente
+
+The sensitive plant. Folds its leaves when touched.
+La planta sensible. Dobla sus hojas al tocarlas.
+
+The Stone Garden
+El jardín de piedra
+
+Living stones. Succulents camouflaged as pebbles.
+Piedras vivas. Suculentas camufladas como guijarros.
+
+The Perpetual Second Draft
+El segundo borrador perpetuo
+
+Brake ferns. Fiddleheads unfurl into fronds again every season.
+Helechos de freno. Los violines vuelven a desplegarse formando hojas cada temporada.
+
+The Sticky Planners
+Quienes atrapan con un plan
+
+Sundews. Carnivorous plants with sticky, glistening leaves.
+Droseras. Plantas carnívoras de hojas pegajosas y brillantes.
+
+The Sun-Followers
+Quienes siguen al sol
+
+Sunflowers. Young heads turn to follow the sun.
+Girasoles. Las cabezas jóvenes se vuelven para seguir el sol.
+
+food and scent
+alimentos y aromas
+
+Steers toward control
+Busca el control
+
+taste and scent — the sensory payoff of a thing, not just its use
+sabor y aroma — el valor sensorial de algo, además de su utilidad
+
+Taste and scent stand out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones with a sensory payoff make up a larger share than they do across the catalog.
+El sabor y el aroma destacan un poco en tu lista. No es una forma de trabajar todavía, sólo una inclinación: entre las cosas que valoraste con 3 o más, las que tienen una recompensa sensorial representan una proporción mayor que en todo el catálogo.
+
+Steered by control, what you make here tends toward craft, refined until it is repeatable.
+Dirigido por el control, lo que haces aquí tiende a ser artesanal, refinado hasta que sea repetible.
+
+quick cycles and lots of small wins
+ciclos rápidos y muchas pequeñas victorias
+
+every attempt has to be presentable before the next one can start
+Cada intento tiene que ser presentable antes de que pueda comenzar el siguiente.
+
+Physarum, who gets through ten things at once and keeps what works; Drosera, for turning one of your attempts into a plan with a date on it; Taraxacum, for finding whatever water is nearest
+Physarum, que supera diez cosas a la vez y conserva lo que funciona; Drosera, por convertir uno de tus intentos en un plan con fecha; Taraxacum, para encontrar el agua más cercana.
+
+You take things up alone, with no fixed method, playing loosely with the form each time instead of settling on one version of it. Range is the point: each new form adds ground rather than being a stage on the way to something more polished. Like the duckweed you are named for, you spread across a whole surface at once. From outside it can look as if no single attempt gets your full attention, when you are choosing range over depth. If you ever want depth, pick one attempt and keep it out of the rotation.
+Exploras muchas prácticas a solas, sin un método fijo ni una sola forma de interpretar el material. Probar otra disciplina suele ser parte del gusto. Si quieres desarrollar más una pieza, reserva tiempo para ella junto a los nuevos experimentos.
+
+You start easily and in many directions, each attempt with a good reason of its own. Being unafraid of starting is most of what trying new things takes, and you do it on your own terms, without waiting for a plan or for company.
+Guarda los experimentos que quieras retomar donde puedas encontrarlos. Un recordatorio pequeño puede bastar para volver a empezar.
+
+Once a piece is under way you want it to land where you intended: the same brief produces the same result, and one you can repeat is worth more to you than one you got lucky with. Where the piece goes can be an accident; how it comes out is not. That is the distinction you actually work by: being able to do it again is the asset, and the happy surprise is the accident.
+Valoras un resultado que puedas repetir. Una vez en marcha, te fijas en qué decisiones hacen que salga de forma consistente. Eso también puede ocurrir si empezaste sin un plan.
+
+The repeat performance is a point of pride: the recipe that works every time, the take you can redo on demand. A surprise in the result feels like a leak. The risk is tuning a piece until it is safe and a little sleepy, so schedule one deliberately loose attempt.
+La repetición es un motivo de orgullo: la receta que funciona siempre, la toma que puedes rehacer cuando lo desees. Una sorpresa en el resultado parece una fuga. El riesgo es afinar una pieza hasta que sea segura y tenga un poco de sueño, así que programe un intento deliberadamente relajado.
+
+Moves between control and chance
+Alterna entre control y azar
+
+steady practice on several fronts
+práctica constante en varios frentes
+
+everything you have is useful only to you, and you are the only one who knows that
+todo lo que tienes te es útil sólo a ti, y eres el único que lo sabe
+
+Bambusa, who builds a system out of the same separate skills; Lithops, for a private routine that compounds quietly; Drosera, for turning the accumulation into something with a date
+Bambusa, que construye un sistema a partir de las mismas habilidades separadas; Lithops, para una rutina privada que se desarrolla en silencio; Drosera, por convertir la acumulación en algo con fecha
+
+You run a wide range of practices in parallel, alone, each with real method and a hands-on, fairly literal style. You are not choosing a specialty; you are building competence slowly on many fronts, for long enough that the range itself becomes the specialty. Mid-process, from outside, this can look unfocused or undecided, because the payoff shows only in hindsight and over longer stretches than most people judge by. Keeping a visible record of progress helps other people, and sometimes you, see the pattern earlier.
+Desarrollas habilidades en varias prácticas a la vez, principalmente a solas. Cada una tiene su método y cuidas el material o la técnica. Los avances pueden ser lentos cuando repartes tu tiempo entre proyectos. Registrar pequeños logros ayuda a decidir dónde poner tu atención.
+
+You never announce a specialty and one day discover you have one anyway. You collect skills the way other people collect apps, the range is invisible for years, and then a project comes along that needs all of it and you turn out to be qualified.
+Registra los avances de cada práctica por separado. Así resulta más fácil mantener y aprovechar un conjunto amplio de habilidades.
+
+Some jobs get a plan and others get left alone to see what happens, and you pick per job rather than by habit. That reads less like a compromise than a judgment call: you size up what the work wants and give it that.
+Usas el control y el azar en distintas proporciones según el trabajo. Algunas partes necesitan un método fiable; otras se benefician de probar y observar qué ocurre.
+
+You read the job before choosing a method, which suits an unpredictable brief. The risk is never quite committing to either approach, so decide early which way a given piece should go and hold to it.
+Lee el trabajo antes de elegir un método que se adapte a un encargo impredecible. El riesgo nunca es comprometerse del todo con ninguno de los enfoques, así que decida con anticipación en qué dirección debe ir una pieza determinada y manténgala.
+
+a private routine and one fixed craft
+una rutina privada y una embarcación fija
+
+you are asked to teach what you do
+te piden que enseñes lo que haces
+
+Selaginella, who leaves your progress unremarked; Bambusa, for a system neither of you has to explain; Lycopodium, grinding quietly on several fronts beside you
+Selaginella, que no se da cuenta de tus progresos; Bambusa, por un sistema que ninguno de los dos tiene que explicar; Lycopodium, moliendo silenciosamente en varios frentes a tu lado
+
+You go deep on a small handful of things, alone, following a plan only you know, and you take the material fairly literally rather than looking for extra meaning in it. Being overlooked costs you very little: quiet, steady, mostly invisible progress is the job, not a consolation prize. You are usually more intense about the work than you look. Because none of it is performed, people who do not already know you often underestimate how much has gone into it, and you may need to say so out loud, since nobody will infer it.
+Trabajas a solas y profundizas en unas pocas prácticas. Un plan, la repetición y la atención al material te ayudan a avanzar. Gran parte del trabajo ocurre sin que nadie lo vea. Guardar un registro te permite reconocer tus avances y compartirlos.
+
+From outside you look like nothing much, and most of the work happens on the inside. You are the friend who has been quietly getting good at the same craft for years, and the reveal is always more impressive than anyone guessed. You do not need it to be noticed; it helps that it eventually is.
+Lleva un registro de tu práctica aunque trabajes en privado. Puede ayudarte a elegir la siguiente habilidad que desarrollarás.
+
+Leaves room for chance
+Deja espacio al azar
+
+easy to teach yourself
+fácil de enseñarte a ti mismo
+
+Taraxacum, who turns up and connects two groups who had not met; Passiflora, for a crew big enough to need you; Lycopodium, for the patient work the network feeds on
+Taraxacum, que aparece y conecta dos grupos que no se habían conocido; Passiflora, para una tripulación lo suficientemente grande como para necesitarte; Lycopodium, para el trabajo del paciente del que se alimenta la red
+
+Lycopodium, for the long slow build; Ficus, when your framework has to become a place other people stand; Pteris, for the version of it that is allowed to change
+Lycopodium, para la constitución larga y lenta; Ficus, cuando tu marco tiene que convertirse en un lugar donde se encuentren otras personas; Pteris, por la versión que se permite cambiar.
+
+You try everything once and keep what worked. To people who like a tidy answer that looks like drift; to anyone who has watched you solve something new in an afternoon it looks like a knack with no job title. You are the person friends call when the problem has no manual.
+Una lista de experimentos ayuda a ver cuáles merecen otro intento. Puedes profundizar sin abandonar la variedad.
+
+old material and an outside deadline
+material antiguo y plazo fuera de plazo
+
+volumetric and spatial
+volumétrico y espacial
+
+structurally collaborative
+estructuralmente colaborativo
+
+You plan carefully and work the material fairly literally, but a piece is not complete until it happens in front of someone. An audience, a collaborator or a live moment is not decoration on top of the work; it is the step the planning was building toward. The flip side is that rehearsal and private drafts can feel unfinished however good they get, so put the audience on the calendar early instead of waiting until the work feels ready.
+Te preparas con cuidado en unas pocas prácticas y luego compartes el trabajo con un público o un colaborador. Buscas un resultado directo y con un propósito claro. Fijar pronto la fecha de la presentación o la sesión compartida da un destino a esa preparación.
+
+Space and structure stand out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones about rooms, layout and structure make up a larger share than they do across the catalog.
+El espacio y la estructura destacan un poco en tu lista. Todavía no es una forma de trabajar, solo una inclinación: entre las cosas que valoraste con 3 o más, las relacionadas con las habitaciones, la distribución y la estructura representan una proporción mayor que en todo el catálogo.
+
+Rafflesia, who needs an audience as much as you do; Helianthus, for a stage with the sun on it; Drosera, who holds the plan steady while you read the room
+Rafflesia, que necesita una audiencia tanto como tú; Helianthus, por un escenario con el sol; Drosera, que mantiene firme el plan mientras lees la sala.
+
+other people keep changing a plan you have already settled
+otras personas siguen cambiando un plan que ya has establecido
+
+Movement stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that are really about the body in motion make up a larger share than they do across the catalog.
+El movimiento destaca un poco en tu lista. Todavía no es una forma de trabajar, solo una inclinación: entre las cosas que valoraste con 3 o más, las que realmente tienen que ver con el cuerpo en movimiento representan una proporción mayor que en todo el catálogo.
+
+built from tone, form, or pattern without words
+construido a partir de tono, forma o patrón sin palabras
+
+a date, a stage and a plan
+una fecha, una etapa y un plan
+
+You work with a small set of things, mostly alone, by feel rather than by plan, and you take the material as it is instead of reading extra meaning into it. Skill comes from repetition and adjustment on the spot: you try it, see what happened, and change the next attempt. The catch is that this is hard to explain from outside. There is no plan or statement to point to, only the results.
+Vuelves a unas pocas prácticas conocidas y trabajas principalmente a solas. Aprendes probando, observando el resultado y ajustando el siguiente intento. Te interesan el material y la obra terminada. Llevar algunas notas puede ayudarte a compartir lo que has aprendido.
+
+the body in motion — thinking through doing, not before it
+el cuerpo en movimiento — pensar a través de la acción
+
+You think in systems, and you build them from whatever is nearby. Given enough time, almost anything you touch, a hobby, a side project, someone else's half-finished idea, starts to look like a component of something larger you are constructing, usually without your deciding to expand. This is not scattered ambition; it is one long operation with many moving parts. Your system tends to absorb things more than it showcases them, so people sometimes struggle to tell where the original ends and your structure begins, which is either exactly the point or a fair question, depending on who is asking.
+Conectas varias prácticas mediante proyectos planeados con otras personas. Usas cada disciplina con flexibilidad y buscas cómo puede aportar a una idea más amplia. Explica esas conexiones a tus colaboradores y deja espacio para que una pieza crezca por su cuenta.
+
+closely tied to music and sound
+estrechamente ligado a la música y el sonido
+
+usually a solo or freelance pursuit
+generalmente una actividad en solitario o independiente
+
+Your best work often begins from something already there — an existing structure, a piece someone else made, a piece of writing, a piece of music — and you keep working it, alone and without a plan, until it says something it was not built to say. You stay with a small set of these sources rather than roaming, and by the time you are done the original can be hard to recognize. A side effect worth knowing: because the starting point is often borrowed, it can be hard to point at what is yours in the result. Often the answer is the bending itself.
+Sueles partir de algo que ya existe: un texto, una imagen, una canción o una estructura. A solas, lo vas cambiando hasta darle un sentido propio. Te mantienes cerca de unas pocas fuentes conocidas. Mostrar el punto de partida junto al resultado ayuda a reconocer tu aportación.
+
+Lemna, who also ranges widely; Taraxacum, who turns up wherever there is something to do; Cuscuta, for a route neither of you has taken before
+Lemna, que también se extiende ampliamente; Taraxacum, que aparece allí donde hay algo que hacer; Cuscuta, por una ruta que ninguno de ustedes ha tomado antes.
+
+built from words and semantic meaning
+construido a partir de palabras y significado semántico
+
+Mimosa, who draws work out of a room of one; Drosera, for the date that turns a rarity into an event; Ficus, if what you make has to outlast the evening
+Mimosa, que saca el trabajo de una habitación para uno; Drosera, por la fecha que convierte una rareza en un acontecimiento; Ficus, si lo que haces tiene que durar más que la noche
+
+closed off to audience influence
+cerrado a la influencia de la audiencia
+
+planned well in advance
+planeado con mucha antelación
+
+You are often the reason a scene exists. You may never be the name on the poster, but ask anyone in the room who introduced them to everyone else. Projects come and go; the web is the work, and it is worth more than any single thing that passed through it.
+Las personas que conectan tus proyectos también forman parte de tu práctica. Reserva espacio para cuidar esas relaciones entre proyectos.
+
+You return to the same handful of forms again and again, alone, with real patience and a plan behind each attempt, and you never read them the same way twice. Someone else would call this mastering a fixed thing; you would call it reopening a question. It is why the same old material keeps producing something new in your hands. The cost is that you rarely converge: with no settled reading to measure against, it can be hard for you, or anyone watching, to say when a piece is finished. A deadline set from outside works well here.
+Retomas unas pocas prácticas a solas, con paciencia y un plan. Cada intento te ofrece otra manera de interpretar el mismo material. Dar una pieza por terminada puede costar cuando siempre hay otra versión posible. Una fecha de entrega puede ayudarte a elegir.
+
+someone else controls one of the parts you depend on
+alguien más controla una de las partes de las que dependes
+
+You have one method and many faces. The work looks unrelated at a glance and is obviously one person's on a second look. Others describe you as a very consistent person doing surprisingly different things, and they are right on both counts.
+Muestra las conexiones entre proyectos con un dibujo o algunos ejemplos. Puede ayudar a otros a entender tu método.
+
+You organize complicated, beautiful things with lots of people and remember everyone's job. You tend to be the lead, the producer, the one people ring. The flowers are the showy part; the plant is a well-run machine, and you are the one who knows where every wire goes.
+Da a cada colaborador un papel claro y comparte los siguientes pasos. Revisa el plan cuando falten tiempo o atención.
+
+a strongly olfactory medium
+un medio fuertemente olfativo
+
+typically practiced inside institutions or studios
+Normalmente se practica dentro de instituciones o estudios.
+
+new rooms and new people
+nuevas habitaciones y nueva gente
+
+essentially irrevocable: one attempt
+esencialmente irrevocable: un intento
+
+in service of visual image-making
+al servicio de la creación de imágenes visuales
+
+Flexible about method, here you can expect to move between planning and improvising.
+Flexible en cuanto al método, aquí puede esperar moverse entre la planificación y la improvisación.
+
+language and sequence — events read as a story with a shape
+lenguaje y secuencia — sucesos leídos como una historia con estructura
+
+essentially flat and two-dimensional
+esencialmente plano y bidimensional
+
+a strongly tactile medium
+un medio fuertemente táctil
+
+endlessly revisable
+infinitamente revisable
+
+bound up with nature and living systems
+Ligado a la naturaleza y a los sistemas vivos.
+
+a strongly auditory medium
+un medio fuertemente auditivo
+
+Nature people work in seasons, not sessions. You like things that grow, decay and return, and you are patient with slow processes.
+La gente de la naturaleza trabaja por estaciones, no por sesiones. Te gustan las cosas que crecen, decaen y regresan, y eres paciente con los procesos lentos.
+
+Careful, deliberate growth across many practices and many collaborators at once: ambitious in scope, sociable in how you work, and direct about what each piece is for, even with several running in parallel. With that much in flight and that many people involved, something is always getting less attention than it deserves; the useful habit is to choose what that something is instead of leaving it to chance.
+Planeas trabajo en varias prácticas e involucras a otras personas. Te gusta que cada pieza tenga un propósito claro. Con varios proyectos en marcha, hay que cuidar el tiempo y la atención. Elegir qué terminar primero puede ayudar al grupo a avanzar.
+
+Pteris, for reopening the same old questions from a different angle; Armillaria, who gives your rebuilds somewhere to attach; Lithops, who will never ask you to explain the method
+Pteris, por reabrir las mismas viejas cuestiones desde un ángulo diferente; Armillaria, que proporciona a tus reconstrucciones un lugar donde fijarlas; Lithops, que nunca te pedirá que le expliques el método.
+
+highly controlled and repeatable
+altamente controlado y repetible
+
+Your projects grow aerial roots and become forests. You are the person with the system, the wiki, the web of linked ideas, and a private suspicion that everything can be joined up. It usually can, which is the most annoying part for everyone else.
+Un sistema más amplio puede crecer a partir de proyectos pequeños. Revisa qué necesita cada parte antes de añadir otra conexión.
+
+You have tried a lot of things and few have gone past a first try. That is a pattern, not a failure: the list is wide and mostly shallow so far, which leaves room to find the one worth the hours.
+Has probado muchas cosas y pocas han pasado del primer intento. Se trata de un patrón, no de un fracaso: la lista es amplia y poco profunda hasta el momento, lo que deja espacio para encontrar el que valga la pena.
+
+a scene, a tradition or a regular audience
+una escena, una tradición o una audiencia habitual
+
+The visual stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones you would judge with your eye make up a larger share than they do across the catalog.
+Lo visual se destaca un poco en tu lista. Todavía no es una forma de trabajar, sólo una inclinación: entre las cosas que valoraste con 3 o más, las que juzgarías con tus ojos representan una proporción mayor que en todo el catálogo.
+
+Cuscuta, for reviving old material; Selaginella, for the long quiet stretch a revision needs; Drosera, for a deadline neither of you set yourself
+Cuscuta, por revivir material antiguo; Selaginella, para el largo tramo tranquilo necesita una revisión; Drosera, para una fecha límite ninguno de los dos se puso
+
+You keep a small, plainly-done set of things in reserve and bring them out when someone is there to see them. Nothing is planned; it happens on contact with the room, and it is direct rather than layered. The long gaps between appearances are not a lull, they are how you make sure each one is worth watching. Others may call that inconsistent; selective is closer. With nobody around there is little pull to do the thing at all, so putting even a small audience or a partner in place is what gets you moving.
+Tienes unas pocas prácticas conocidas que compartes con un público o una pareja de trabajo. Respondes a lo que ocurre en el momento, de forma directa y con poca planificación. Una presentación pequeña o una sesión compartida puede darte un motivo para volver al trabajo.
+
+Sound-minded people hear structure before they see it: rhythm, repetition, how a room changes when something is played in it. You tend to describe things by how they would sound and to notice something is off before you can say why.
+Las personas con mentalidad sólida oyen la estructura antes de verla: el ritmo, la repetición, cómo cambia una habitación cuando se toca algo en ella. Tiendes a describir las cosas por cómo sonarían y a darte cuenta de que algo anda mal antes de poder decir por qué.
+
+Physarum, who gets through ten things at once and keeps what works; Taraxacum, for finding whatever water is nearest; Lycopodium, for the slow version where the range becomes the thing
+Physarum, que supera diez cosas a la vez y conserva lo que funciona; Taraxacum, para encontrar el agua más cercana; Lycopodium, para la versión lenta donde el rango se convierte en protagonista
+
+You work best when something is reading you back. You use a small, familiar set of things and adjust them as you go, and the result is never quite the same twice, which is much of the appeal. People often find your company restorative, and this is much of why: you are watching, timing and meeting the room where it is. Played entirely on your own terms, the same work is still good, but it loses something you cannot quite name, and you may find yourself arranging for a witness sooner or later.
+Respondes a otras personas mediante unas pocas prácticas conocidas. Escuchar, encontrar el momento y cambiar de rumbo forman parte de tu manera de trabajar. Dejas espacio a la interpretación y cada intento sale distinto. Trabajar con alguien de forma regular puede ayudarte a continuar.
+
+chance-driven and emergent
+impulsado por el azar y emergente
+
+a niche, hobbyist-scale pursuit
+una búsqueda de nicho a escala de aficionado
+
+being asked to commit to one of these before you are ready
+que te pidan que te comprometas con uno de estos antes de que estés listo
+
+rooted in ritual or tradition
+arraigado en un ritual o tradición
+
+made as singular physical objects or events
+hechos como objetos o eventos físicos singulares
+
+Passiflora, for building at a scale you cannot hold alone; Armillaria, for the network running underneath what you assemble; Physarum, for reorganizing at speed without a plan
+Passiflora, para construir a una escala que no puedes sostener solo; Armillaria, por la red que corre debajo de lo que ensamblas; Physarum, para reorganizarse a toda velocidad y sin plan
+
+a strong source to push against
+una fuerte fuente para luchar contra
+
+improvised in the moment
+improvisado en el momento
+
+more than one thing is in flight and there is no time for the one that matters
+Más de una cosa está en vuelo y no hay tiempo para la que importa.
+
+You learn by doing and you are not much for announcing it. People see the result before they hear anything about the process, and if asked how you did it, the honest answer is usually that you kept adjusting until it worked. You tend to get better in unseen stretches, and the improvement shows up all at once.
+Gran parte de tu avance viene de repetir intentos. Guarda algunos ejemplos para reconocer los pequeños cambios.
+
+a strongly visual medium
+un medio fuertemente visual
+
+fixed and literal in meaning
+significado fijo y literal
+
+space and structure — how a room or layout shapes what happens in it
+espacio y estructura — cómo un espacio organiza lo que ocurre en él
+
+being asked to work inside someone else's structure, on their brief and to their rules
+Que te pidan trabajar dentro de la estructura de otra persona, con sus instrucciones y sus reglas.
+
+Visual people judge with the eye first: composition, color, what sits next to what. You tend to notice a badly spaced sign before you notice what it says, and to trust a thing more once it looks right.
+Las personas visuales juzgan primero con los ojos: composición, color, qué hay al lado de qué. Tiendes a notar un letrero mal espaciado antes de notar lo que dice, y a confiar más en algo una vez que se ve bien.
+
+traditionally passed down through apprenticeship
+tradicionalmente transmitido a través del aprendizaje
+
+big projects with a crew
+grandes proyectos con un equipo
+
+The accident is a collaborator. Happy mistakes are raw material, and you can tell in seconds which ones to keep. The risk is that people who need repeatability, clients and schedulers especially, find you hard to plan around.
+El accidente es un colaborador. Los errores felices son materia prima y puedes saber en segundos cuáles conservar. El riesgo es que a las personas que necesitan repetibilidad, especialmente a los clientes y programadores, les resulte difícil planificar.
+
+a live audience or a partner
+una audiencia en vivo o un socio
+
+You reopen things other people consider closed. Your desk holds several works that are finished in the sense that you stopped and none in the sense that you are satisfied. This is the price of always seeing one more reading, and also the reason your old material never goes stale.
+Retoma una pieza antigua y decide qué conservarías ahora. Elegir dónde parar deja espacio para la siguiente versión.
+
+sound and pattern — rhythm, tone, the shape of something heard
+sonido y patrones — ritmo, tono y la forma de lo que se escucha
+
+Where other people's finished things are, you see a frame to climb. You tend to be the one with a shelf of other people's ideas half-rebuilt, and an eye for what a piece was secretly reaching for. Starting from nothing is rarely the hard part, because you so often start from something.
+Prueba mostrar qué cambió entre la fuente y tu versión. Puede ayudarte a elegir qué decisiones quieres seguir explorando.
+
+You are the one people wait for. You turn up, do the thing plainly and well, and vanish again, which builds a reputation you did not plan and cannot always keep up. Whoever follows you tends to be loyal and slightly baffled, and you like it that way more than you admit.
+Una cita regular con un compañero o un público pequeño puede dar continuidad a estas prácticas.
+
+driven by full-body, gross motion
+impulsado por movimiento bruto de todo el cuerpo
+
+easy to reproduce at scale
+fácil de reproducir a escala
+
+Space people notice what rooms do to people. Layout, light, where a doorway leads: you would rather change the arrangement than the thing arranged, and a badly planned space tends to bother you.
+La gente del espacio nota lo que las habitaciones le hacen a la gente. Disposición, luz, hacia donde conduce una puerta: preferís cambiar la disposición que la cosa dispuesta, y un espacio mal planificado tiende a molestarte.
+
+centered on movement and the body
+Centrado en el movimiento y el cuerpo.
+
+understood by decoding symbolic language
+entendido decodificando el lenguaje simbólico
+
+Real discipline goes into one or two practices, and everything you make faces outward: toward a group, an audience or a tradition you are in conversation with, which you read loosely enough to bend toward your own angle. Like a field of sunflowers you all lean toward the light, no two at quite the same angle. Cut off from that audience or tradition, the work can lose its point for you. Keeping at least one live connection is what keeps the discipline pointed at something.
+Dedicas esfuerzo sostenido a unas pocas prácticas y compartes los resultados. Un grupo, un público o una tradición dan contexto al trabajo, mientras tú aportas tu propia interpretación. Mantener ese contacto puede ayudarte a elegir el siguiente proyecto.
+
+You make a room livelier: you feel the mood before anyone else and shift the whole performance a few degrees to match. You are probably better on the night than in rehearsal, and may have stopped apologizing for that. What is easy to miss is that this is a reading skill before it is a performing one, and it does not switch off when you are alone.
+Fíjate en qué cambia al responder a las personas que te rodean. Esos momentos pueden servir para la próxima sesión.
+
+the visual — composition, color, how things sit in a frame
+lo visual — composición, color y cómo se distribuyen las cosas en una imagen
+
+you are asked to show your working
+se te pide que muestres tu trabajo
+
+Your range of practices is wide, but the thread connecting them is people rather than a method. You move between groups, projects and collaborators, and the network does as much of the work as anything you make inside it, much as a honey fungus is one organism spread across a whole forest floor. In the moment you are direct and improvised rather than mapped out. Take away the collaborators, the scene or the exchange and it gets harder to locate what you are trying to do, because for you the connections are close to the substance of the work, not support for it.
+Tus prácticas te conectan con distintos grupos y colaboradores. Te mueves entre muchos campos, respondes en el momento y buscas resultados directos. Los proyectos compartidos dan continuidad al trabajo. Llevar un registro de personas y proyectos ayuda a encontrar el siguiente paso.
+
+You build out a wide set of practices with discipline, alone, following one consistent internal logic that carries from one thing to the next. New material gets read loosely enough to be bent into that same underlying structure, so the throughline is the method itself more than whatever it is applied to at the moment. Bamboo is a fair comparison: many stalks, one root system. Collaborators may find it hard to tell whether you care about the thing in front of you or the system it is an instance of, and telling them which is the quickest fix.
+Trabajas a solas en varias prácticas, con un método constante y una interpretación propia de cada material. Te interesan las conexiones entre proyectos. Al compartirlos, explica tanto la pieza concreta como la idea que la une a las demás.
+
+living systems — growth and change tracked over seasons, not sessions
+sistemas vivos — crecimiento y cambio observados a lo largo de las estaciones
+
+Sound stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that live in rhythm and tone make up a larger share than they do across the catalog.
+El sonido destaca un poco en tu lista. No es una forma de trabajar todavía, sólo una inclinación: entre las cosas que valoraste con 3 o más, las que viven en ritmo y tono constituyen una proporción mayor que en todo el catálogo.
+
+built from raw material you originate
+construido a partir de materia prima que tú mismo originas
+
+grasped through direct sensory experience
+captado a través de la experiencia sensorial directa
+
+Language people tend to narrate. Much of what you do has a beginning, a middle and an argument, and even visual work can arrive with a title and a story.
+La gente del lenguaje tiende a narrar. Mucho de lo que haces tiene un comienzo, un desarrollo y un argumento, e incluso el trabajo visual puede llegar con un título y una historia.
+
+collectives, festivals and open-door projects
+colectivos, festivales y proyectos de puertas abiertas
+
+built to be used, not just looked at
+construido para ser usado, no sólo mirado
+
+a new problem with no commitment attached
+un nuevo problema sin compromiso
+
+part of food-and-drink culture
+parte de la cultura de comida y bebida
+
+Open to chance, here unplanned results have the best chance of becoming a recognizable style.
+Abierto al azar, aquí los resultados no planificados tienen más posibilidades de convertirse en un estilo reconocible.
+
+made from organic or living material
+hecho de material orgánico o vivo
+
+a short list and the freedom to add to it
+una lista corta y la libertad de agregarle más
+
+Pteris, who works alone too but reopens finished work; Helianthus, for a night when both of you have to be seen; Physarum, for a problem that needs no plan from either of you
+Pteris, que también trabaja solo pero reabre el trabajo terminado; Helianthus, para una noche en la que hay que verlos a ambos; Physarum, para un problema que no necesita ningún plan por parte de ninguno de los dos
+
+an audience with a date on it
+una audiencia con una fecha en ella
+
+you are asked to defend one fixed reading of a piece
+se le pide que defienda una lectura fija de una pieza
+
+driven by an autonomous system you set up
+impulsado por un sistema autónomo que tú configuras
+
+Language stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones that are really about sequence and narrative make up a larger share than they do across the catalog.
+El idioma destaca un poco en tu lista. No es una forma de trabajar todavía, solo una inclinación: entre las cosas que valoraste con 3 o más, las que realmente tienen que ver con la secuencia y la narrativa representan una proporción mayor que en todo el catálogo.
+
+you are asked what you are good at, and there is no single answer
+Te preguntan en qué eres bueno y no hay una respuesta única.
+
+archival: the result persists
+archivo: el resultado persiste
+
+Movement people think by doing. You understand something once your body has been through it.
+La gente del movimiento piensa haciendo. Entiendes algo una vez que tu cuerpo ha pasado por ello.
+
+You are disciplined and public-facing, the kind of person who turns a craft into a community. You are usually the one explaining the thing to newcomers, and you are better at it because you argue with it yourself. You collect mentors, rivals and students, and the boundary between them is soft.
+Compartir una práctica puede incluir enseñar, presentar o conversar. Elige el intercambio que te anime a retomarla.
+
+you are asked to explain a plan you never made
+te piden que expliques un plan que nunca hiciste
+
+assembled by editing existing material
+ensamblado editando material existente
+
+made with hazardous or unforgiving materials
+hecho con materiales peligrosos o implacables
+
+one clear brief and long quiet stretches
+Unos tramos claros, breves y largos.
+
+the piece leaves no room to adjust as you go
+la pieza no deja espacio para ajustarse a medida que avanza
+
+purely expressive rather than functional
+puramente expresivo en lugar de funcional
+
+you are asked to use your method on something it was not built for
+se te pide que uses tu método en algo para lo que no fue creado
+
+driven by fine, precise motion
+impulsado por un movimiento fino y preciso
+
+You plan in private and land in public. Your preparation is thorough, and the fact that you rise to the occasion is what surprises people who only saw the spreadsheet. Collaborators seek you out because you are the one who actually read the brief, and probably annotated it.
+La preparación te da una base cuando llega el momento de compartir el trabajo. Reserva tiempo para ensayar con quienes participarán.
+
+Lemna, who also ranges widely; Cuscuta, for a route neither of you has taken before; Selaginella, for a long quiet stretch
+Lemna, que también se extiende ampliamente; Cuscuta, por una ruta que ninguno de ustedes ha tomado antes; Selaginella, para un largo tramo tranquilo
+
+centered on mark-making and rendering skill
+centrado en la habilidad de hacer marcas y representar
+
+You go wherever there is something to do, and you make almost any room, project or group feel like somewhere you already belonged. No format throws you: hand you an unfamiliar setup and within minutes you have bent your loose approach to fit it. The trade-off is follow-through. Nothing in how you work pulls you back once the novelty is spent, so what stays finished is usually what someone or something expects you to return to: a deadline, a person, a standing commitment.
+Te mueves entre prácticas y grupos, adaptando tu manera de trabajar. Disfrutas interpretar materiales nuevos con otras personas. Continuar puede costar cuando pasa el entusiasmo inicial. Un colaborador habitual o una fecha de entrega pueden ayudarte a terminar lo que empezaste.
+
+shaped around space and the built environment
+formado alrededor del espacio y el entorno construido
+
+everyone already knows everyone and there is nobody left to introduce
+ya todos se conocen y no queda nadie para presentar
+
+You try a wide range of things and do not stay long with most of them. Not scatter, exactly — more that you have not yet found the one that holds your attention, and the ratings say the range is real while the depth is not there yet.
+Pruebas una amplia gama de cosas y no te quedas mucho tiempo con la mayoría de ellas. No te dispersas, exactamente; es más bien que aún no has encontrado lo que te atrapa, y las valoraciones dicen que el alcance es real, mientras que la profundidad aún no ha llegado.
+
+shaped by audience participation
+moldeado por la participación de la audiencia
+
+an industry with large commercial scale
+una industria con gran escala comercial
+
+made from inert or manufactured material
+hecho de material inerte o fabricado
+
+Nature stands out a little in your list. It is not a way of working yet, just a tilt: among the things you rated 3 or higher, the ones about growing and natural systems make up a larger share than they do across the catalog.
+La naturaleza destaca un poco en tu lista. Todavía no es una forma de trabajar, solo una inclinación: entre las cosas que valoraste con 3 o más, las relacionadas con el cultivo y los sistemas naturales representan una proporción mayor que en todo el catálogo.
+
+You cover a wide range, alone, with no plan going in, taking things mostly at face value. The method resembles the slime mold you are named for: spread out, find the shortest route to something workable, keep what is useful and move on. That is not scatter, it is efficiency across a large territory. Depth and range pull against each other in you, and which one wins depends on what the problem is. A written list of what you have tried tends to make the range visible.
+Pruebas muchas prácticas a solas y encuentras el método sobre la marcha. Llevar un registro puede ayudarte a elegir cuáles retomar.
+
+nobody is expecting anything back from you
+nadie espera nada a cambio de ti
+
+you have to explain yourself to people already inside the tradition
+Tienes que explicarte a las personas que ya están dentro de la tradición.
+
+Drosera, who keeps the dates you need; Armillaria, for the network that holds after everyone goes home; Taraxacum, who lands anywhere and makes the room bigger
+Drosera, que guarda las fechas que necesitas; Armillaria, por la red que aguanta después de que todos se van a casa; Taraxacum, que aterriza en cualquier lugar y agranda la habitación.
+
+open to interpretation
+abierto a interpretación
+
+made with safe, forgiving materials
+fabricado con materiales seguros y tolerantes
+
+Accidents and unplanned turns are not corrected out of your process; they are often where the best part of the result comes from. Working this loosely is harder than it looks.
+Dejas espacio a los accidentes y a los resultados inesperados. Parte del trabajo consiste en elegir qué sorpresas conservar y cuáles volver a probar.
+
+Sensory people treat taste and smell as serious information. You are drawn to what can be cooked, worn or consumed, and suspect anything that ignores the senses of being only half finished.
+Las personas sensoriales tratan el gusto y el olfato como información seria. Te atrae lo que se puede cocinar, usar o consumir, y sospechas que cualquier cosa que ignore los sentidos está a medio terminar.
+
+a strongly gustatory medium
+un medio fuertemente gustativo
+
+a personal framework you can keep extending
+un marco personal que puedes seguir ampliando
+
+You seed yourself into every room and bloom there. You are the one asked to just help out because you will make it work, and you do, and it is fun, and three weeks later you are somewhere else with a new group who swear you have always been there.
+Antes de dejar un proyecto nuevo, elige un paso siguiente y cuándo volverás. Un compromiso pequeño puede mantener viva una buena idea.
+
+typically a solo pursuit
+típicamente una búsqueda en solitario
+
+ephemeral: the result doesn't last
+efímero: el resultado no dura
+
+one ever-growing project with room to spread
+un proyecto en constante crecimiento con espacio para expandirse
+
+rooted in language and storytelling
+arraigado en el lenguaje y la narración
+
+Helianthus, who also turns outward when the work is ready; Physarum, for the part of the plan that keeps not working; Lycopodium, for the slow accumulation behind the deadline
+Helianthus, que también se vuelve hacia afuera cuando la obra está lista; Physarum, por la parte del plan que sigue sin funcionar; Lycopodium, por la lenta acumulación detrás del plazo
+
+Ficus, for an empire to run rather than a job to finish; Armillaria, for the network that outlives the crew; Mimosa, for reading the room when a big project turns tense
+Ficus, para un imperio que dirigir en lugar de un trabajo que terminar; Armillaria, por la red que sobrevive a la tripulación; Mimosa, para leer la habitación cuando un gran proyecto se pone tenso
+
+new problems with low commitment
+Nuevos problemas con bajo compromiso.
+
+hand-controlled at every step
+controlado manualmente en cada paso
+
+the visual
+lo visual
+
+you are asked which of these is the real one
+te preguntan cuál de estos es el real
+
+Armillaria, who keeps the network you seeded; Helianthus, who will find you a stage when the drift settles; Mimosa, who reads the room you have just walked into
+Armillaria, que mantiene la red que sembraste; Helianthus, que os encontrará un escenario cuando la corriente se calme; Mimosa, que lee la habitación a la que acabas de entrar.

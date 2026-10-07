@@ -1,0 +1,293 @@
+# id  |  name  |  category   (generated from src/data/art-forms.js; 292 art forms)
+af001 | Fiction Writing | Writing & Language
+af002 | Poetry | Writing & Language
+af003 | Playwriting & Screenwriting | Writing & Language
+af004 | Nonfiction & Journalism | Writing & Language
+af005 | Invented Languages | Writing & Language
+af006 | Ciphers & Hidden Messages | Writing & Language
+af007 | Instruction Pieces | Writing & Language
+af008 | Drawing | Visual Arts
+af009 | Painting | Visual Arts
+af010 | Photography | Visual Arts
+af011 | Graphic Design | Visual Arts
+af012 | Calligraphy | Visual Arts
+af013 | Illustration | Visual Arts
+af014 | Comics | Visual Arts
+af015 | Printmaking | Visual Arts
+af016 | Botanical & Scientific Illustration | Visual Arts
+af017 | Collage | Visual Arts
+af018 | Graffiti & Street Art | Visual Arts
+af019 | Digital Painting | Visual Arts
+af020 | Hand-Drawn Animation | Visual Arts
+af021 | Sculpture | Craft & Sculpture
+af022 | Micro-Sculpture | Craft & Sculpture
+af023 | Ceramics & Pottery | Craft & Sculpture
+af024 | Woodworking | Craft & Sculpture
+af025 | Glassblowing | Craft & Sculpture
+af026 | Jewelry Making | Craft & Sculpture
+af027 | Weaving | Craft & Sculpture
+af028 | Fashion Design | Craft & Sculpture
+af029 | Sewing & Tailoring | Craft & Sculpture
+af030 | Origami | Craft & Sculpture
+af031 | Encaustic (Wax) Painting | Craft & Sculpture
+af032 | Mosaic | Craft & Sculpture
+af033 | Bookbinding | Craft & Sculpture
+af034 | Miniatures & Dioramas | Craft & Sculpture
+af035 | Creative Taxidermy | Craft & Sculpture
+af036 | Special Effects Makeup | Craft & Sculpture
+af037 | Music Composition | Music & Sound
+af038 | Playing an Instrument | Music & Sound
+af039 | Singing | Music & Sound
+af040 | Musical Improvisation | Music & Sound
+af041 | Sound Design | Music & Sound
+af042 | Mixing & Mastering | Music & Sound
+af043 | Foley Sound Effects | Music & Sound
+af044 | Beatboxing | Music & Sound
+af045 | DJing | Music & Sound
+af046 | Live Coding Music | Music & Sound
+af047 | ASMR | Music & Sound
+af048 | Conducting | Music & Sound
+af049 | Acting | Performance & Movement
+af050 | Improv Theater | Performance & Movement
+af051 | Stand-Up Comedy | Performance & Movement
+af052 | Choreography | Performance & Movement
+af053 | Dance | Performance & Movement
+af054 | Acrobatics & Tumbling | Performance & Movement
+af055 | Stage Magic | Performance & Movement
+af056 | Pro Wrestling & Stage Combat | Performance & Movement
+af057 | Puppetry | Performance & Movement
+af058 | Performance Art | Performance & Movement
+af059 | Tattooing | Performance & Movement
+af060 | Independent Filmmaking | Directing & Curating
+af061 | Directing Film & TV | Directing & Curating
+af062 | Directing Theater | Directing & Curating
+af063 | Art Direction | Directing & Curating
+af064 | Video Editing | Directing & Curating
+af065 | Color Grading | Directing & Curating
+af066 | Curating | Directing & Curating
+af067 | Video Game Design | Digital & Interactive
+af068 | Tabletop Game Design | Digital & Interactive
+af069 | Generative Art | Digital & Interactive
+af070 | Kinetic Sculpture & Automata | Digital & Interactive
+af071 | Net Art | Digital & Interactive
+af072 | Bio Art | Digital & Interactive
+af073 | Interactive Fiction | Digital & Interactive
+af074 | Product Design | Design
+af075 | UI & UX Design | Design
+af076 | Cooking | Food, Scent & Plants
+af077 | Baking & Pastry | Food, Scent & Plants
+af078 | Perfumery | Food, Scent & Plants
+af079 | Floral Design | Food, Scent & Plants
+af080 | Bonsai | Food, Scent & Plants
+af081 | Architecture | Land & Environment
+af082 | Landscape Design | Land & Environment
+af083 | Ecological Art | Land & Environment
+af084 | Land Art | Land & Environment
+af085 | Projection Mapping & Light Art | Land & Environment
+af086 | Sand & Ice Sculpture | Land & Environment
+af087 | Fireworks Design | Land & Environment
+af088 | Drone & Fountain Choreography | Land & Environment
+af089 | Social Practice Art | Conceptual & Social
+af090 | Found Object Art | Conceptual & Social
+af091 | Mail Art | Conceptual & Social
+af092 | Fictional Documents & ARGs | Conceptual & Social
+af093 | Shadow Theater | Conceptual & Social
+af094 | Paper Scroll Theater (Crankies) | Conceptual & Social
+af095 | Audio Walks | Conceptual & Social
+af096 | Field Recording & Sound Maps | Conceptual & Social
+af097 | Tactile Story Objects | Conceptual & Social
+af098 | Blackout Poetry | Conceptual & Social
+af099 | Art Conservation | Conceptual & Social
+af100 | Body Art | Performance & Movement
+af101 | Stop-Motion Animation | Visual Arts
+af102 | 3D Character Animation | Digital & Interactive
+af103 | 3D Modeling & Rendering | Digital & Interactive
+af104 | Instrument Making (Lutherie) | Craft & Sculpture
+af105 | Embroidery | Craft & Sculpture
+af106 | Furniture Design | Design
+af107 | Stained & Fused Glass | Craft & Sculpture
+af108 | Blacksmithing | Craft & Sculpture
+af109 | Papercraft | Craft & Sculpture
+af110 | Spoken Word & Rap | Performance & Movement
+af112 | Ventriloquism | Performance & Movement
+af113 | Topiary | Land & Environment
+af114 | Installation Art | Conceptual & Social
+af115 | Book Carving | Conceptual & Social
+af116 | Assemblage | Craft & Sculpture
+af117 | Cinematography | Directing & Curating
+af118 | Music Production | Music & Sound
+af119 | VJing (Live Visuals) | Digital & Interactive
+af120 | Japanese Tea Ceremony | Food, Scent & Plants
+af121 | Icon Painting | Visual Arts
+af122 | Ritual Mandala (Sand Painting) | Conceptual & Social
+af123 | Falconry | Land & Environment
+af124 | Latte Art | Food, Scent & Plants
+af125 | Brewing, Wine & Spirits | Food, Scent & Plants
+af126 | Sign Language Poetry | Performance & Movement
+af127 | Leatherworking | Craft & Sculpture
+af128 | Basket Weaving | Craft & Sculpture
+af129 | Quilting | Craft & Sculpture
+af130 | Textile Dyeing | Craft & Sculpture
+af131 | Stone Carving | Craft & Sculpture
+af132 | Enameling | Craft & Sculpture
+af133 | Sign Painting | Visual Arts
+af134 | Rigged 2D Animation | Visual Arts
+af135 | Copywriting | Writing & Language
+af136 | Literary Translation | Writing & Language
+af137 | Puzzle & Crossword Construction | Writing & Language
+af138 | Speechwriting | Writing & Language
+af139 | Concept Art | Visual Arts
+af140 | Pixel Art | Visual Arts
+af141 | Storyboarding | Visual Arts
+af142 | Caricature | Visual Arts
+af143 | Editorial Cartooning | Visual Arts
+af145 | Knitting & Crochet | Craft & Sculpture
+af146 | Macrame | Craft & Sculpture
+af147 | Beadwork | Craft & Sculpture
+af148 | Candle Making | Craft & Sculpture
+af149 | Soap Making | Craft & Sculpture
+af150 | Resin Art | Craft & Sculpture
+af151 | Metal Casting | Craft & Sculpture
+af152 | Interior Design | Design
+af153 | Type Design | Design
+af154 | Packaging Design | Design
+af155 | Motion Graphics | Design
+af156 | Costume Design | Design
+af157 | Lighting Design | Design
+af158 | Production & Set Design | Design
+af159 | AI & Machine Learning Art | Digital & Interactive
+af160 | AR/VR & Immersive Art | Digital & Interactive
+af161 | Documentary Filmmaking | Directing & Curating
+af162 | Audio Drama & Radio Play Production | Directing & Curating
+af163 | Mixology (Cocktail Craft) | Food, Scent & Plants
+af164 | Cheese Making | Food, Scent & Plants
+af165 | Fermentation & Pickling | Food, Scent & Plants
+af166 | Cake Decorating & Sugar Art | Food, Scent & Plants
+af167 | Coffee Roasting | Food, Scent & Plants
+af168 | Dry Stone Walling | Land & Environment
+af169 | Aquascaping | Land & Environment
+af170 | Terrarium & Vivarium Design | Land & Environment
+af171 | Songwriting | Music & Sound
+af172 | Sound Bath (Gong & Singing Bowl Practice) | Music & Sound
+af173 | Circuit Bending | Music & Sound
+af174 | Mime | Performance & Movement
+af175 | Parkour & Freerunning | Sport & Martial Arts
+af176 | Drag Performance | Performance & Movement
+af177 | Voice Acting | Performance & Movement
+af178 | Cosplay | Performance & Movement
+af179 | Zine Making | Conceptual & Social
+af180 | Yarn Bombing | Conceptual & Social
+af181 | Letter Writing | Writing & Language
+af182 | Freestyle & Battle Rap | Writing & Language
+af183 | Fresco Painting | Visual Arts
+af184 | Airbrush Art | Visual Arts
+af185 | Scratchboard | Visual Arts
+af186 | Glitch Art | Visual Arts
+af187 | Opera | Music & Sound
+af188 | Music Arranging & Orchestration | Music & Sound
+af189 | Chiptune & Demoscene Music | Music & Sound
+af190 | Juggling | Performance & Movement
+af191 | Contortion | Performance & Movement
+af192 | Burlesque | Performance & Movement
+af193 | Musical Theater | Performance & Movement
+af194 | Balloon Twisting | Performance & Movement
+af195 | Chocolate Making & Confectionery | Food, Scent & Plants
+af196 | Charcuterie & Butchery | Food, Scent & Plants
+af197 | Distilling | Food, Scent & Plants
+af198 | Sushi Making | Food, Scent & Plants
+af199 | Ikebana | Food, Scent & Plants
+af200 | Beekeeping | Land & Environment
+af201 | Thatching | Land & Environment
+af202 | Boatbuilding | Land & Environment
+af203 | Espalier | Land & Environment
+af204 | Karesansui (Japanese Dry Gardens) | Land & Environment
+af205 | Flameworking & Lampworking (Glass) | Craft & Sculpture
+af206 | Wood Turning | Craft & Sculpture
+af207 | Silversmithing | Craft & Sculpture
+af208 | Marquetry | Craft & Sculpture
+af209 | Spinning (Fiber) | Craft & Sculpture
+af210 | Felting | Craft & Sculpture
+af211 | Lace Making | Craft & Sculpture
+af212 | Millinery | Craft & Sculpture
+af213 | Shoemaking & Cobbling | Craft & Sculpture
+af214 | Horology (Watchmaking) | Craft & Sculpture
+af215 | Papier-Mâché | Craft & Sculpture
+af216 | Paper Marbling | Craft & Sculpture
+af217 | Paper Cutting (Kirigami & Scherenschnitte) | Craft & Sculpture
+af218 | Quilling | Craft & Sculpture
+af219 | Decoupage | Craft & Sculpture
+af220 | Pyrography | Craft & Sculpture
+af221 | Scrimshaw | Craft & Sculpture
+af222 | Gilding | Craft & Sculpture
+af223 | Wire Wrapping | Craft & Sculpture
+af224 | Chainsaw Carving | Craft & Sculpture
+af225 | Rug Hooking & Tufting | Craft & Sculpture
+af226 | Kintsugi | Craft & Sculpture
+af227 | Podcasting & Audio Storytelling | Digital & Interactive
+af228 | Data Visualization & Infographic Design | Digital & Interactive
+af229 | Guerrilla Art | Conceptual & Social
+af230 | Flash Mob Choreography | Conceptual & Social
+af231 | Brick Art (LEGO & Construction Toys) | Craft & Sculpture
+af232 | Animal Training & Handling | Land & Environment
+af233 | Visual Effects Compositing | Digital & Interactive
+af234 | Look Development (Look Dev) | Digital & Interactive
+af235 | Comedy & Humor Writing | Writing & Language
+af236 | Mandala Art | Visual Arts
+af237 | Analog Record Cutting (Lathe & Wax Cylinder) | Music & Sound
+af238 | Vinyl Cutting & Sign Craft | Craft & Sculpture
+af239 | Clothing Customization & Upcycling | Craft & Sculpture
+af240 | Aerial Arts | Performance & Movement
+af241 | Clowning | Performance & Movement
+af242 | Fire Performance & Flow Arts | Performance & Movement
+af243 | Short-Form Video & Social Content Creation | Digital & Interactive
+af250 | Flamenco | Performance & Movement
+af258 | Mesoamerican Ritual Dance | Performance & Movement
+af259 | Danza de los Voladores (Flyers' Ritual) | Performance & Movement
+af260 | Capoeira | Performance & Movement
+af261 | Artistic Swimming | Sport & Martial Arts
+af262 | Artistic Gymnastics | Sport & Martial Arts
+af263 | Rhythmic Gymnastics | Sport & Martial Arts
+af264 | Figure Skating & Ice Dance | Sport & Martial Arts
+af265 | Scat Singing | Music & Sound
+af266 | Kabuki | Performance & Movement
+af267 | Noh | Performance & Movement
+af268 | Chinese Opera | Performance & Movement
+af269 | Kathakali | Performance & Movement
+af270 | Butoh | Performance & Movement
+af271 | Commedia dell'Arte | Performance & Movement
+af272 | Ta'ziyeh (Persian Ritual Theater) | Performance & Movement
+af273 | Totem Pole & Ceremonial Carving | Craft & Sculpture
+af274 | Ritual Mask Making | Craft & Sculpture
+af275 | Sacred & Ritual Sculpture | Craft & Sculpture
+af276 | Fencing & HEMA | Sport & Martial Arts
+af277 | Skateboarding | Sport & Martial Arts
+af278 | Roller & Inline Skating | Sport & Martial Arts
+af279 | BMX Freestyle & Bike Trials | Sport & Martial Arts
+af280 | Motorcycle Stunt Riding & Freestyle Motocross | Sport & Martial Arts
+af281 | Martial Arts Forms (Kata, Taolu & Poomsae) | Sport & Martial Arts
+af282 | Tai Chi & Qigong | Sport & Martial Arts
+af283 | Grappling Arts (Judo, Jiu-Jitsu & Wrestling) | Sport & Martial Arts
+af284 | Striking Arts (Karate, Taekwondo, Muay Thai & Boxing) | Sport & Martial Arts
+af285 | Archery (Target & Kyudo) | Sport & Martial Arts
+af286 | Freestyle Snowboarding & Skiing | Sport & Martial Arts
+af287 | Surfing | Sport & Martial Arts
+af288 | Puppet & Doll Making | Craft & Sculpture
+af289 | Skateboard & Surfboard Building | Craft & Sculpture
+af290 | Custom Bicycle & Motorcycle Building | Craft & Sculpture
+af291 | Prop & Armor Making | Craft & Sculpture
+af292 | Papermaking (Handmade Paper) | Craft & Sculpture
+af293 | Lapidary & Gem Cutting | Craft & Sculpture
+af294 | Bladesmithing & Knifemaking | Craft & Sculpture
+af295 | Mechanical Puzzle & Puzzle Box Making | Craft & Sculpture
+af296 | Transportation & Vehicle Design | Design
+af297 | Cartography & Map Design | Design
+af298 | Creative Electronics & PCB Design | Digital & Interactive
+af299 | Digital Fabrication (3D Printing, Laser Cutting & CNC) | Digital & Interactive
+af300 | Creative Robotics & Animatronics | Digital & Interactive
+af301 | Escape Room & Immersive Experience Design | Digital & Interactive
+af302 | Astrophotography & Scientific Imaging | Visual Arts
+af303 | Pole Dance & Pole Sport | Performance & Movement
+af304 | Cardistry & Card Flourishes | Performance & Movement
+af305 | Oral Storytelling | Performance & Movement
+af306 | Gardening & Plant Cultivation | Food, Scent & Plants
+af307 | Worldbuilding & Lore Design | Writing & Language

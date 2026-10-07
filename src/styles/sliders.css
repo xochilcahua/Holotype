@@ -1,0 +1,116 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later
+   Copyright (C) 2026 Teo Monroy */
+
+/* THE RATING CONTROL. The slider plus its floating value pill, sized for
+both mouse and touch. */
+
+/* ---------------- Sliders ---------------- */
+.rate {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 16px;
+  margin: 0;
+  background: transparent;
+  cursor: pointer;
+  --pct: 0%;
+}
+.rate::-webkit-slider-runnable-track {
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(to right, var(--ink) var(--pct), var(--line-2) var(--pct));
+}
+.rate::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 13px;
+  height: 13px;
+  margin-top: -5px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 2px solid var(--ink);
+}
+.rate::-moz-range-track {
+  height: 3px;
+  border-radius: 2px;
+  background: var(--line-2);
+}
+.rate::-moz-range-progress {
+  height: 3px;
+  border-radius: 2px;
+  background: var(--ink);
+}
+.rate::-moz-range-thumb {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 2px solid var(--ink);
+}
+/* The input box is the slider's real hit area, and at 16px it fell short of the 24px target
+   size guidance. On touch devices grow the box to 24px and the thumb to 17px, and re-centre
+   the thumb on the unchanged 3px track, so the visual weight is identical but the grab area
+   is no longer a thin line. Pointer-coarse only, so the dense desktop grid keeps its spacing. */
+@media (pointer: coarse) {
+  .rate {
+    height: 24px;
+  }
+  .rate::-webkit-slider-thumb {
+    width: 17px;
+    height: 17px;
+    margin-top: -7px;
+  }
+  .rate::-moz-range-thumb {
+    width: 13px;
+    height: 13px;
+  }
+}
+
+/* The floating value pill: hidden until the slider is touched, then tracks the thumb so the
+   person sees the number they are about to set before they let go. */
+.rate-wrap {
+  position: relative;
+  display: block;
+  flex: 1;
+  min-width: 40px;
+}
+.rate-wrap .rate {
+  display: block;
+}
+.rate-live {
+  position: absolute;
+  bottom: 100%;
+  margin-bottom: 7px;
+  left: 0;
+  transform: translateX(-50%) translateY(4px) scale(0.9);
+  padding: 3px 8px;
+  border-radius: 7px;
+  background: var(--ink);
+  color: var(--paper);
+  font: 700 12px/1 var(--font-ui);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition:
+    opacity 0.12s ease,
+    transform 0.12s ease;
+  z-index: 3;
+}
+.rate-live::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 4px solid transparent;
+  border-top-color: var(--ink);
+}
+.rate-live.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0) scale(1);
+}
+.mastery-block .rate-live,
+.discount-row .rate-live {
+  font-size: 13px;
+  padding: 4px 9px;
+}

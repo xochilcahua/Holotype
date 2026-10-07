@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Holotype: update languages</title>
+<!-- SPDX-License-Identifier: AGPL-3.0-or-later  Copyright (C) 2026 Teo Monroy
+     Reads the language folders in copy/ and writes copy/languages.js, the file the app loads. Needs no install: open this
+     page, choose the copy folder, save the file it gives you into that folder. Same rules as tools/locales.py build. -->
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 46rem; margin: 2rem auto; padding: 0 1rem; color: #222; }
+  h1 { font-size: 1.4rem; } li { margin: .3rem 0; }
+  button, label.pick { font: inherit; padding: .6rem 1rem; border: 1px solid #555; border-radius: 6px; background: #fff; cursor: pointer; display: inline-block; }
+  button:disabled { opacity: .4; cursor: default; }
+  .ok { color: #155d2f; } .warn { color: #8a5a00; } .err { color: #a00; font-weight: 600; }
+  pre { background: #f4f2ee; padding: .8rem; overflow: auto; white-space: pre-wrap; }
+</style>
+<script src="_language-names.js"></script>
+</head>
+<body>
+<h1>Update the languages</h1>
+<ol>
+  <li>Choose the <b>copy</b> folder (the one that contains English, Español and so on).</li>
+  <li>Read the report. Anything marked in red would break the page and must be fixed first.</li>
+  <li>Press <b>Save languages.js</b> and put the file in the copy folder, replacing the old one. Reload the app.</li>
+</ol>
+<p><label class="pick">Choose the copy folder
+  <input id="pick" type="file" webkitdirectory multiple hidden></label>
+  <button id="save" disabled>Save languages.js</button></p>
+<pre id="report">Nothing chosen yet.</pre>
+<script>
+const NAMES = Object.fromEntries(Object.entries(LANGUAGE_NAMES).map(([k, v]) => [k.toLocaleLowerCase(), v]));
+const squash = (s) => s.replace(/\s+/g, " ").trim();
+const CODE = /^[A-Za-z]{2,3}(-[A-Za-z0-9]{2,8})*$/;
+let output = "";
+
+function parseText(text) {
+  const entries = {};
+  for (const block of text.replace(/\r\n/g, "\n").replace(/\ufeff/g, "").trim().split(/\n\s*\n/)) {
+    const lines = block.split("\n").filter((l) => l.trim());
+    if (!lines.length) continue;
+    const key = squash(lines[0]);
+    if (!(key in entries)) entries[key] = squash(lines.slice(1).join(" ")) || key;
+  }
+  return entries;
+}
+function parseFile(name, text) {
+  if (!name.endsWith(".json")) return parseText(text);
+  const data = JSON.parse(text), out = {};
+  for (const [k, v] of Object.entries(data)) out[squash(k)] = typeof v === "string" && v.trim() ? squash(v) : squash(k);
+  return out;
+}
+const holes = (s) => (s.match(/\{\d+\}/g) || []).sort().join();
+const tags = (s) => (s.match(/<\/?[a-zA-Z][^>]*>/g) || []).map((t) => t.replace(/\s+/g, " ")).sort().join();
+
+document.getElementById("pick").addEventListener("change", async (ev) => {
+  const files = [...ev.target.files], lines = [], built = {};
+  const byFolder = {};
+  for (const f of files) {
+    const parts = f.webkitRelativePath.split("/");           // copy/<Language>/<file>
+    if (parts.length !== 3 || parts[1].startsWith("_") || parts[1].startsWith(".")) continue;
+    (byFolder[parts[1]] ||= []).push([parts[2], f]);
+  }
+  const add = (cls, msg) => lines.push(`<span class="${cls}">${msg.replace(/&/g, "&amp;").replace(/</g, "&lt;")}</span>`);
+  if (!Object.keys(byFolder).length) add("err", "No language folders found. Choose the folder that CONTAINS English, Español ...");
+  for (const folder of Object.keys(byFolder).sort()) {
+    let meta = {};
+    const entries = {};
+    for (const [name, file] of byFolder[folder].sort((a, b) => a[0].localeCompare(b[0]))) {
+      const text = await file.text();
+      if (name === "language.txt") { for (const l of text.split("\n")) { const i = l.indexOf(":"); if (i > 0) meta[l.slice(0, i).trim().toLowerCase()] = l.slice(i + 1).trim(); } continue; }
+      if (name.startsWith("_") || !/\.(txt|md|json)$/.test(name)) continue;
+      let data;
+      try { data = parseFile(name, text); } catch (e) { add("err", `${folder}/${name}: cannot be read (${e.message})`); continue; }
+      for (const [k, v] of Object.entries(data)) if (!(k in entries) || (entries[k] === k && v !== k)) entries[k] = v;
+    }
+    let code = meta.code || NAMES[folder.toLocaleLowerCase()] || (CODE.test(folder) ? folder : null);
+    if (!code) { add("err", `${folder}: cannot tell which language this is. Add a file language.txt containing a line like  code: hi`); continue; }
+    if (/^(yes|true|1)$/i.test(meta.hidden || "")) { add("warn", `${folder}: hidden in language.txt`); continue; }
+    const strings = {};
+    for (const [k, v] of Object.entries(entries)) if (v !== k) {
+      strings[k] = v;
+      if (holes(k) !== holes(v)) add("err", `${folder}: placeholders like {0} differ from the English in: ${k.slice(0, 70)}`);
+      if (tags(k) !== tags(v)) add("err", `${folder}: <b>/<i> tags differ from the English in: ${k.slice(0, 70)}`);
+    }
+    if (!Object.keys(strings).length) { add("warn", `${folder}: nothing translated yet, so it is not offered in the menu`); continue; }
+    if (built[code]) { add("err", `${folder}: language code ${code} is already used by another folder`); continue; }
+    built[code] = { name: meta.name || (folder.toLocaleLowerCase() === code.toLocaleLowerCase() ? "" : folder), strings };
+    add("ok", `${folder} (${code}): ${Object.keys(strings).length} strings differ from the English`);
+  }
+  output = "// GENERATED by tools/locales.py build (or copy/Update-languages.html) from the folders in copy/.\n" +
+    "// DO NOT EDIT: edit the text files and rebuild. Defines HOLOTYPE_LOCALES = { code: { name, strings } }.\n" +
+    "const HOLOTYPE_LOCALES = " + JSON.stringify(built).replace(/<\//g, "<\\/") + ";\n";
+  document.getElementById("report").innerHTML = lines.join("\n");
+  document.getElementById("save").disabled = !Object.keys(built).length;
+  window.__output = output;
+});
+document.getElementById("save").addEventListener("click", () => {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([output], { type: "text/javascript" }));
+  a.download = "languages.js";
+  a.click();
+});
+</script>
+</body>
+</html>
